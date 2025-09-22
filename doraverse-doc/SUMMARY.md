@@ -27,6 +27,8 @@
   * [Deep Research](feature-list/deep-research.md)
   * [NotebookAI](feature-list/notebookai.md)
   * [Studio](feature-list/studio.md)
+  * [AI Integration](feature-list/ai-integration.md)
+  * [AI Automation](feature-list/ai-automation.md)
 
 ## Admin Workspace  <a href="#admin" id="admin"></a>
 
