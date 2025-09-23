@@ -41,13 +41,13 @@
 ***
 
 * [👤 Member Management](member-management.md)
-* [🔀 Setting](setting/README.md)
-  * [🧳 Branding Setting](setting/branding-setting/README.md)
-    * [Branding](setting/branding-setting/branding.md)
-    * [Department](setting/branding-setting/department.md)
-    * [Domain](setting/branding-setting/domain.md)
-  * [🤖 Setup AI Models](setting/setup-ai-models.md)
-  * [🚧 Setup AI Limits](setting/setup-ai-limits.md)
+* [🔀 Settings](settings/README.md)
+  * [🧳 Branding Setting](settings/branding-setting/README.md)
+    * [Branding](settings/branding-setting/branding.md)
+    * [Department](settings/branding-setting/department.md)
+    * [Domain](settings/branding-setting/domain.md)
+  * [🤖 Setup AI Models](settings/setup-ai-models.md)
+  * [🚧 Setup AI Limits](settings/setup-ai-limits.md)
 * [💳 Plans, Billing & Payment](plans-billing-and-payment.md)
 
 ## Help Center <a href="#help" id="help"></a>
