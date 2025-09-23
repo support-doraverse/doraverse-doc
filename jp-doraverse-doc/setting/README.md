@@ -1,8 +1,8 @@
-# 🔀 Setting
+# 🔀 Settings
 
-[What is Setting?](./#what-is-portal-setting)
+[What is Setting?](./#what-is-setting)s
 
-[What’s Included in Setting?](./#whats-included-in-portal-setting)
+[What’s Included in Setting?](./#whats-included-in-setting)
 
 ## What is Setting?
 
