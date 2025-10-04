@@ -33,19 +33,20 @@
 ## Admin Workspace  <a href="#admin" id="admin"></a>
 
 * [🚪 Welcome to Admin Workspace](admin/welcome-to-admin-workspace.md)
-* [📋 Dashboard](admin/dashboard/README.md)
-  * [Overview](admin/dashboard/overview.md)
-  * [User Activity Report](admin/dashboard/user-activity-report.md)
-  * [Model Usage Report](admin/dashboard/model-usage-report.md)
+* [📋 Reporting](admin/reporting/README.md)
+  * [Overview](admin/reporting/overview.md)
+  * [User Activity Report](admin/reporting/user-activity-report.md)
+  * [Model Usage Report](admin/reporting/model-usage-report.md)
 
 ***
 
 * [👤 Member Management](member-management.md)
+* [⚠️ Usage Limits](usage-limits.md)
 * [🔀 Settings](setting/README.md)
-  * [🧳 Branding Setting](setting/branding-setting/README.md)
-    * [Branding](setting/branding-setting/branding.md)
-    * [Department](setting/branding-setting/department.md)
-    * [Domain](setting/branding-setting/domain.md)
+  * [🧳 Workspace Setting](settings/workspace-setting/README.md)
+    * [Branding](settings/workspace-setting/branding.md)
+    * [Department](settings/workspace-setting/department.md)
+    * [Custom Domain](settings/workspace-setting/custom-domain.md)
   * [🤖 Setup AI Models](setting/setup-ai-models.md)
   * [🚧 Setup AI Limits](setting/setup-ai-limits.md)
 * [💳 Plans, Billing & Payment](plans-billing-and-payment.md)

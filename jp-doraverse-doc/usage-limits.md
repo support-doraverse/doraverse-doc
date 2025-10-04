@@ -2,10 +2,11 @@
 description: >-
   Control how much access the entire workspace or individual users have when
   using models.
-hidden: true
 ---
 
-# 🚧 Setup AI Limits
+# ⚠️ Usage Limits
+
+<figure><img src=".gitbook/assets/Screenshot 2025-07-11 at 10.28.28.png" alt=""><figcaption></figcaption></figure>
 
 ## How to Set Up AI Limits
 

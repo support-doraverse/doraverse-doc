@@ -1,66 +1,97 @@
 ---
-description: Easily add, manage, and organize users in your workspace — all in one place.
+description: 'Manage your workspace roster: add member, assign roles remove members.'
 ---
 
 # 👤 Member Management
 
-[Invite User Into Workspace](member-management.md#invite-member-into-workspace)
+[Add Members](member-management.md#add-members)
 
-[Change User](member-management.md#change-member-role)['s Role](member-management.md#change-member-role)
+[Change Roles](member-management.md#change-roles)
 
-[Inactive User](member-management.md#inactive-user)
+[Removing Members](member-management.md#removing-members)
 
-[Search User](member-management.md#search-user)
+[Workspace Owners Leaving](member-management.md#workspace-owners-leaving)
 
-[Department Management ](member-management.md#department-management)
+The **Member Management** tab is where you control and organize workspace members in Doraverse.\
+Navigate to: **Account → Admin → Member Management**.
 
-From the main screen, go to **Account → Admin → Member Management** tab.
+Here, you can:
 
-## Invite User Into Workspace <a href="#invite-member-into-workspace" id="invite-member-into-workspace"></a>
+* View all current members, their assigned roles, and paid seats.
+* Search the full member list by email, role, or last active time.
+* Add new members, change roles, or remove members.
 
-1. Click **Invite Members**.
-   * **Email**: Paste each email per line (press enter or command after each).
-   * **Role**: Select **Admin** or **User**.
-     * **Admin:** Full access to the Admin Workspace and permission to configure the workspace.
-     * **User:** Access to workspace features only. No access to Admin Workspace.
-   * **Department**: Assign the appropriate department.
-2. Click **Send Invite**.
+<figure><img src=".gitbook/assets/Member Management.png" alt=""><figcaption></figcaption></figure>
 
-## Change User's Role
+***
 
-1. In the member list, click the **⋮ icon** next to the member’s status.
-2. Select **Change user role**.
-3. Choose the new role and click **Update**.
+## Add Members
 
-## Inactive User
+Follow these step to bring new people into your workspace:
 
-You can set users to “Inactive” when they are no longer part of your team or company. Inactive users lose access to the workspace but their data and history are retained for security and record-keeping.
+1. Click **Add Members**.
 
-1. In the member list, click the **⋮ icon** next to the member’s status.
-2. Select **Inactive user**.
+📌 **Note:** You can only add members based on the number of available seats in your workspace.
 
-## Search User
+2. Enter details:
 
-You can quickly find and manage users in your workspace with flexible search and filter options:
+* **Email**: Add one email per line.
+* **Role**: Select one of the following:
+  * Owner – Full control of the workspace.
+  * Member – Access to Doraverse features only (no access to Admin Settings).
+  * Billing – Manage billing details only.
+  * Viewer – View-only access.
+* **Department**: Assign the department the member belongs to. Learn more in [Department](https://help.doraverse.com/jp/settings/branding-setting/department).
 
-* **Search by Email:** Type the member’s email or name in the search box to locate specific users.
-* **Filter by Role:** Click on the "Role" dropdown and select a role (e.g. Admin, User) to filter your results.
-* **Filter by Status:** Click on the "Status" dropdown and choose an activity status (e.g. Active, Inactive) to narrow the list.
+<figure><img src=".gitbook/assets/Screenshot 2025-10-04 at 22.13.29.png" alt=""><figcaption></figcaption></figure>
 
-## Department Management&#x20;
+3. Click **Add member**
 
-Allow you to organize your workspace into departments, making it easy to manage teams, assign resources, and monitor usage.
+Doraverse will email them an invitation email with the log in credentials.&#x20;
 
-### **Add a New Department**
+If they haven’t joined yet, just click **Resend** to send another invite.
 
-1. Click the **Add Department** button in the upper right corner.
-2. Enter the new department name in the dialog box that appears.
-3. Click **Save** to add the department, or **Cancel** to exit without saving.
+***
 
-Your new department will appear in the list immediately.
+## Change Roles
 
-### **Search for a Department**
+To update a member’s permissions:
 
-1. Use the **Search** bar at the top of the department list.
-2. Enter the department name you want to find.
-3. The list will automatically filter to show matching results
+* Find their name in the member list.
+* Click the Role dropdown and select the new role.
+
+<figure><img src=".gitbook/assets/Change role.png" alt=""><figcaption></figcaption></figure>
+
+📌 **Please note:** Only Workspace Owners can change roles.
+
+***
+
+## Removing Members
+
+Workspace Owners can remove members at any time:
+
+* Find the member in the list.
+* Open the Role dropdown next to their name.
+* Select **Remove from workspace**.
+
+{% hint style="info" %}
+#### Important:
+
+#### What happens when you remove a member
+
+* They lose access to the workspace immediately.
+* Their historical data (e.g., chat history, tasks, AI outputs, uploaded files, statistics) remains in the workspace, but their name is replaced with **“Deleted account”** in past activity.
+* Their email address is retained in system logs and may be archived for auditing or recovery purposes.
+* If re-invited, they will join as a **completely new member** with no link to their previous account.
+{% endhint %}
+
+***
+
+## Workspace Owners Leaving
+
+An Owner cannot leave the workspace if they are the only remaining Owner while other members are still active.
+
+If you want to leave but there are still members, you must either assign another Owner, or remove all members first.
+
+Once the last user leaves, the workspace becomes **Inactive**.\
+You’ll have a **30-day grace period** to reactivate by adding members back. After 30 days, the workspace (and its subdomain) will be permanently deleted. Lear more in our [**Term of Service**](https://doraverse.com/article/jp/term-of-service).

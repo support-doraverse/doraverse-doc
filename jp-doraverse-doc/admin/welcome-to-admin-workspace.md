@@ -6,8 +6,8 @@ Admin Workspace in Doraverse is a centralized control panel for administrators t
 
 ## What's in Admin Workspace?
 
-{% content-ref url="dashboard/" %}
-[dashboard](dashboard/)
+{% content-ref url="reporting/" %}
+[reporting](reporting/)
 {% endcontent-ref %}
 
 {% content-ref url="../member-management.md" %}
@@ -26,8 +26,8 @@ Admin Workspace in Doraverse is a centralized control panel for administrators t
 [setup-ai-limits.md](../setting/setup-ai-limits.md)
 {% endcontent-ref %}
 
-{% content-ref url="../setting/branding-setting/" %}
-[branding-setting](../setting/branding-setting/)
+{% content-ref url="../settings/workspace-setting/" %}
+[workspace-setting](../settings/workspace-setting/)
 {% endcontent-ref %}
 
 ## How to Access Admin Workspace?

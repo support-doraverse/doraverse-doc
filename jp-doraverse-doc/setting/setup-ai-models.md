@@ -1,5 +1,6 @@
 ---
 description: Assign specific AI models that best suit each department's needs.
+hidden: true
 ---
 
 # 🤖 Setup AI Models
