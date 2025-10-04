@@ -10,7 +10,7 @@ Get a real-time summary of your organization’s AI usage and spending for any s
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-### [**User Activity Report**](./#user-activity-report)
+### [**User Activity Report**](https://help.doraverse.com/jp/admin/dashboard/user-activity-report)
 
 Gain detailed insights into user engagement and usage trends across your organization.
 

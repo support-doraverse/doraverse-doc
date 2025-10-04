@@ -1,8 +1,8 @@
 ---
-description: Set up your Custom Domain on Doraverse
+description: Set up your custom domain on Doraverse
 ---
 
-# Domain
+# Custom Domain
 
 In Doraverse, you can set up a custom domain (like `ai.my-domain.com` or `work.my-domain.com`) so your workspace is easier to remember, access, and truly feels like your own.
 

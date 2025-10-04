@@ -46,7 +46,7 @@
   * [🧳 Workspace Setting](settings/workspace-setting/README.md)
     * [Branding](settings/workspace-setting/branding.md)
     * [Department](settings/workspace-setting/department.md)
-    * [Domain](settings/workspace-setting/domain.md)
+    * [Custom Domain](settings/workspace-setting/custom-domain.md)
   * [🤖 Chat Settings](settings/chat-settings.md)
 * [💳 Plans, Billing & Payment](plans-billing-and-payment.md)
 
