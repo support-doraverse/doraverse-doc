@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Troubleshooting
 
 [Common Error Messages](troubleshooting.md#common-error-messages)

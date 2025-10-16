@@ -62,6 +62,7 @@
     * [Choose AI Model Based on Your Task](help/faqs/chat-with-ai-models/choose-ai-model-based-on-your-task.md)
     * [Choose AI Model Based on Their Capabilities](help/faqs/chat-with-ai-models/choose-ai-model-based-on-their-capabilities.md)
   * [AI Agent](help/faqs/ai-agent.md)
+  * [Page](help/faqs/page.md)
 * [Troubleshooting](help/troubleshooting.md)
 
 ## Privacy & Policy <a href="#policies" id="policies"></a>
