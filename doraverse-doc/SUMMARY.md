@@ -61,6 +61,7 @@
     * [Choose AI Model Based on Your Task](help/faqs/chat-with-ai-models/choose-ai-model-based-on-your-task.md)
     * [Choose AI Model Based on Their Capabilities](help/faqs/chat-with-ai-models/choose-ai-model-based-on-their-capabilities.md)
   * [AI Agent](help/faqs/ai-agent.md)
+  * [Integration - Data Controls](help/faqs/integration-data-controls.md)
   * [Subscription](help/faqs/subscription.md)
   * [Billings & Invoice](help/faqs/billings-and-invoice.md)
 * [Troubleshooting](help/troubleshooting.md)
