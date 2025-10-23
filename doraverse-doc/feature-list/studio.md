@@ -11,7 +11,7 @@ icon: photo-film-music
 
 [Image Generation with Studio](studio.md#image-generation-with-studio)
 
-[Video Generation with Studio (Coming soon)](studio.md#video-generation-with-studio-coming-soon)
+[Video Generation with Studio](studio.md#video-generation-with-studio-coming-soon)
 
 [Audio Generation with Studio (Coming soon)](studio.md#audio-generation-with-studio-coming-soon)
 
@@ -51,8 +51,6 @@ Choose from leading AI models, preview their generation pricing:
 
 ### Step 3: Start Creating
 
-Absolutely! Here’s an engaging, user-centric Start Creating guide in fluent, industry-standard English, tailored to your content and style preferences:
-
 Type your image request directly into the chat box. Just describe what you want, and let Studio handle the rest.&#x20;
 
 Level up your results with built-in automation tools for faster, easier, and more on-point creations:
@@ -79,7 +77,7 @@ Once you’re happy with your creation, simply hover over the image and select D
 
 ### Edit Image &#x20;
 
-If you want to make further adjustments, click Edit Image to continue refining your artwork—no need to start over.&#x20;
+If you want to make further adjustments, click Edit Image to continue refining your artwork, no need to start over.&#x20;
 
 The image you want to edit will be automatically added to the upload section, ready for further customization.
 
@@ -95,7 +93,29 @@ Click on the image to easily view its detailed information. You’ll see attachm
 
 ***
 
-## Video Generation with Studio (Coming soon)
+## Video Generation with Studio
+
+Create high-quality videos, fast, right inside Doraverse Studio. We add the most advanced video models and keep them current, so what you use today is the best you can get.
+
+### What you can make
+
+* **Text → Video**: describe the scene and let the model do the magic.
+* **Image / Multi-image → Video**: animate a single look or stitch a light storyboard.
+
+📌 Note: Some models handle both text and image inputs (e.g. Veo 3, Seedance). Others are image-to-video only (e.g. Kling Pro). Peek at the model card first — capabilities and limits are clearly listed.
+
+### To generate a video **(same flow as Image Generation)**
+
+* Pick a model: Check the description card for each model’s strengths, supported formats, and cost.
+* Upload images (optional): Skip this if you’re going pure text-to-video.
+* Type your prompt.
+* Set the specs: Choose aspect ratio, size, duration, and audio (if the model exposes it).
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-10-23 at 21.35.28.png" alt=""><figcaption></figcaption></figure>
+
+You can also make a video from your Studio image by opening your image → choose **Make Video** and repeat the same flow.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-10-23 at 21.27.39.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
