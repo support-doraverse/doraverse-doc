@@ -28,7 +28,7 @@
   * [Studio](ji-neng-yi-lan/studio.md)
   * [Create Image](ji-neng-yi-lan/create-image.md)
   * [AI Integration](ji-neng-yi-lan/ai-integration.md)
-  * [AI Automation](ji-neng-yi-lan/ai-automation.md)
+  * [AI自動化](ji-neng-yi-lan/ai-zi-dong-hua.md)
 
 ## Admin Workspace  <a href="#admin" id="admin"></a>
 

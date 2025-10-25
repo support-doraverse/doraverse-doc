@@ -1,119 +1,137 @@
 ---
-description: >-
-  From simple ideas to stunning images, standout videos, and ear-catching audio
-  — skip the headaches of using design tools
+description: シンプルなアイデアから魅力的な画像、印象的な動画、心に響く音声まで——面倒なデザインツールは不要です。
 icon: photo-film-music
 ---
 
 # Studio
 
-[What is Doraverse Studio?](studio.md#what-is-doraverse-studio)
+[Doraverse Studioとは？](studio.md#what-is-doraverse-studio)
 
-[Image Generation with Studio](studio.md#image-generation-with-studio)
+[Studioで画像を生成する](studio.md#image-generation-with-studio)
 
-[Video Generation with Studio (Coming soon)](studio.md#video-generation-with-studio-coming-soon)
+[Studioで動画を生成する](studio.md#video-generation-with-studio-coming-soon)
 
-[Audio Generation with Studio (Coming soon)](studio.md#audio-generation-with-studio-coming-soon)
+[Studioで音声を生成する（近日公開）](studio.md#audio-generation-with-studio-coming-soon)
 
-[Manage Your Gallery](studio.md#manage-image-in-your-gallery)
+[ギャラリーの管理](studio.md#manage-your-gallery)
 
-## What is Doraverse Studio?
+## Doraverse Studioとは？
 
-Doraverse Studio is your all-in-one creative playground, designed for teams to bring raw ideas to life — whether you’re crafting compelling images, dynamic videos, impactful slides, or intuitive mindmaps.&#x20;
+Doraverse Studioは、チームのアイデアを形にするためのオールインワンクリエイティブ空間です。画像、動画、スライド、マインドマップなど、あらゆるコンテンツを直感的に作成できます。
 
-With a suite of powerful Generative AI tools, Studio transforms your concepts into impressive visual and multimedia assets, making creativity accessible and efficient at every stage — no more messy tabs or scattered tools.
+強力な生成AIツール群により、コンセプトを印象的なビジュアルやマルチメディアに変換。複数のタブやツールを切り替える手間なく、誰でも効率的かつ創造的に制作できます。
 
-### Why Go with Doraverse Studio?
+### Doraverse Studioを選ぶ理由
 
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Collab with World’s Leading Generative Models</strong></td><td>Put top-tier AI to work for you: GPT-Image-1, Gemini-Imagen-4, Flux Kontext Pro/Pro Max. </td></tr><tr><td><strong>10x Your Creative Workflow</strong></td><td>Deliver standout creations at lightning speed with powerful automations: auto-prompt, auto-style, auto-size.</td></tr><tr><td><strong>Less Manual Work, More Brilliant Results</strong></td><td>Generate in a chat interface that remembers your context, syncing every creation to your ideas.</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>世界トップクラスの生成AIモデルと連携</strong></td><td>「GPT-Image-1」「Gemini-Imagen-4」「Flux Kontext Pro/Pro Max」など、最先端のAIモデルを活用できます。</td></tr><tr><td><strong>クリエイティブワークフローを10倍高速化</strong></td><td>「自動プロンプト」「自動スタイル」「自動サイズ」などの自動化機能で、圧倒的なスピードと品質を両立。</td></tr><tr><td><strong>手間を減らし、成果を最大化</strong></td><td>チャット形式で直感的に生成。すべての制作物がアイデアと連携し、管理も簡単です。</td></tr></tbody></table>
 
 
 
 ***
 
-## Image Generation with Studio
+## Studioで画像を生成する
 
-### Step 1: Access Studio&#x20;
+### ステップ1：Studioにアクセス&#x20;
 
-From your Doraverse home screen, simply select Studio icon from the main menu. This will take you directly to your Studio space.
+Doraverseのホーム画面から、メインメニューの「Studio」アイコンを選択してください。すぐにStudioのワークスペースが開きます。
 
 <figure><img src="../.gitbook/assets/Studio for image.png" alt=""><figcaption></figcaption></figure>
 
-### Step 2: Choose AI Models
+### ステップ2：AIモデルを選択
 
-Choose from leading AI models, preview their generation pricing:
+主要なAIモデルから選択し、生成時の料金も事前に確認できます。
 
-* **GPT-Image-1:** Delivers vivid, accurate visuals with strong detail and natural composition, optimized for creating diverse scenes.
-* **Gemini-Imagen-4:** Excels in photorealism, advanced understanding of prompts, and produces rich, expressive images with fine nuances.
-* **Flux Kontext Pro/Pro Max:** Offers ultra-fast, high-resolution image generation with customizable styles and precise context handling.
+* **GPT-Image-1**：多様なシーンを鮮やかかつ自然に描写。細部まで高精度な画像生成が可能です。
+* **Gemini-Imagen-4**：フォトリアルな表現や高度なプロンプト理解に優れ、繊細で豊かな画像を生成します。
+* **Flux Kontext Pro/Pro Max**：超高速・高解像度の画像生成。スタイルや文脈のカスタマイズも自在です。
 
-**💡 Tips:** Try generating the same prompt across different models to compare results.
+**💡 ヒント:** 同じプロンプトで複数モデルを試し、生成結果を比較してみてください。
 
-### Step 3: Start Creating
+### ステップ3：画像を生成
 
-Absolutely! Here’s an engaging, user-centric Start Creating guide in fluent, industry-standard English, tailored to your content and style preferences:
+チャットボックスに生成したい画像の内容を入力するだけで、Studioが自動で画像を作成します。
 
-Type your image request directly into the chat box. Just describe what you want, and let Studio handle the rest.&#x20;
+さらに、内蔵の自動化ツールを活用することで、よりスピーディーかつ理想的な仕上がりが実現できます。
 
-Level up your results with built-in automation tools for faster, easier, and more on-point creations:
-
-* **Auto-prompt:** Let AI refine your request for the best possible prompt.
-* **Auto-style:** Instantly apply your preferred artistic style, like cartoon, watercolor, anime, 3D, .etc.
-* **Custom Size:** Pick the perfect image size to match your platform or purpose.
-* **Creation Quantity:** Generate up to 4 images at a time and choose your favorite.
+* **自動プロンプト**：AIが最適なプロンプトに自動調整します。
+* **自動スタイル**：カートゥーン、水彩画、アニメ、3Dなど、お好みのアートスタイルを即適用。
+* **カスタムサイズ**：用途やプラットフォームに合わせて最適な画像サイズを選択可能です。
+* **生成枚数**：一度に最大4枚まで生成し、気に入ったものを選べます。
 
 <figure><img src="../.gitbook/assets/Image generation.png" alt=""><figcaption></figcaption></figure>
 
-#### Provide more context or fine-tune your outcome?
+#### さらに詳しい情報や結果を調整したい場合
 
-Hit the "+" icon next to the chat bar and pick your option:
+チャットバー横&#x306E;**「＋」**&#x30A2;イコンをクリックし、以下のオプションから選択してください。
 
-* Upload from your computer
-* Browse in Library
+* パソコンからアップロード
+* ライブラリから選択
 
-### Download Image
+### 画像のダウンロード
 
 <figure><img src="../.gitbook/assets/Continue Edit.png" alt=""><figcaption></figcaption></figure>
 
-Once you’re happy with your creation, simply hover over the image and select Download Image to save it instantly.
+画像が完成したら、画像の上にカーソルを合わせ、「ダウンロード画像」を選択すると、すぐに保存できます。
 
-### Edit Image &#x20;
+### 画像の編集
 
-If you want to make further adjustments, click Edit Image to continue refining your artwork—no need to start over.&#x20;
+さらに編集したい場合は、「画像を編集」をクリックしてください。最初からやり直す必要はありません。
 
-The image you want to edit will be automatically added to the upload section, ready for further customization.
+編集したい画像は自動的にアップロードセクションに追加され、すぐにカスタマイズを続けられます。
 
 <figure><img src="../.gitbook/assets/Continue Editing 2.png" alt=""><figcaption></figcaption></figure>
 
-### View Image Information
+### 画像情報の表示
 
-Click on the image to easily view its detailed information. You’ll see attachments and key data such as creation time, author, dimensions, size, and file type.
+画像をクリックすると、詳細情報を簡単に確認できます。添付ファイルや作成日時、作成者、サイズ、ファイル形式などの主要データが表示されます。
 
 <figure><img src="../.gitbook/assets/Image Info.png" alt=""><figcaption></figcaption></figure>
 
-**💡 Tips**: Pay special attention to the last line. This is the AI prompt used to generate the image. It’s a helpful reference if you want to recreate, tweak, or reuse the prompt in the future.
+**💡 ヒント:** 最後の行にご注目ください。これは画像生成に使われたAIプロンプトです。再生成や調整、再利用したい場合に参考になります。
 
 ***
 
-## Video Generation with Studio (Coming soon)
+## Studioでの動画生成
+
+Doraverse Studioでは、最新の高性能ビデオモデルを使って、素早く高品質な動画を作成できます。常に最新モデルを導入しているため、いつでも最良の環境でご利用いただけます。
+
+### 作成できる動画
+
+* **テキスト → 動画**：シーンを説明するだけで、モデルが自動生成します。
+* **画像／複数画像 → 動画**：1枚の画像をアニメーション化したり、簡単なストーリーボードをつなげたりできます。
+
+📌 注意: 一部のモデル（例：Veo 3、Seedance）はテキスト・画像両方に対応しています。画像から動画のみ対応のモデル（例：Kling Pro）もあります。モデルカードで対応範囲や制限をご確認ください。
+
+#### 動画を生成する手順（画像生成と同じ流れ） <a href="#to-generate-a-video-same-flow-as-image-generation" id="to-generate-a-video-same-flow-as-image-generation"></a>
+
+* モデルを選択：各モデルの特徴、対応フォーマット、コストは説明カードでご確認ください。
+* 画像をアップロード（任意）：テキストのみで動画を作成する場合は省略できます。
+* プロンプトを入力。
+* 仕様を設定：アスペクト比、サイズ、長さ、音声（モデルが対応している場合）を選択します。
+
+![](https://help.doraverse.com/~gitbook/image?url=https%3A%2F%2F82687067-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FbDXFRztwECY7ehfFFQoP%252Fuploads%252FRrHudKzgIESvAq456egf%252FScreenshot%25202025-10-23%2520at%252021.35.28.png%3Falt%3Dmedia%26token%3D7e493552-0a07-4163-a1c7-70da73c097d9\&width=768\&dpr=4\&quality=100\&sign=44a246c5\&sv=2)
+
+Studioで作成した画像から動画を作成することもできます。画像を開き、**「ビデオを作成」**&#x3092;選択し、同じ手順を繰り返してください。
+
+![](https://help.doraverse.com/~gitbook/image?url=https%3A%2F%2F82687067-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FbDXFRztwECY7ehfFFQoP%252Fuploads%252FW6enLYgZJUWNXiYUKAcu%252FScreenshot%25202025-10-23%2520at%252021.27.39.png%3Falt%3Dmedia%26token%3D9d470c52-a855-4455-ac7d-0e8993782f49\&width=768\&dpr=4\&quality=100\&sign=a466e7e6\&sv=2)
 
 ***
 
-## Audio Generation with Studio (Coming soon)
+## Studioでの音声生成（近日公開）
 
 ***
 
-## Manage Your Gallery
+## ギャラリーの管理
 
-In the Conversation Sidebar, select Gallery— where all generated images are stored and neatly organized for quick access.&#x20;
+会話サイドバーで「ギャラリー」を選択すると、生成したすべての画像が整理されて保存されており、すぐにアクセスできます。
 
 <figure><img src="../.gitbook/assets/Gallery.png" alt=""><figcaption></figcaption></figure>
 
-Inside the Gallery, you can easily:
+ギャラリー内では、以下の操作が簡単に行えます。
 
-* Download your favorite images
-* Edit image
-* Open conversation to review the creative steps behind each artwork
-* View full screen for a detailed look
-* Delete images you no longer need
-* Image Information
+* お気に入りの画像をダウンロード
+* 画像を編集
+* 会話を開いて、各作品の制作過程を確認
+* 全画面表示で詳細をチェック
+* 不要な画像を削除
+* 画像情報の表示
