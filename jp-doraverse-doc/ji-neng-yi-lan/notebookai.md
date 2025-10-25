@@ -1,118 +1,123 @@
 ---
-description: >-
-  Turn your internal documents into instant answers, insights, and collaborative
-  knowledge .
+description: 社内ドキュメントを即座に答えやインサイトへ変換し、チームで知識を共有できる「NotebookAI」。
 icon: book-open-reader
 ---
 
 # NotebookAI
 
-## What is Doraverse NotebookAI?
+[NotebookAIとは？](notebookai.md#what-is-doraverse-notebookai)
 
-Doraverse NotebookAI is your **Digital Library for work**, designed to help you centralize, organize, and unlock insights from your internal knowledge and documents.&#x20;
+[NotebookAIを作成する](notebookai.md#create-your-notebookai)
 
-With intuitive search and intelligent analysis, NotebookAI transforms static data—like company manuals, project notes, scattered reports—into valuable insights, while ensuring absolute protection of your company’s data.
+[NotebookAIの使い方](notebookai.md#using-your-notebookai)
 
-## Create your NotebookAI
+[活用例](notebookai.md#example-use-cases)
 
-From your Doraverse home screen, simply select Notebook icon from the main menu. This will take you directly to your personal NotebookAI space.
+## NotebookAIとは？
+
+Doraverse NotebookAIは、業務のための**デジタルライブラリ**です。社内の知識やドキュメントを一元管理・整理し、インサイトを引き出すために設計されています。
+
+直感的な検索とインテリジェントな分析により、マニュアルやプロジェクトノート、分散したレポートなどの静的なデータを価値あるインサイトへ変換します。企業データの安全性も万全です。。
+
+## NotebookAIを作成する
+
+Doraverseのホーム画面で、メインメニューから「Notebook」アイコンを選択してください。ご自身の「NotebookAI」スペースが表示されます。
 
 <figure><img src="../.gitbook/assets/Notebook.png" alt=""><figcaption></figcaption></figure>
 
-To create a new notebook, click Create New Notebook.
+新しいNotebookを作成するには、「新規Notebookを作成」をクリックします。
 
-You’ll be prompted to personalize your notebooks:
+ノートブックのパーソナライズ設定が表示されます：
 
-* Set a Notebook Title
-* Choose an Icon Color for quick visual identification
+* 「Notebookタイトル」を設定
+* アイコンカラーを選択（視認性向上のため）
 
 ***
 
-## Using Your NotebookAI
+## NotebookAIの使い方
 
 <figure><img src="../.gitbook/assets/In Notebook.png" alt=""><figcaption></figcaption></figure>
 
-### Step 1: Add Your Sources
+### ステップ1：ソースを追加する
 
-A “source” refers to any document or piece of content you add to the NotebookAI, such as project reports, documents or transcripts.
+「ソース」とは、「NotebookAI」に追加するプロジェクトレポートやドキュメント、議事録などのコンテンツを指します。
 
-Each notebook can contain up to 50 sources. Supported file types include PDF, text (.txt), and Markdown.&#x20;
+各Notebookには最大50件のソースを追加できます。対応ファイル形式はPDF、テキスト（.txt）、Markdownです。
 
-#### Ways to add sources:
+#### **ソースの追加方法：**
 
-* Upload from your computer
-* Add from Google Drive\
-  If you haven’t connected your Google Drive yet, see [H**ow to connect your Google Drive to Doraverse**](https://help.doraverse.com/feature-list/chat-with-ai-models#how-to-connect-your-google-drive-to-doraverse)
-* Paste content: Copy and paste plain text and Markdown.
+* パソコンからアップロード
+* Google Driveから追加（未連携の場合は[Google Driveの接続方法](https://help.doraverse.com/feature-list/chat-with-ai-models#how-to-connect-your-google-drive-to-doraverse)をご参照ください）
+* プレーンテキストやMarkdownをコピー＆ペースト
 
-### Step 2: Chat with Your Documents
+### ステップ2：ドキュメントとチャットする
 
-Unlock knowledge with AI-powered Q\&A, following:
+AIによるQ\&Aで知識を引き出せます。手順は以下の通りです：
 
-* Select one or multiple documents from your sources to interact with.
-* Pick your preferred AI model for the conversation.
-* Type your question
-* Receive fast, reliable answers grounded in your provided information. Each answer includes clickable citations that link directly to the quoted sources, so you can use them with confidence.
+* 対話したいソースを1つまたは複数選択
+* 会話に使用するAIモデルを選択
+* 質問を入力
+* アップロード済み情報に基づいた、信頼性の高い回答を即座に取得。各回答には引用元へのリンクが付き、根拠を確認しながら活用できます。
 
 <figure><img src="../.gitbook/assets/Notebook in use.png" alt=""><figcaption></figcaption></figure>
 
-**📌 Important note:**
+**📌 注意：**
 
-* The AI only uses the materials you have uploaded. Answers do not reference external data.
-* Conversations are never stored. Each chat is private and resets with the Refresh button or when you start a new session.
+* AIはアップロードした資料のみを参照します。外部データは使用しません。
+* 会話内容は保存されません。「更新」ボタンや新規セッション開始でリセットされます。
 
-### Step 3: Save to Notes
+### ステップ3：Noteに保存する
 
-For any answer you find valuable and want to keep for future reference, simply **save it as a Note.**
+有用な回答や今後参照したい内容は、「Note」として保存できます。
 
-Notes help you collect and organize insights, making it easy to revisit findings and share with your team.
+Noteを活用することで、インサイトを整理・蓄積し、チームで共有しやすくなります。
 
-#### Managing Notes:
+#### Noteの管理
 
-* Access your saved Notes by toggling the button on the top-right of chat.
-* Review, organize, or delete Notes as you needed.
-* You can convert any Note into a full document (each Note can be converted once).
+* チャット画面右上のボタンで保存済みNoteを表示
+* Noteの確認、整理、削除が可能
+* 任意のNoteを1回だけドキュメント化できます
 
 ***
 
-## Example Use Cases
+## 活用例
 
 <details>
 
-<summary>Centralize Project Documentation for Instant Q&#x26;A</summary>
+<summary><strong>プロジェクト資料の一元管理と即時Q&#x26;A</strong></summary>
 
-Upload and organize files from every team member, ensuring everyone has access to the latest information. Easily share Notebooks and Notes to promote seamless collaboration and keep your team aligned.
+チーム全員のファイルを集約し、常に最新情報を共有。NotebookやNoteを簡単に共有し、コラボレーションを促進します。
 
 </details>
 
 <details>
 
-<summary>Summarize Documents, Notes, and Reports Effortlessly</summary>
+<summary><strong>ドキュメントやレポートの要約</strong></summary>
 
-Quickly generate concise summaries from lengthy documents, scattered notes, or complex reports. NotebookAI highlights key topics and connects related ideas, making information easy to digest and act on.
-
-</details>
-
-<details>
-
-<summary>Brainstorm, Spark Ideas, and Capture Key Insights</summary>
-
-Store brainstorming sessions, market analyses, and competitor research in NotebookAI. Leverage AI to identify emerging trends, suggest new initiatives, and surface hidden insights—transforming ideas into actionable strategies.
+長文資料や複雑なレポートも、NotebookAIが主要トピックや関連情報を抽出し、分かりやすく要約します。
 
 </details>
 
 <details>
 
-<summary>Create Professional Presentation Outlines</summary>
+<summary><strong>ブレインストーミングやインサイトの蓄積</strong></summary>
 
-Upload your source materials and let NotebookAI automatically structure them into polished presentation outlines, complete with main talking points and supporting evidence—ready for meetings, pitches, or stakeholder reviews.
+アイデア出しや市場分析、競合調査もNotebookAIで一元管理。AIがトレンドや新たな施策を提案し、戦略立案を支援します。
 
 </details>
 
 <details>
 
-<summary>Accelerate Onboarding</summary>
+<summary><strong>プレゼンテーションのアウトライン作成</strong></summary>
 
-Empower new team members with instant access to searchable company knowledge. NotebookAI enables quick understanding and analysis of internal policies and resources, speeding up integration and productivity.
+資料をアップロードするだけで、NotebookAIが要点や根拠を整理したアウトラインを自動生成。会議や提案資料作成を効率化します。
+
+</details>
+
+<details>
+
+<summary><strong>オンボーディングの加速</strong></summary>
+
+新メンバーも社内知識を即座に検索・分析でき、早期戦力化を実現します。
 
 </details>
