@@ -7,14 +7,6 @@ icon: book-open-reader
 
 # NotebookAI
 
-[What is Doraverse NotebookAI?](notebookai.md#what-is-doraverse-notebookai)
-
-[Create your NotebookAI](notebookai.md#create-your-notebookai)
-
-[Using Your NotebookAI](notebookai.md#using-your-notebookai)
-
-[Example Use Cases](notebookai.md#example-use-cases)
-
 ## What is Doraverse NotebookAI?
 
 Doraverse NotebookAI is your **Digital Library for work**, designed to help you centralize, organize, and unlock insights from your internal knowledge and documents.&#x20;

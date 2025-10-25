@@ -1,66 +1,65 @@
 ---
-description: Finding, analyzing, and delivering expert-level insights in minutes.
+description: 数分で専門家レベルのインサイトを発見・分析・提供します。
 icon: book-atlas
 ---
 
 # Deep Research
 
-[What is Doraverse's Deep Research?](deep-research.md#what-is-doraverses-deep-research)
+[Deep Researchとは](deep-research.md#what-is-doraverses-deep-research)
 
-[How to use Deep Research](deep-research.md#how-to-use-deep-research)
+[Deep Researchの使い方](deep-research.md#how-to-use-deep-research)
 
-## What is Doraverse's Deep Research?
+## Deep Researchとは?
 
-Deep Research is Doraverse’s AI-powered research assistant. It works like a dedicated research team: planning your investigation, searching across the web, and synthesizing hundreds of online sources to create a comprehensive, analyst-level report.
+Deep Researchは、DoraverseのAI搭載リサーチアシスタントです。専任のリサーチチームのように、調査計画の立案からウェブ全体の検索、数百のオンライン情報の統合までを自動で行い、網羅的かつ分析レベルのレポートを作成します。
 
-Doraverse’s Deep Research uses a modular, multi-agent workflow with **you in control** at every stage. The system combines human-in-the-loop planning, powerful search and crawling, and automated data processing to turn any topic into clear, actionable insights.
+DoraverseのDeep Researchは、モジュール型のマルチエージェントワークフローを採用し、各ステージでお客様が主導権を持てます。人間による計画（human-in-the-loop planning）、強力な検索・クロール、データ自動処理を組み合わせ、あらゆるテーマを明確で実用的なインサイトに変換します。
 
-**With Deep Research, you can:**
+**Deep Researchでできること：**
 
-* **Research much faster:** Skip the hours of manual searching and get a complete report in minutes.
-* **Gain deeper insights:** Combines web, academic, and structured data to give you the full picture.
-* **Trust every fact:** Each insight is linked to a real source you can verify instantly.
-* **Choose your format:** Receive your findings as a polished report, a podcast-style summary, or a downloadable Markdown/PDF file.
+* **調査を大幅に効率化**：手作業による検索の手間を省き、数分でレポートを取得できます。
+* **より深いインサイトを獲得**：ウェブ、学術、構造化データを組み合わせ、全体像を把握できます。
+* **すべての事実を検証可能**：各インサイトには、すぐに確認できる実際の出典がリンクされています。
+* **形式を選択可能**：仕上がったレポート、ポッドキャスト形式の要約、Markdown/PDFファイルとして受け取れます。
 
 ***
 
-## How to use Deep Research
+## Deep Researchの使い方
 
-### **Step 1: Define you topic**
+### ステップ **1:** トピックを定義
 
-* Type in your research topic or question.
-* Provide context such as regions, industries, or timeframes to help the AI focus. (Optional)&#x20;
+* 調査したいトピックや質問を入力します。
+* 地域・業界・期間などのコンテキストを追加すると、AIがより的確に調査します（任意）。
 
-Once you send it, Deep Research instantly generates a clear action plan tailored to your query.
+送信後、Deep Researchがご要望に合わせた明確なアクションプランを即時生成します。
 
 <figure><img src="../.gitbook/assets/0815.gif" alt=""><figcaption></figcaption></figure>
 
-### **Step 2: Review and edit research plan**
+### ステップ2：調査計画の確認・編集
 
-Before the AI begins, you can review the proposed research plan and adjust it to your needs.\
-You can clarify your goal and focus areas or add must-cover points. All changes can be made in natural language.
+AIによる調査計画を事前に確認し、必要に応じて調整できます。目標や重点領域の明確化、必須項目の追加も自然な日本語で編集可能です。
 
-When you’re happy with it, click **Start Research**.
+内容に納得したら「**Start Research**」をクリックしてください。
 
-### **Step 3: Review the work**
+### ステップ3：調査の進行を確認
 
-The AI handles the entire research process — searching, reviewing articles, gathering data, and preparing the report — while you focus on other tasks.
+AIが調査全体（検索、記事の精査、データ収集、レポート作成）を自動で進めます。その間、お客様は他の作業に集中できます。
 
 <figure><img src="../.gitbook/assets/Deep Research - Activities &#x26; Report.png" alt=""><figcaption></figcaption></figure>
 
-In the **Activities** tab, you can track real-time updates: which sites it visits, what it reads, the findings it uncovers, and the sources it references. You’ll always know what’s happening at each stage.
+**Activities**タブで、訪問サイト・読んだ内容・発見事項・参照元など、リアルタイムで進捗を確認できます。各ステージの状況が常に把握できます。
 
-When the process is complete, the **Report** tab delivers a expert-level report — well-structured, clearly referenced, and packed with actionable insights you can trust.
+完了後は**Report**タブで、構造化され出典明記の専門レポートを受け取れます。信頼できる実用的なインサイトが満載です。
 
-### **Step 4: Use your report**
+### ステップ4：レポートを活用
 
 <figure><img src="../.gitbook/assets/Research - H4.gif" alt=""><figcaption></figcaption></figure>
 
 
 
-* Save it to your **NotebookAI** for quick access later
-* Generate a **podcast-style audio summary**
-* Edit the report directly in Doraverse
-* Download it as **Markdown, PDF, or HTML**
+* **NotebookAI**に保存して、いつでもすぐに参照
+* **ポッドキャスト形式の音声要約**を生成
+* Doraverse上で直接レポートを編集
+* **Markdown、PDF、HTML**としてダウンロード
 
-With Deep Research in Doraverse, you’re always just one click away from the knowledge you need to move forward with confidence.
+DoraverseのDeep Researchがあれば、必要な知識にワンクリックでアクセスでき、自信を持って次の一歩を踏み出せます
