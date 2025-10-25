@@ -4,19 +4,19 @@ icon: comment-dots
 
 # AIモデルとのチャット
 
-[新しいチャットを作成](aimoderutonochatto.md#create-new-chat)
+[新しいチャットを作成](chat-with-ai-models.md#create-new-chat)
 
-[チャットするAIモデルを選択](aimoderutonochatto.md#choose-ai-model-to-chat)
+[チャットするAIモデルを選択](chat-with-ai-models.md#choose-ai-model-to-chat)
 
-[チャットツールバー](aimoderutonochatto.md#chat-toolbar)
+[チャットツールバー](chat-with-ai-models.md#chat-toolbar)
 
-[フィードバック・アクションバー](aimoderutonochatto.md#feedback-and-action-bar)
+[フィードバック・アクションバー](chat-with-ai-models.md#feedback-and-action-bar)
 
-[引用元リンク付きの出典表示](aimoderutonochatto.md#citations-with-clickable-source-links)
+[引用元リンク付きの出典表示](chat-with-ai-models.md#citations-with-clickable-source-links)
 
-[会話サイドバー](aimoderutonochatto.md#conversation-sidebar)
+[会話サイドバー](chat-with-ai-models.md#conversation-sidebar)
 
-[会話オプション：プロジェクトへ移動、名前変更、複製、アーカイブ、共有](aimoderutonochatto.md#conversation-options-three-dot-menu)
+[会話オプション：プロジェクトへ移動、名前変更、複製、アーカイブ、共有](chat-with-ai-models.md#conversation-options-three-dot-menu)
 
 ## &#x20;新しいチャットを作成
 

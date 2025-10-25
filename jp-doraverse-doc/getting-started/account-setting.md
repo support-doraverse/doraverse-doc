@@ -1,36 +1,34 @@
 ---
-description: >-
-  Easily personalize your Doraverse experience and control your workspace
-  environment.
+description: Doraverseの体験をかんたんにパーソナライズし、ワークスペース環境を自在に管理できます。
 icon: sliders-up
 ---
 
-# Account Setting
+# アカウント設定
 
-[General Setting](account-setting.md#general-setting)&#x20;
+[一般設定](account-setting.md#general-setting)
 
-[Chat Setting](account-setting.md#chat-setting)
+[チャット設定](account-setting.md#chat-setting)
 
-[Personalization ](account-setting.md#personalization)
+[パーソナライズ](account-setting.md#personalization)
 
-[Data Controls Setting](account-setting.md#data-controls)
+[データコントロール設定](account-setting.md#data-controls)
 
-[Connected Apps](account-setting.md#connected-apps)
+[連携アプリ](account-setting.md#connected-apps)
 
-Your Doraverse account settings give you full control over how you use your workspace. From customizing your workspace experience to managing privacy and connected apps, everything is designed to help you stay productive and secure.
+Doraverseのアカウント設定では、ワークスペースの使い方を自由にコントロールできます。体験のカスタマイズからプライバシー管理、連携アプリの設定まで、生産性とセキュリティの両立をサポートします。
 
-From your home screen, choose **Account -> Setting**.
+ホーム画面か&#x3089;**「アカウント」 → 「設定」**&#x3092;選択してください。
 
-## General Setting
+## 一般設定
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-29 at 16.35.15.png" alt=""><figcaption></figcaption></figure>
 
-* **Theme:** Switch between Light and Dark mode for comfortable viewing based on your environment or preference.
-* **Language:** Change the interface language for a more familiar experience.
-* **Render user messages as markdown:** Enable to display your messages with markdown formatting (useful for code, lists, and formatting).
-* **Auto-Scroll to latest message on chat open:** Turn on to automatically jump to the most recent message each time you open a chat.
-* **Hide right-most side panel:** Use this to declutter your screen if you want more focus on the main chat area.
-* **Archived chats:** Find and manage your archived conversations for better organization.
+* **テーマ**：環境や好みに合わせて、ライトモードとダークモードを切り替えることができます。
+* **言語**：インターフェースの言語を変更し、より使いやすくできます。
+* **ユーザーメッセージをMarkdownで表示する**：有効にすると、メッセージがMarkdown形式で表示されます（コードやリスト、書式設定に便利です）。
+* **チャット開始時に最新メッセージへ自動スクロール**：オンにすると、チャットを開くたびに自動的に最新メッセージへ移動します。
+* **右端のサイドパネルを非表示にします**：メインチャットエリアに集中したい場合に、画面をすっきりさせることができます。
+* **アーカイブされたチャット**：アーカイブした会話を検索・管理できます。
 
 ## Chat Setting
 

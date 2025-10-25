@@ -5,11 +5,11 @@ icon: book-open-cover
 
 # プロンプトライブラリ
 
-[プロンプトライブラリにアクセス](puronputoraiburari.md#access-prompt-library)
+[プロンプトライブラリにアクセス](prompt-library.md#access-prompt-library)
 
-[プロンプトライブラリの管理](puronputoraiburari.md#puronputoraiburarino)
+[プロンプトライブラリの管理](prompt-library.md#puronputoraiburarino)
 
-[プロンプトの分類・共有・削除](puronputoraiburari.md#categorize-share-and-delete-prompt)
+[プロンプトの分類・共有・削除](prompt-library.md#categorize-share-and-delete-prompt)
 
 ## プロンプトライブラリへのアクセス
 

@@ -6,24 +6,24 @@ description: >-
 
 # ✅ 機能一覧
 
-{% content-ref url="naaimoderu.md" %}
-[naaimoderu.md](naaimoderu.md)
+{% content-ref url="available-ai-models.md" %}
+[available-ai-models.md](available-ai-models.md)
 {% endcontent-ref %}
 
-{% content-ref url="aimoderutonochatto.md" %}
-[aimoderutonochatto.md](aimoderutonochatto.md)
+{% content-ref url="chat-with-ai-models.md" %}
+[chat-with-ai-models.md](chat-with-ai-models.md)
 {% endcontent-ref %}
 
-{% content-ref url="purojekuto.md" %}
-[purojekuto.md](purojekuto.md)
+{% content-ref url="project.md" %}
+[project.md](project.md)
 {% endcontent-ref %}
 
 {% content-ref url="../help/faqs/ai-agent.md" %}
 [ai-agent.md](../help/faqs/ai-agent.md)
 {% endcontent-ref %}
 
-{% content-ref url="puronputoraiburari.md" %}
-[puronputoraiburari.md](puronputoraiburari.md)
+{% content-ref url="prompt-library.md" %}
+[prompt-library.md](prompt-library.md)
 {% endcontent-ref %}
 
 {% content-ref url="create-image.md" %}

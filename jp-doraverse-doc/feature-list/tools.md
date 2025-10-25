@@ -5,13 +5,13 @@ icon: screwdriver-wrench
 
 # ツール
 
-[パーソナライズ](tsru.md#personalization)
+[パーソナライズ](tools.md#personalization)
 
-[検索ツール](tsru.md#search-tool)
+[検索ツール](tools.md#search-tool)
 
-[コードインタープリタ](tsru.md#code-interpreter)
+[コードインタープリタ](tools.md#code-interpreter)
 
-[キャンバス](tsru.md#canvas)
+[キャンバス](tools.md#canvas)
 
 Doraverseのチャットバーからすぐにアクセスできるこれらの強力な内蔵ツールは、AIモデルの機能をテキスト会話だけでなく幅広く拡張します。
 

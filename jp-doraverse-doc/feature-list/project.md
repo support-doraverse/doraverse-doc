@@ -5,11 +5,11 @@ icon: rectangle-history-circle-plus
 
 # プロジェクト
 
-[プロジェクトとは](purojekuto.md#what-is-project)
+[プロジェクトとは](project.md#what-is-project)
 
-[プロジェクトの作成方法](purojekuto.md#how-to-create-a-project)
+[プロジェクトの作成方法](project.md#how-to-create-a-project)
 
-[プロジェクトワークスペースの主な構成要素](purojekuto.md#key-components-of-project-workspace)
+[プロジェクトワークスペースの主な構成要素](project.md#key-components-of-project-workspace)
 
 ## プロジェクトとは
 
