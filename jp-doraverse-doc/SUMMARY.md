@@ -2,16 +2,16 @@
 
 ## User Document <a href="#user" id="user"></a>
 
-* [👋 Welcome to User Documentation](README.md)
+* [👋 ユーザードキュメントへようこそ](README.md)
 
 ***
 
-* [🚀 Getting Started](getting-started/README.md)
-  * [What is Doraverse?](getting-started/what-is-doraverse.md)
-  * [Log in to your Workspace](getting-started/log-in-to-your-workspace.md)
-  * [User Profile](getting-started/user-profile.md)
-  * [Account Setting](getting-started/account-setting.md)
-  * [Install Doraverse App](getting-started/install-doraverse-app.md)
+* [🚀 はじめに](hajimeni/README.md)
+  * [What is Doraverse?](hajimeni/what-is-doraverse.md)
+  * [Log in to your Workspace](hajimeni/log-in-to-your-workspace.md)
+  * [User Profile](hajimeni/user-profile.md)
+  * [Account Setting](hajimeni/account-setting.md)
+  * [Install Doraverse App](hajimeni/install-doraverse-app.md)
 * [✅ 機能一覧](ji-neng-yi-lan/README.md)
   * [利用可能なAIモデル](ji-neng-yi-lan/naaimoderu.md)
   * [AIモデルとのチャット](ji-neng-yi-lan/aimoderutonochatto.md)
