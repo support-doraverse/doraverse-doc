@@ -11,7 +11,7 @@
   * [ワークスペースにログインする](getting-started/log-in-to-your-workspace.md)
   * [User Profile](getting-started/user-profile.md)
   * [アカウント設定](getting-started/account-setting.md)
-  * [Install Doraverse App](getting-started/install-doraverse-app.md)
+  * [Doraverseアプリのインストール](getting-started/install-doraverse-app.md)
 * [✅ 機能一覧](feature-list/README.md)
   * [利用可能なAIモデル](feature-list/available-ai-models.md)
   * [AIモデルとのチャット](feature-list/chat-with-ai-models.md)

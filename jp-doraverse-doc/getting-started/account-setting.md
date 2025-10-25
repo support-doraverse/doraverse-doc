@@ -30,72 +30,61 @@ Doraverseのアカウント設定では、ワークスペースの使い方を�
 * **右端のサイドパネルを非表示にします**：メインチャットエリアに集中したい場合に、画面をすっきりさせることができます。
 * **アーカイブされたチャット**：アーカイブした会話を検索・管理できます。
 
-## Chat Setting
+## チャット設定
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-29 at 16.52.21 (1).png" alt=""><figcaption></figcaption></figure>
 
-* **Message Font Size:** Adjust how large the chat text appears for better readability.
-* **Chat direction:** Set the direction for your chat input
-  *   **LTR (Left-to-Right):**
+* **メッセージフォントサイズ：** チャットテキストの表示サイズを調整し、読みやすさを向上できます。
+* **チャットの方向：** チャット入力の方向を設定します。
+  * **LTR（左から右）：** 英語をはじめとする多くの言語は左から右に書かれます。Doraverseのデフォルト設定です。
+  * **RTL（右から左）：** アラビア語やヘブライ語など、一部の言語は右から左に書かれます。DoraverseはRTLにも対応しており、自然な読み書き体験を提供します。
+* **Enter を押してメッセージを送信：** 有効にすると、Enterキーを押すだけでメッセージが送信されます。無効の場合は、Enterで改行し、CTRL + ENTER または ⌘ + ENTER で送信します。
+* **チャットスペースを最大化：** この設定を切り替えると、チャットボックスが最大サイズに拡大され、会話に集中できます。
+* **ウェルカム画面でのチャット入力の中央表示：** Doraverseを開いた際、チャット入力ボックスが中央に配置され、すっきりとした見た目になります。
+* **「Thinking」ドロップダウンをデフォルトで開く：** 「Thinking」ドロップダウンを常に開いた状態にします。
+* **Code Interpreter を使用するときは常にコードを表示：** 有効にすると、Code Interpreterで実行されたコードが毎回自動的に表示され、各ステップをより明確に確認できます。
+* **メッセージ内のLaTeXを解析します：** 有効にすると、LaTeXコードが自動的に美しくレンダリングされ、数式を分かりやすく共有できます。数式表示が不要な場合やパフォーマンスを重視する場合は、無効にしてシンプルな表示にできます。
+* **下書きをローカルに保存：** 有効時、入力中のテキストや添付ファイルが自動的にローカル保存されます。ページを再読み込みしたり、別の会話に切り替えても下書きが保持されます。送信後はローカルから削除されます。
+* **一番下へスクロールボタン：** 長い会話の一番下まで素早く移動できます。
+* **バッジの状態を保存：** 有効にすると、バッジの設定が保持され、新しいチャット開始時も前回と同じ状態で始まります。無効の場合は、毎回デフォルトにリセットされます。
+* **会話中のエンドポイント切り替えを有効にする：** この設定をオンにすると、現在のチャット内でAIモデルやAgentをシームレスに切り替えられます。新しい会話を開始せずに柔軟に対応できます。
+* **デフォルトの分岐オプションを使用：** 任意のメッセージからチャットのコピー（フォーク）を作成し、元の会話を変更せずに新しい方向で続けられます。フォーク時にはDoraverseがメッセージの収集方法を選択できます：
+  * **表示中のメッセージのみ：** 選択したメッセージまでの直接経路のみを含みます。特定部分だけを分岐したい場合に最適です。
+  * **関連する分岐も含める：** その経路に関連する分岐も追加します。主な話題と関連するサイドディスカッションも含めたい場合に便利です。
+  * **ここからの全履歴を含める：** 双方向のすべての関連メッセージと分岐を収集します。完全な文脈や履歴が必要な場合に適しています。
+* **デフォルトで対象メッセージから分岐を開始：** 有効時、選択したメッセージから自動的にフォークが開始され、選択したフォークオプションに従って最新メッセージまでが含まれます。
 
-      Most languages, including English, are written from left to right. This is the default chat direction in Doraverse.
-  *   **RTL (Right-to-Left):**
-
-      Some languages, like Arabic and Hebrew, are written from right to left. Doraverse supports RTL for a seamless, natural reading and writing experience.
-* **Press Enter to send messages:** When enabled, pressing `ENTER` will send your message. When disabled, pressing Enter will add a new line, and you’ll need to press `CTRL + ENTER` / `⌘ + ENTER` to send your message.
-* **Maximize chat space:** Toggle this to instantly expand your chat box to its maximum size, allowing you to focus fully on your conversation.
-* **Center Chat Input on Welcome Screen:** This positions the chat input box in the center when you open Doraverse, create a clean look when you first open Doraverse.
-* **Always show code when using Code Interpreter:** Enable this to automatically display the code executed by Code Interpreter for every request—giving you greater visibility and control over each step.
-* **Parsing LaTeX in Messages:** Enable Parsing LaTeX in Messages to automatically turn LaTeX code into beautifully rendered mathematical equations within your chats. This helps you write and share complex math and scientific formulas with clarity—perfect for technical discussions or collaborative problem-solving.\
-  If you don’t need math formatting or want faster performance, you can disable this option to keep messages simple and speed up loading.
-* **Save drafts locally:** When enabled, the text and attachments you enter in the chat form will be automatically saved locally as drafts. These drafts will be available even if you reload the page or switch to a different conversation. \
-  Drafts are stored locally on your device and are deleted once the message is sent.
-* **Scroll to the end button:** Quickly jump to the bottom of a long conversation.
-* **Save Badges State:** Enable Save Badges State to keep your chat badges just as you set them—every new chat will start with the same badge settings as your previous chat. Disable it, and badges will reset to their default each time you start a new conversation.
-* **Enable Switching Endpoints Mid-Conversation:** Turn on this to seamlessly change the AI model or Agent you’re using within the current chat—giving you the flexibility to adapt to different needs without starting over.
-* **Use Default fork option:** lets you create a separate copy of a chat from any message, so you can continue the conversation in a new direction without changing the original conversation.\
-  When choose a fork option, you can choose how Doraverse gathers messages:
-  * **Visible messages only:** Includes just the direct path to your selected message. Use this for a focused fork that isolates a specific part of the conversation.
-  * **Include related branches:** Adds any branches connected along that path. Great when you want additional context or relevant side discussions alongside your main topic.
-  * **Include all to/from here:** Gathers all connected messages and branches in both directions. Ideal for comprehensive forks where you need the full context and all related history.
-* **Start fork from target message by default:** When this is enabled, your fork will automatically start from the message you choose and include everything up to the latest message, following the fork option you select.
-
-## Personalization&#x20;
+## パーソナライズ&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-29 at 17.05.24.png" alt=""><figcaption></figcaption></figure>
 
 
 
-The **Personalization** section allows you to make Doraverse feel more tailored to your way of working. You can set up custom instructions for the AI and enable memory so Doraverse can remember details across sessions.
+**「パーソナライズ」**&#x30BB;クションでは、Doraverseをお客様の働き方に合わせてカスタマイズできます。「カスタム指示」を設定したり、「メモリ」機能を有効にして、Doraverseがセッションをまたいで重要な情報を記憶できるようにします。
 
-* **Customization:** This lets you guide how Doraverse should respond to you. By adding custom instructions, you can tell Doraverse your preferred style, context about your work, or specific details it should always keep in mind when assisting you.\
-  To set this up, click **Customize**, fill in your instructions, and save them.
+* **カスタマイズ**：「カスタマイズ」では、Doraverseの応答スタイルや業務内容、常に考慮してほしいポイントなどをAIに伝えることができます。設定するには「カスタマイズ」をクリックし、「カスタム指示」を入力して保存してください。
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-29 at 17.06.08.png" alt=""><figcaption></figcaption></figure>
 
-* **Memory:** Doraverse can remember key details—like your name, preferences, or project goals, to make future chats more tailored and helpful. You can tell Doraverse exactly what to remember by saying things like, “Remember that thing I just have said.”\
-  Doraverse also references previous messages in your current session for context. To make sure details last for future chats, use saved memories.\
-  To use Memory:
-  * **Teach:** Just tell the AI what you want it to remember.\
-    &#xNAN;_&#x46;or example: “Remember I’m focused on marketing strategies this quarter.”_
-  * **See What’s Remembered** \
-    _For example, just ask: “What do you remember about me?” to check your saved details._
+* **メモリ**：「メモリ」では、Doraverseが名前や好み、プロジェクト目標などの重要な情報を記憶し、今後のチャットをよりパーソナライズされたものにします。記憶してほしい内容は「今言ったことを覚えておいて」などと伝えるだけで追加できます。現在のセッション内では直前のメッセージも参照します。今後のチャットでも情報を保持したい場合は、「保存された記憶を参照」や「メモリを管理」をご利用ください。
+  * **教える**：AIに覚えてほしい内容をそのまま伝えてください。例：「今四半期はマーケティング戦略に集中しています、と覚えておいてください。」
+  * **記憶内容の確認**：「私について覚えていることは？」と尋ねると、保存された記憶を参照できます。
 
-**Note:** Turn off saved memories in your settings if you don’t want Doraverse to remember details for future chats, or use **Manage memories** to review, edit, or delete saved information.
+**注記：**「保存された記憶」を今後のチャットでDoraverseに覚えてほしくない場合は、「設定」で保存をオフにしてください。または、**「メモリを管理」**&#x3092;使って、保存された情報の確認・編集・削除ができます。
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-29 at 17.06.50.png" alt=""><figcaption></figcaption></figure>
 
-## Data Controls
+## データ管理
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-29 at 17.20.30.png" alt=""><figcaption></figcaption></figure>
 
-* **Import conversations from a JSON file**: Bring in saved conversations from another file or system.
-* **Shared links (Manage)**: View and manage the links you’ve shared with others.
-* **Revoke all user provided credentials**: For security, quickly remove any credential you’ve provided for integrations.
-* **Delete TTS cache storage**: Clear the stored voice data from your device.
+* **JSONファイルから会話をインポート**：他のシステムやファイルから保存済みの会話を取り込めます。
+* **共有リンク（管理）**：他者と共有したリンクの一覧・管理ができます。
+* **すべてのユーザー提供認証情報を取り消す**：セキュリティのため、連携用に提供した認証情報を一括で削除できます。
+* **TTSキャッシュストレージを削除**：端末に保存された音声データを削除します。
 
-## Connected Apps
+## 接続済みアプリ
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-08-29 at 17.18.10.png" alt=""><figcaption></figcaption></figure>
 
-The Connected Apps section is where you find and manage external tools that you have connected to Doraverse.
+「接続済みアプリ」セクションでは、Doraverseに接続した外部ツールの一覧確認や管理ができます。
