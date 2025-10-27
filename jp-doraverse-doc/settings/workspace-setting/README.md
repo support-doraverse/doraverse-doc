@@ -1,8 +1,6 @@
 ---
-description: >-
-  Customizing your brand settings in Doraverse to ensures a professional,
-  distinctive workspace aligned with brand identity.
+description: Doraverseでブランド設定をカスタマイズすることで、ブランドアイデンティティに沿ったプロフェッショナルで独自性のあるワークスペースを実現できます。
 ---
 
-# 🧳 Branding Setting
+# 🧳 Workspace設定
 

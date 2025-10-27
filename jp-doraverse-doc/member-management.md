@@ -12,86 +12,84 @@ description: ワークスペースのメンバーを管理できます。メン�
 
 [ワークスペース所有者の退会](member-management.md#workspace-owners-leaving)
 
-The **Member Management** tab is where you control and organize workspace members in Doraverse.\
-Navigate to: **Account → Admin → Member Management**.
+「メンバー」タブでは、DoraverseのWorkspaceメンバーを管理・整理できます。
 
-Here, you can:
+ナビゲーション：**アカウント → 管理者設定 → メンバー**
 
-* View all current members, their assigned roles, and paid seats.
-* Search the full member list by email, role, or last active time.
-* Add new members, change roles, or remove members.
+ここでできること：
+
+* 現在のメンバー一覧、割り当てられたロール、有料席数を確認できます。
+* メールアドレス、ロール、最終アクティブ日時でメンバーを検索できます。
+* 新しいメンバーの招待、ロールの変更、メンバーの削除が行えます。
 
 <figure><img src=".gitbook/assets/Member Management.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-## Add Members
+## メンバーを招待
 
-Follow these step to bring new people into your workspace:
+1.  **「メンバーを招待」**&#x3092;クリックします。
 
-1. Click **Add Members**.
-
-📌 **Note:** You can only add members based on the number of available seats in your workspace.
-
-2. Enter details:
-
-* **Email**: Add one email per line.
-* **Role**: Select one of the following:
-  * Owner – Full control of the workspace.
-  * Member – Access to Doraverse features only (no access to Admin Settings).
-  * Billing – Manage billing details only.
-  * Viewer – View-only access.
-* **Department**: Assign the department the member belongs to. Learn more in [Department](https://help.doraverse.com/jp/settings/branding-setting/department).
+    📌 **注意：**&#x57;orkspaceの利用可能な席数の範囲内でのみメンバーを招待できます。
+2. 詳細を入力します：
+   * **メールアドレス**：1行につき1件入力してください。
+   * **ロール**：以下から選択できます。
+     * **所有者**：Workspaceの全権限を持ちます。
+     * **メンバー**：Doraverseの機能のみ利用可能（管理者設定へのアクセス不可）。
+     * **請求管理**：請求情報のみ管理できます。
+     * **ビュアー**：閲覧のみ可能です。
+   * **部署**：所属する部署を割り当てます。詳細は[部署設定](https://help.doraverse.com/settings/workspace-setting/department)をご参照ください。
 
 <figure><img src=".gitbook/assets/Screenshot 2025-10-04 at 22.13.29.png" alt=""><figcaption></figcaption></figure>
 
-3. Click **Add member**
+3.  **「メンバーを招待」**&#x3092;クリックします。
 
-Doraverse will email them an invitation email with the log in credentials.&#x20;
+    Doraverseから招待メールが送信され、ログイン情報が案内されます。
 
-If they haven’t joined yet, just click **Resend** to send another invite.
+    まだ参加していない場合は、**「メールを再送信」**&#x3092;クリックすると再度招待メールを送れます。
 
 ***
 
-## Change Roles
+## ロールを変更
 
-To update a member’s permissions:
+メンバーの権限を変更する手順：
 
-* Find their name in the member list.
-* Click the Role dropdown and select the new role.
+* メンバー一覧から該当者を探します。
+* 「ロール」ドロップダウンをクリックし、新しいロールを選択します。
 
 <figure><img src=".gitbook/assets/Change role.png" alt=""><figcaption></figcaption></figure>
 
-📌 **Please note:** Only Workspace Owners can change roles.
+📌 **注意**：ロールの変更はWorkspace所有者のみが行えます。
 
 ***
 
-## Removing Members
+## メンバーを削除
 
-Workspace Owners can remove members at any time:
+Workspace所有者は、いつでもメンバーを削除できます。
 
-* Find the member in the list.
-* Open the Role dropdown next to their name.
-* Select **Remove from workspace**.
+* メンバー一覧から該当者を探します。
+* 名前の横にある「ロール」ドロップダウンを開きます。
+* **「Workspaceから削除」**&#x3092;選択します。
 
 {% hint style="info" %}
 #### Important:
 
-#### What happens when you remove a member
+#### 削除時の注意点
 
-* They lose access to the workspace immediately.
-* Their historical data (e.g., chat history, tasks, AI outputs, uploaded files, statistics) remains in the workspace, but their name is replaced with **“Deleted account”** in past activity.
-* Their email address is retained in system logs and may be archived for auditing or recovery purposes.
-* If re-invited, they will join as a **completely new member** with no link to their previous account.
+* 削除されたメンバーは、即時Workspaceへのアクセス権を失います。
+* 過去のデータ（チャット履歴、タスク、AI出力、アップロードファイル、統計情報など）はWorkspace内に残りますが、履歴上の名前&#x306F;**「削除済みアカウント」**&#x306B;置き換わります。
+* メールアドレスはシステムログに保持され、監査や復元のためにアーカイブされる場合があります。
+* 再招待された場合は、以前のアカウントとは紐付かない**新規メンバー**として参加します。
 {% endhint %}
 
 ***
 
-## Workspace Owners Leaving
+## Workspace所有者の退会
 
-An Owner cannot leave the workspace if they are the only remaining Owner while other members are still active.
+他のメンバーが在籍している場合、唯一の所有者はWorkspaceを退会できません。
 
-If you want to leave but there are still members, you must either assign another Owner, or remove all members first.
+退会したい場合は、他のメンバーを所有者に割り当てるか、全メンバーを削除してください。
 
-Once the last user leaves, the workspace becomes **Inactive**.\
-You’ll have a **30-day grace period** to reactivate by adding members back. After 30 days, the workspace (and its subdomain) will be permanently deleted. Lear more in our [**Term of Service**](https://doraverse.com/article/jp/term-of-service).
+最後のユーザーが退会すると、Workspaceは**非アクティブ**となります。
+
+**30日間の猶予期間**内にメンバーを追加すれば再開できますが、30日を過ぎるとWorkspace（およびサブドメイン）は完全に削除されます。詳細は[**利用規約**](https://doraverse.com/article/gl/term-of-service)をご参照ください。

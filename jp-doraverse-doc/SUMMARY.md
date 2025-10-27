@@ -41,9 +41,9 @@
 ***
 
 * [👤 メンバー管理](member-management.md)
-* [⚠️ Usage Limits](usage-limits.md)
-* [🔀 Settings](setting/README.md)
-  * [🧳 Workspace Setting](settings/workspace-setting/README.md)
+* [⚠️ 利用制限](usage-limits.md)
+* [🔀 設定](setting/README.md)
+  * [🧳 Workspace設定](settings/workspace-setting/README.md)
     * [Branding](settings/workspace-setting/branding.md)
     * [Department](settings/workspace-setting/department.md)
     * [Custom Domain](settings/workspace-setting/custom-domain.md)

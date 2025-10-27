@@ -1,25 +1,25 @@
-# 🔀 Settings
+# 🔀 設定
 
-[What is Setting?](./#what-is-setting)s
+[設定とは？](./#what-is-setting)
 
-[What’s Included in Setting?](./#whats-included-in-setting)
+[設定に含まれる内容](./#whats-included-in-setting)
 
-## What is Setting?
+## 設定とは？
 
-Settings allow administrators to customize and manage core configurations of your AI workspace in Doraverse. These settings ensure your portal aligns with your company’s operational needs, branding and AI model preferences.
+「設定」では、管理者がDoraverseのAIワークスペースの主要な構成をカスタマイズ・管理できます。これにより、ポータルを自社の運用ニーズやブランディング、AIモデルの利用方針に合わせて最適化できます。
 
-## What’s Included in Setting?
+## 設定に含まれる内容
 
-### Brand Setting
+### ブランド設定
 
-* Upload your company logo, brand name, and tagline.
-* Adjust UI themes to match your corporate identity.
-* Set up you custom domain&#x20;
+* 会社のロゴ、ブランド名、タグラインをアップロードできます。
+* UIテーマを自社のブランドイメージに合わせて調整できます。
+* カスタムドメインの設定が可能です。
 
-### Setup AI Models
+### AIモデルの設定
 
-Enable/disable specific models for different departments to meet their needs.
+部署ごとに利用するAIモデルの有効化・無効化を切り替えられます。
 
-### Setup Limits
+### 利用制限の設定
 
-Define usage quotas for  workspace or individuals (e.g., API calls, chat interactions).
+ワークスペース全体や個人ごとに、APIコールやチャット回数などの利用上限を設定できます。
