@@ -1,39 +1,39 @@
-# Branding
+# ブランド
 
-[Brand Name](branding.md#brand-name)
+[ブランド名](branding.md#brand-name)
 
-[Tagline](branding.md#tagline)
+[タグライン](branding.md#tagline)
 
-[Description](branding.md#description)
+[説明](branding.md#description)
 
-[Logo](branding.md#logo-url)
+[ロゴ](branding.md#logo-light-mode-and-dark-mode)
 
-[Poster ](branding.md#social-media-poster-url)
+[ポスター](branding.md#poster)
 
-## Brand Name
+## ブランド名
 
-Choose a concise, clear name that represents your team or company.&#x20;
+チームや会社を表す簡潔で分かりやすい名前を設定してください。
 
-This name appears in browser tabs, SEO metadata, and throughout the application interface, so keep it simple and easy to recognize (up to 50 characters).
+この名前はブラウザのタブやSEOメタデータ、アプリケーション内の各所に表示されます。シンプルで認識しやすいもの（最大50文字）がおすすめです。
 
-## Tagline
+## タグライン
 
-Use this space for a brief, memorable phrase that complements your brand name.&#x20;
+ブランド名を補完する、短く印象的なフレーズを入力してください。
 
-It appears alongside the brand name in browser tabs and SEO metadata, helping convey what your workspace or company is about at a glance.&#x20;
+タグラインはブランド名とともにブラウザのタブやSEOメタデータに表示され、ワークスペースや会社の特徴をひと目で伝える役割を果たします。
 
-## Description
+## 説明
 
-This is the place to write a succinct overview of your brand. It’s used in SEO metadata and social media sharing cards, so try to clearly communicate your team’s mission, purpose, or core service in just a few sentences. Aim for clarity and relevance to make your workspace more discoverable and engaging.
+ブランドの概要を簡潔に記載してください。SEOメタデータやSNSシェアカードで使用されるため、チームのミッションや目的、主なサービス内容を数文で明確に伝えることが重要です。分かりやすく、関連性の高い内容にすることで、ワークスペースの発見性や魅力が高まります。
 
-## Logo (Light Mode & Dark Mode)
+## ロゴ（ライトモード・ダークモード）
 
-Upload your logo image optimized for light and dark theme backgrounds. This logo will appear on the main screen, browser tab icon, and app icon.&#x20;
+ライトテーマ・ダークテーマ両方に最適化したロゴ画像をアップロードしてください。このロゴはメイン画面やブラウザのタブアイコン、アプリのアイコンとして表示されます。
 
-The recommended size is 256 x 256 pixels to ensure it looks sharp and professional.
+推奨サイズは256×256ピクセルです。鮮明でプロフェッショナルな印象を与える画像をご用意ください。
 
-## Poster&#x20;
+## ポスター&#x20;
 
-The image will be displayed when your workspace links are shared on social media platforms.&#x20;
+ワークスペースのリンクがSNS等でシェアされた際に表示される画像です。
 
-To create the best impression, use a high-quality image sized around 2400 x 1256 pixels.&#x20;
+最適な印象を与えるため、2400×1256ピクセル程度の高品質な画像をご利用ください。

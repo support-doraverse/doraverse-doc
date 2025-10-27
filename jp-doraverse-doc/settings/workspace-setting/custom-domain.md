@@ -1,95 +1,89 @@
 ---
-description: Set up your custom domain on Doraverse
+description: Doraverseでカスタムドメインを設定する
 ---
 
-# Custom Domain
+# カスタムドメイン
 
-In Doraverse, you can set up a custom domain (like `ai.my-domain.com` or `work.my-domain.com`) so your workspace is easier to remember, access, and truly feels like your own.
+Doraverseでは、`ai.my-domain.com` や `work.my-domain.com` のようなカスタムドメインを設定できます。これにより、ワークスペースへのアクセスが簡単になり、自社専用の環境として運用できます。
 
-> 📌 Please note:
+> 📌 ご注意:
 >
-> Doraverse doesn’t sell domains or replace your current domain provider. You’ll need a domain that you already own and manage elsewhere. Doraverse simply connects your domain to your chosen custom domain.
+> Doraverseはドメインの販売や、現在ご利用中のドメインプロバイダーの代行は行いません。お客様ご自身で所有・管理しているドメインが必要です。Doraverseは、そのドメインとご指定のカスタムドメインを接続する役割のみを担います。
 
-Below is a step-by-step guide to get you up and running.
+以下に、設定手順を順を追って説明します。
 
-### Step 1: Access Your Admin Workspace
+### ステップ1：管理者ワークスペースにアクセス
 
-From your home screen, go to: Account → Admin Settings → Workspace Settings → Domain.&#x20;
+ホーム画面か&#x3089;**「アカウント」→「管理者設定」→「Workspace設定」→「ドメイン」**&#x3078;進みます。&#x20;
 
 <figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
-### Step 2: Enter Your Custom Domain
+### ステップ2：カスタムドメインを入力
 
-There are a few important rules to follow when adding your custom domain to ensure a smooth setup:
+カスタムドメインを追加する際は、スムーズな設定のために以下のルールを守ってください：
 
-* You must already own your domain (bought from domain registrars like Namecheap, GoDaddy, etc.).
-*   Include a subdomain when entering your custom domain, such as:
-
-    `wwww.my-domain.com`\
-    `work.my-domain.net`\
-    Any subdomain is fine (e.g., `chat.my-domain.com`)
+* すでに所有しているドメイン（NamecheapやGoDaddyなどで購入済み）である必要があります。
+* カスタムドメインには必ずサブドメインを含めてください（例：`www.my-domain.com`、`work.my-domain.net`、`chat.my-domain.com` など）。
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 17.19.42.png" alt=""><figcaption></figcaption></figure>
 
-In the example:&#x20;
+例:
 
-* `aidol.social` is your root domain (sometimes called your main domain)
-* `work` is the subdomain prefix — this is the part you add in front of your main domain.
+* `aidol.social` がルートドメイン（メインドメイン）
+* `work` がサブドメインのプレフィックスです（メインドメインの前に付ける部分）
 
-👉  Together, your full subdomain becomes `work.aidol.social`       &#x20;
+👉  サブドメインを含めると、`work.aidol.social` のようになります。       &#x20;
 
-> ❓Why a subdomain?
+> ❓なぜサブドメインが必要？
 >
-> Most providers require a subdomain (the part before the main domain, like “www” or “portal”) for the connection to work properly.
+> 多くのプロバイダーでは、接続を正しく行うためにサブドメイン（「www」や「portal」など、メインドメインの前に付く部分）が必要です。
 
-Click **Add Domain**. Doraverse will show you the exact DNS record you’ll need to add to your domain provider.
+**「ドメインを追加」**&#x3092;クリックすると、Doraverseがドメインプロバイダーに追加すべき正確なDNSレコード情報を表示します。
 
 <figure><img src="../../.gitbook/assets/subdomain.png" alt=""><figcaption></figcaption></figure>
 
-### Step 3: Set Up a CNAME Record with Your Domain Provider
+### ステップ3：ドメインプロバイダーでCNAMEレコードを設定
 
-* Go to your domain registrar’s dashboard (where you manage your domain). Find the settings called DNS Records or Host Records.
-* Create a CNAME record with the details provided by Doraverse:
-  * Host/Name: Copy the “Name” shown in Doraverse.
-  * Value/Points to: Copy the “Value” shown in Doraverse.
-  * TTL (Time To Live): You can leave TTL on “Automatic,” which works fine for most users. If you want your changes to update more quickly, set TTL to a low value like 5 minutes.&#x20;
+* ドメイン管理画面（DNSレコードやホストレコードの設定）にアクセスします。
+* Doraverseで表示された内容をもとにCNAMEレコードを作成してください：
+  * ホスト名/Name：Doraverseで表示された「Name」をコピー
+  * 値/Points to：Doraverseで表示された「Value」をコピー
+  * TTL（有効期間）：通常は「自動」で問題ありません。すぐに反映させたい場合は5分など短い値に設定してください。
+
+設定を保存します。DNSレコードの反映には時間がかかる場合があります。
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 17.24.22.png" alt=""><figcaption></figcaption></figure>
 
-Save your changes. DNS records might take sometime to update.
+設定を保存します。DNSレコードの反映には時間がかかる場合があります。
 
-### Step 4: Check Your Connection
+### ステップ4：接続を確認
 
-Return to the Domain setting space in Doraverse. Click **Check.**\
-If everything is set up correctly, your workspace is now live at your custom address.
+Doraverseのドメイン設定画面に戻り、**「確認」**&#x3092;クリックします。正しく設定されていれば、ワークスペースがカスタムアドレスで利用可能になります。
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 23.27.35.png" alt=""><figcaption></figcaption></figure>
 
-You can always change the custom domain later. Just repeat the setup steps carefully to update your settings.
+カスタムドメインはいつでも変更可能です。設定を変更する場合は、同じ手順を繰り返してください。
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 23.33.58.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### 💡 Tips: Fixing "Domain Name Mismatch Detected"&#x20;
+### 💡 Domain Name Mismatch Detected」エラーの対処法
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 23.01.47.png" alt=""><figcaption></figcaption></figure>
 
-If you enter this error, it means: Doraverse checked your DNS settings and found the CNAME or domain name you entered doesn't match what’s in your DNS provider’s records.
+このエラーは、DoraverseがDNS設定を確認した際、CNAMEやドメイン名がDNSプロバイダーの情報と一致しない場合に表示されます。
 
-### How to Fix:
+### 対処方法:
 
-* Double-check the domain/subdomain you typed. Make sure it matches exactly (no typos, extra spaces, or missing words). Do not include https:// or http:// (That is a link, not a domain name)
-* Ensure you have added the **CNAME record** exactly as shown by Doraverse:\
-  Type: CNAME\
-  Name/Host: Copy what’s shown (example: work)\
-  Value/Points to: Copy the full value (example: clsb31ax1.doraverse.com)
-* Don’t use your root domain (like mycompany.com) as the CNAME "Name" unless instructed.
-* Wait a few minutes and retry — sometimes DNS updates aren’t instant.
+* 入力したドメイン／サブドメインを再確認してください。スペルミスや余分なスペース、抜けがないかご確認ください。https:// や http:// は含めないでください（リンクではなく、ドメイン名のみを入力）。
+* Doraverseで表示された通りに**CNAMEレコード**を追加してください： 種類：CNAME Name/Host：表示された内容をコピー（例：work） Value/Points to：表示された値をコピー（例：[clsb31ax1.doraverse.com](http://clsb31ax1.doraverse.com/)）
+* ルートドメイン（[mycompany.com](http://mycompany.com/) など）をCNAMEの「Name」として使用しないでください（特別な指示がない限り）。
+* 数分待ってから再度お試しください。DNSの反映には時間がかかる場合があります。
 
 <details>
 
-<summary><strong>Learn more about domains</strong></summary>
+<summary>ドメインの詳細については、こちらをご覧ください。</summary>
 
 [https://www.godaddy.com/help/what-is-dns-665\
 \
