@@ -18,8 +18,8 @@ description: >-
 [project.md](project.md)
 {% endcontent-ref %}
 
-{% content-ref url="../help/faqs/ai-agent.md" %}
-[ai-agent.md](../help/faqs/ai-agent.md)
+{% content-ref url="../help-center/faqs/ai-agent.md" %}
+[ai-agent.md](../help-center/faqs/ai-agent.md)
 {% endcontent-ref %}
 
 {% content-ref url="prompt-library.md" %}

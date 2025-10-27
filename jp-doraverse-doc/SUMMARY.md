@@ -30,13 +30,13 @@
   * [AI Integration](feature-list/ai-integration.md)
   * [AI自動化](feature-list/ai-automation.md)
 
-## Admin Workspace  <a href="#admin" id="admin"></a>
+## Admin Workspace&#x20;
 
-* [🚪 Welcome to Admin Workspace](admin/welcome-to-admin-workspace.md)
-* [📋 Reporting](admin/reporting/README.md)
-  * [Overview](admin/reporting/overview.md)
-  * [User Activity Report](admin/reporting/user-activity-report.md)
-  * [Model Usage Report](admin/reporting/model-usage-report.md)
+* [🚪 Admin Workspace（管理者ワークスペース）とは？](admin-workspace/welcome-to-admin-workspace.md)
+* [📋 Reporting](admin-workspace/reporting/README.md)
+  * [Overview](admin-workspace/reporting/overview.md)
+  * [User Activity Report](admin-workspace/reporting/user-activity-report.md)
+  * [Model Usage Report](admin-workspace/reporting/model-usage-report.md)
 
 ***
 
@@ -51,19 +51,19 @@
   * [🚧 Setup AI Limits](setting/setup-ai-limits.md)
 * [💳 Plans, Billing & Payment](plans-billing-and-payment.md)
 
-## Help Center <a href="#help" id="help"></a>
+## Help Center
 
-* [Welcome to Help Center](help/welcome-to-help-center.md)
-* [FAQs](help/faqs/README.md)
-  * [On-Boarding](help/faqs/on-boarding.md)
-  * [Account & Login](help/faqs/account-and-login.md)
-  * [Privacy & Policies](help/faqs/privacy-and-policies.md)
-  * [Chat with AI Models](help/faqs/chat-with-ai-models/README.md)
-    * [Choose AI Model Based on Your Task](help/faqs/chat-with-ai-models/choose-ai-model-based-on-your-task.md)
-    * [Choose AI Model Based on Their Capabilities](help/faqs/chat-with-ai-models/choose-ai-model-based-on-their-capabilities.md)
-  * [AI Agent](help/faqs/ai-agent.md)
-  * [Integration - Data Controls](help/faqs/integration-data-controls.md)
-* [Troubleshooting](help/troubleshooting.md)
+* [Welcome to Help Center](help-center/welcome-to-help-center.md)
+* [FAQs](help-center/faqs/README.md)
+  * [On-Boarding](help-center/faqs/on-boarding.md)
+  * [Account & Login](help-center/faqs/account-and-login.md)
+  * [Privacy & Policies](help-center/faqs/privacy-and-policies.md)
+  * [Chat with AI Models](help-center/faqs/chat-with-ai-models/README.md)
+    * [Choose AI Model Based on Your Task](help-center/faqs/chat-with-ai-models/choose-ai-model-based-on-your-task.md)
+    * [Choose AI Model Based on Their Capabilities](help-center/faqs/chat-with-ai-models/choose-ai-model-based-on-their-capabilities.md)
+  * [AI Agent](help-center/faqs/ai-agent.md)
+  * [Integration - Data Controls](help-center/faqs/integration-data-controls.md)
+* [Troubleshooting](help-center/troubleshooting.md)
 
 ## Privacy & Policy <a href="#policies" id="policies"></a>
 
