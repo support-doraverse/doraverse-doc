@@ -10,7 +10,7 @@ description: >-
 
 ## How to Set Up AI Limits
 
-1. From the main screen, go to **Account → Manage → Setup AI Model**.
+1. From the main screen, go to **Account → Admin Settings → Usage Limits**
 2. Click **Edit** button in the top right to enable changing the limits.
 3. **Set Credit Limits**
 
