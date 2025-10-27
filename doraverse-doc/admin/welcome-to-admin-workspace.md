@@ -29,7 +29,7 @@ Admin Workspace in Doraverse is a centralized control panel for administrators t
 ## How to Access Admin Workspace?
 
 1. Click on **Account** in the bottom-left corner of the screen.
-2. Select **Admin**.&#x20;
+2. Select **Admin Settings**.&#x20;
 
 You’ll now see the **Admin Workspace** with multiple control tabs designed for administration.
 
