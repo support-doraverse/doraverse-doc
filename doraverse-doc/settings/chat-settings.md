@@ -6,7 +6,7 @@ description: Assign specific AI models that best suit each department's needs.
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-1. From the main screen, go to **Account → Manage → Setup AI Model**.
+1. From the main screen, go to **Account → Admin Setting → Chat → Model Management**
 2. Click **Edit** to enable editing mode.
 3. Turn the toggle **On/Off** to enable or disable AI model for **each department.**\
    View [**Doraverse’s available AI models and detailed capabilities**](https://doraverse.gitbook.io/docs/feature-list/available-ai-models) to choose the best models for your department’s unique needs.
