@@ -13,7 +13,7 @@ description: 'Manage your workspace roster: add member, assign roles remove memb
 [Workspace Owners Leaving](member-management.md#workspace-owners-leaving)
 
 The **Member Management** tab is where you control and organize workspace members in Doraverse.\
-Navigate to: **Account → Admin → Member Management**.
+Navigate to: **Account → Admin Settings → Members**
 
 Here, you can:
 
