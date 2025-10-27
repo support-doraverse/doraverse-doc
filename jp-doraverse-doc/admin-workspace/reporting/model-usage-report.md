@@ -1,30 +1,30 @@
 ---
-description: >-
-  Give you detailed insights into the usage and costs of each AI model in your
-  organization.
+description: 組織内で利用されている各AIモデルの利用状況やコストを分析し、パフォーマンスや支出の最適化に役立てます。
 ---
 
-# Model Usage Report
+# モデル使用量レポート
 
-Use this report to monitor performance, optimize spending, and guide model selection.
+このレポートを活用して、モデルごとのパフォーマンス監視、コスト最適化、モデル選定の指針としてください。
 
-## **How to Use Report by Models:**
+## モデル別レポートの使い&#x65B9;**:**
 
-1. **Filter by Time, Provider, and Model**\
-   Select your desired **Time Range**, **Provider**, and **AI Model** at the top to narrow your analysis to a specific period, source, or model.
-2. **Review Key Metrics for Each Model**\
-   The main table displays detailed metrics for every AI model in use:
+1.  **期間・プロバイダー・モデルで絞り込み**
 
-* **Model:** The name (and icon) of the AI model for easy identification.
-* **Code:** The specific model version or code.
-* **Total Messages:** The number of messages processed by each model, indicating its utilization and workload.
-* **Amount Spent:** The total cost incurred for each model, helping you track resource allocation.
-* **Cost Per Message:** The average cost per message, making it easy to compare efficiency and value across models.
+    上部のフィルターで「期間」「プロバイダー」「AIモデル」を選択し、特定の期間やソース、モデルに絞って分析できます。
+2.  **各モデルの主要指標を確認**
 
-## 💡**Tip**
+    メインテーブルでは、利用中の各AIモデルについて以下の詳細指標が表示されます。
 
-Leverage this insight to:
+    * **モデル**：AIモデル名（アイコン付きで表示）
+    * **コード**：モデルのバージョンやコード
+    * **総メッセージ数**：各モデルが処理したメッセージ数（利用量・負荷の指標）
+    * **支出額**：各モデルの利用にかかった総コスト
+    * **メッセージあたりのコスト**：1メッセージあたりの平均コストで、効率や価値を比較しやすくなります
 
-* Optimize AI usage and assign the best-suited models to each department or task.
-* Compare cost-efficiency between models to inform budgeting and resource allocation.
-* Identify which models are most used and which incur the highest costs.
+## 💡ヒント
+
+このインサイトを活用して、次のような最適化ができます。
+
+* AIの利用状況を最適化し、各部門やタスクに最適なモデルを割り当てる
+* モデルごとのコスト効率を比較し、予算策定やリソース配分の参考にする
+* 最も利用されているモデルやコストが高いモデルを特定する

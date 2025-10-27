@@ -32,15 +32,15 @@
 
 ## Admin Workspace&#x20;
 
-* [🚪 Admin Workspace（管理者ワークスペース）とは？](admin-workspace/welcome-to-admin-workspace.md)
-* [📋 Reporting](admin-workspace/reporting/README.md)
-  * [Overview](admin-workspace/reporting/overview.md)
-  * [User Activity Report](admin-workspace/reporting/user-activity-report.md)
-  * [Model Usage Report](admin-workspace/reporting/model-usage-report.md)
+* [🚪 管理者Workspaceへようこそ](admin-workspace/welcome-to-admin-workspace.md)
+* [📋 レポート](admin-workspace/reporting/README.md)
+  * [概要](admin-workspace/reporting/overview.md)
+  * [ユーザーアクティビティレポート](admin-workspace/reporting/user-activity-report.md)
+  * [モデル使用量レポート](admin-workspace/reporting/model-usage-report.md)
 
 ***
 
-* [👤 Member Management](member-management.md)
+* [👤 メンバー管理](member-management.md)
 * [⚠️ Usage Limits](usage-limits.md)
 * [🔀 Settings](setting/README.md)
   * [🧳 Workspace Setting](settings/workspace-setting/README.md)

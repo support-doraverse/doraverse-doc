@@ -1,23 +1,23 @@
-# 📋 Reporting
+# 📋 レポート
 
-Reporting tab is your central hub for monitoring and managing AI activities across your organization. It brings together all essential reports and analytics for quick, data-driven decision-making.
+「レポート」タブは、組織全体のAIアクティビティを監視・管理するための中心的なハブです。意思決定に必要な各種レポートや分析情報をまとめて確認でき、迅速かつデータドリブンな運用をサポートします。
 
-## **What’s included in the Reporting:**
+## レポートに含まれる主な内&#x5BB9;**:**
 
-### [**Overview**](https://help.doraverse.com/jp/admin/dashboard/overview)
+### [概要](overview.md)
 
-Get a real-time summary of your organization’s AI usage and spending for any selected period.
+任意の期間で、組織全体のAI利用状況とクレジット消費をリアルタイムで集計・表示します。
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-### [**User Activity Report**](https://help.doraverse.com/jp/admin/dashboard/user-activity-report)
+### [ユーザーの活動レポート](user-activity-report.md)
 
-Gain detailed insights into user engagement and usage trends across your organization.
+組織内のユーザーエンゲージメントや利用傾向を詳細に分析できます。
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-07-11 at 10.20.56.png" alt=""><figcaption></figcaption></figure>
 
-### [**Model Usage Report**](https://help.doraverse.com/jp/admin/dashboard/model-usage-report)
+### [モデル別利用レポート](model-usage-report.md)
 
-Analyze the usage and costs of each AI model to optimize performance and spending.
+各AIモデルの利用状況やコストを分析し、パフォーマンスとコスト最適化に役立てます。
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-07-11 at 10.21.59.png" alt=""><figcaption></figcaption></figure>

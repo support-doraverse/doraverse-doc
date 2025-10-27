@@ -1,26 +1,27 @@
-# User Activity Report
+# ユーザーアクティビティレポート
 
-Use this report to monitor daily activity, identify top users, and optimize resource allocation.
+このレポートを活用して、日々のアクティビティを監視し、トップユーザーを特定し、リソース配分の最適化に役立ててください。
 
-## How to Use the User Activity Report
+## ユーザーアクティビティレポートの使い方
 
-1. **Select Time Range**\
-   Start by choosing your desired time period using the date range filter. This will update the report to show data relevant to the selected period.
-2. **Analyze Daily Active Users Chart**\
-   See how many unique users are actively engaging with AI tools each day. Look for trends, spikes, or drops in activity. These may signal increased adoption, successful initiatives, or potential engagement issues.
-3. **Review User Breakdown Table**\
-   Below the chart, the report provides a ranked list of users with the following key metrics:
+1. **期間を選択**\
+   日付範囲フィルターで希望する期間を選択します。選択した期間に応じてレポート内容が更新されます。
+2. **日別アクティブユーザー数のグラフを分析**\
+   毎日どれだけのユニークユーザーがAIツールを利用しているかを確認できます。利用傾向や急増・減少のタイミングを把握し、導入効果やエンゲージメントの課題を見つけましょう。
+3.  **ユーザー別の詳細テーブルを確認**
 
-* **User**: Name of the active user.
-* **Department**: User’s department or team.
-* **Credit Used**: Total AI credits spent by the user during the selected timeframe.
-* **Total Messages**: Number of messages sent to AI Models
-* **Cost Per Message**: Average credit spend per message.
-* **Last Period**: Comparison metric with the previous period to spot changes in user behavior.
-* **Top Model**: The AI model most frequently used by each user.
+    グラフの下には、以下の主要指標でユーザーがランキング形式で表示されます。
 
-## 💡**Tips**
+    * **ユーザー**：アクティブユーザーの名前
+    * **部署**：ユーザーが所属する部署やチーム
+    * **使用済みCredit**：選択期間中に消費したAI Creditの合計
+    * **総メッセージ数**：AIモデルへの送信メッセージ数
+    * **メッセージあたりのCredit**：1メッセージあたりの平均Credit消費量
+    * **前の期間**：前回期間との比較指標
+    * **トップモデル**：各ユーザーが最も多く利用したAIモデル
 
-* Identify your most and least active users to recognize power users or provide targeted support.
-* Track credit usage and cost efficiency to optimize spending.
-* Monitor trends and compare with previous periods to evaluate the impact of training, onboarding, or process changes
+## 💡ヒント
+
+* 最もアクティブなユーザーや利用頻度の低いユーザーを特定し、パワーユーザーの把握や対象を絞ったサポートに役立てましょう。
+* Credit利用状況やコスト効率を追跡し、支出の最適化にご活用ください。
+* 利用傾向を前期間と比較し、トレーニングやオンボーディング、業務プロセスの変更効果を評価しましょう。

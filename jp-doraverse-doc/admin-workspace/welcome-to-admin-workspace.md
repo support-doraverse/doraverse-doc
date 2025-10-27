@@ -1,10 +1,10 @@
-# 🚪 Admin Workspace（管理者ワークスペース）とは？
+# 🚪 管理者Workspaceへようこそ
 
-## What is Admin Workspace?
+## 管理者Workspaceとは？
 
 Doraverseの管理者Workspaceは、Doraverse 管理者が組織内のユーザー、部署、AIモデル、利用状況を一元管理できるコントロールパネルです。管理者は、活動状況の監視、アクセス権の管理、安全かつ効率的な運用を行うことができます。
 
-## What's in Admin Workspace?
+## 管理者Workspaceとは？
 
 {% content-ref url="reporting/" %}
 [reporting](reporting/)

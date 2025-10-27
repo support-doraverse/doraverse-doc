@@ -1,111 +1,109 @@
 ---
-description: >-
-  Provide a real-time summary of your organization’s AI usage and spending for
-  any selected period.
+description: 任意の期間を指定して、組織全体のAI利用状況および「総クレジット消費」のサマリーをリアルタイムで確認できます。
 ---
 
-# Overview
+# 概要
 
-## How to Use the Overview Dashboard
+## 「概要」ダッシュボードの使い方
 
-1. **Select Time Range**
+1. **期間の選択**
 
-* Click the time range dropdown at the top right of the dashboard.
-* Choose from preset options like **Today**, **Yesterday**, **This Week**, **Last 7 Days**, **Last 30 Days**, **This Month**, or **Last Month.** For a specific period, select **Custom** and set your preferred start and end dates using the calendar.
-* Click **Apply** to update the dashboard with your chosen time range.
+* ダッシュボード右上の期間ドロップダウンをクリックします。
+* **Today**、**Yesterday**、**This Week**、**Last 7 Days**、**Last 30 Days**、**This Month**、**Last Month**などのプリセットから選択できます。特定の期間を指定する場合は**Custom**を選び、カレンダーで開始日と終了日を設定してください。
+* 「Apply」をクリックすると、選択した期間でダッシュボードが更新されます。
 
-2. **Review Key Metrics**
+2. **主要指標の確認**
 
 <details>
 
-<summary><strong>Total Credit Usage</strong></summary>
+<summary><strong>総クレジット消費</strong></summary>
 
-The total number of credits consumed within the selected timeframe.&#x20;
+選択した期間内に消費されたクレジットの合計。
 
 </details>
 
 <details>
 
-<summary>Total Active Users</summary>
+<summary><strong>アクティブユーザー数</strong></summary>
 
-The number of users actively sending at least one message during the timeframe.
-
-</details>
-
-<details>
-
-<summary><strong>Cost Per User</strong></summary>
-
-The average number of credits consumed per active user.
-
-Cost Per User = Total Credit Usage / Total Active Users
+期間内に1回以上メッセージを送信したユーザー数。
 
 </details>
 
 <details>
 
-<summary><strong>Cost Per Message</strong></summary>
+<summary><strong>ユーザーあたりのコスト</strong></summary>
 
-The average number of credits consumed per message.
+アクティブユーザー1人あたりの平均クレジット消費量。
 
-Cost Per Message: Total Credit Usage / Total Messages
-
-</details>
-
-<details>
-
-<summary><strong>Total Messages</strong></summary>
-
-The total number of completed chat turns, where each user-initiated message that receives a response from an AI model is counted as one event, within the selected timeframe.
-
-</details>
-
-3. **Analyze Charts of Credit Usage to Gain Deeper Insights**
-
-<details>
-
-<summary><strong>Credit Usage Over Time</strong></summary>
-
-A chart displaying the total credit usage by day, allowing you to monitor usage trends and detect abnormal increases.
+ユーザーあたりのコスト ＝ 総クレジット消費 ÷ アクティブユーザー数
 
 </details>
 
 <details>
 
-<summary><strong>Credit Usage by Provider</strong></summary>
+<summary><strong>メッセージあたりのクレジット</strong></summary>
 
-A chart showing the distribution of total credit usage across different providers, helping to optimize provider selection based on budget and efficiency.
+1メッセージあたりの平均クレジット消費量。
 
-</details>
-
-<details>
-
-<summary><strong>Credit Usage by Model</strong></summary>
-
-A chart displaying the allocation of total credit usage by model, supporting decisions to balance cost and effectiveness.
+メッセージあたりのクレジット ＝ 総クレジット消費 ÷ 総メッセージ数
 
 </details>
 
 <details>
 
-<summary><strong>Credit Usage by Channel</strong></summary>
+<summary><strong>総メッセージ数</strong></summary>
 
-A chart presenting total credit usage broken down by channel (e.g., Chat, Agent, Project), helping to understand user engagement by channel and evaluate each channel’s effectiveness.
+選択した期間内にAIモデルが応答したユーザー発メッセージの合計。
+
+</details>
+
+3. **クレジット消費チャートによる詳細分析**
+
+<details>
+
+<summary><strong>クレジット消費の推移</strong></summary>
+
+日ごとの総クレジット消費をグラフで表示し、利用傾向や異常値を把握できます。
 
 </details>
 
 <details>
 
-<summary><strong>Credit Usage by Department</strong></summary>
+<summary><strong>プロバイダー別クレジット消費</strong></summary>
 
-A chart showing credit usage by department for monitoring departmental consumption.
+各プロバイダーごとのクレジット消費分布をグラフで表示し、コストや効率に応じた最適なプロバイダー選択を支援します。
 
 </details>
 
 <details>
 
-<summary><strong>Credit Usage by User</strong></summary>
+<summary><strong>モデル別クレジット消費</strong></summary>
 
-A table listing total credit usage per user, helping to identify heavy users and monitor individual usage
+モデルごとのクレジット消費をグラフで表示し、コストと効果のバランスを検討できます。
+
+</details>
+
+<details>
+
+<summary><strong>チャネル別クレジット消費</strong></summary>
+
+Chat、Agent、Projectなどチャネルごとのクレジット消費をグラフで表示し、チャネルごとの利用状況や効果を評価できます。
+
+</details>
+
+<details>
+
+<summary><strong>部署別クレジット消費</strong></summary>
+
+部署ごとのクレジット消費をグラフで表示し、部門単位での利用状況を監視できます。
+
+</details>
+
+<details>
+
+<summary><strong>ユーザー別クレジット消費</strong></summary>
+
+ユーザーごとのクレジット消費を一覧で表示し、ヘビーユーザーの特定や個別利用状況の把握に役立ちます。
 
 </details>

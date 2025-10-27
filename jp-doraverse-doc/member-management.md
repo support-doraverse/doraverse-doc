@@ -1,16 +1,16 @@
 ---
-description: 'Manage your workspace roster: add member, assign roles remove members.'
+description: ワークスペースのメンバーを管理できます。メンバーの招待、ロールの割り当て、削除が可能です。
 ---
 
-# 👤 Member Management
+# 👤 メンバー管理
 
-[Add Members](member-management.md#add-members)
+[メンバーを招待](member-management.md#add-members)
 
-[Change Roles](member-management.md#change-roles)
+[ロールを変更](member-management.md#change-roles)
 
-[Removing Members](member-management.md#removing-members)
+[メンバーを削除](member-management.md#removing-members)
 
-[Workspace Owners Leaving](member-management.md#workspace-owners-leaving)
+[ワークスペース所有者の退会](member-management.md#workspace-owners-leaving)
 
 The **Member Management** tab is where you control and organize workspace members in Doraverse.\
 Navigate to: **Account → Admin → Member Management**.
