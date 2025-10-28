@@ -47,7 +47,7 @@
     * [ブランド](settings/workspace-setting/branding.md)
     * [部署](settings/workspace-setting/department.md)
     * [カスタムドメイン](settings/workspace-setting/custom-domain.md)
-    * [Page](settings/workspace-setting/page.md)
+  * [🤖 Chat 設定](settings/chat-she-ding.md)
   * [🤖 Setup AI Models](setting/setup-ai-models.md)
   * [🚧 Setup AI Limits](setting/setup-ai-limits.md)
 * [💳 Plans, Billing & Payment](plans-billing-and-payment.md)

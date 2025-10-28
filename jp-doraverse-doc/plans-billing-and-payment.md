@@ -6,203 +6,201 @@ description: >-
 
 # 💳 Plans, Billing & Payment
 
-[Plan Overview](plans-billing-and-payment.md#plan-overview)
+[プラン概要](plans-billing-and-payment.md#plan-overview)
 
-[Free Trial](plans-billing-and-payment.md#free-trial)
+[無料トライアル](plans-billing-and-payment.md#free-trial)
 
-[Seat Adjustment (Business Plan)](plans-billing-and-payment.md#seats-and-proration-business-plan)
+[シート数と日割り計算（ビジネスプラン）](plans-billing-and-payment.md#seat-adjustment-business-plan)
 
-[Types of Credit](plans-billing-and-payment.md#types-of-credit)
+[クレジットの種類](plans-billing-and-payment.md#types-of-credit)
 
-[Change Plans](plans-billing-and-payment.md#change-plans)
+[プランの変更](plans-billing-and-payment.md#change-plans)
 
-[Cancel Subscription](plans-billing-and-payment.md#cancel-subscription)
+[サブスクリプションの解約](plans-billing-and-payment.md#cancel-subscription)
 
-[Billing & Invoices](plans-billing-and-payment.md#biliings-and-invoice)
+[請求・請求書](plans-billing-and-payment.md#billing-and-invoices)
 
-## Plan Overview
+## プラン概要
 
-We offer plan options that fit how you work and who you work with:
+Doraverseでは、お客様のご利用方法やチーム構成に合わせたプランをご用意しています。
 
-* **Individuals (Starter, Pro)** — for one person; best for solo use and personal work.&#x20;
-* **Business** — best for teams and businesses; multi-seat included.
+* **個人向け（Starter、Pro）** — 1名様用。個人利用やパーソナルワークに最適です。
+* **Business** — チームや法人利用に最適。複数シートが含まれます。
 
-Every subscription includes a default number of seats and monthly credits.
+すべてのサブスクリプションには、標準のシート数と**月額クレジット**が含まれています。
 
-For the latest plan options, inclusions, and pricing, check our [**Pricing page**](https://doraverse.com/pricing).
-
-***
-
-## Free Trial
-
-Try Doraverse free for **14 days** — no credit card required.
-
-### **What’s included during the trial**
-
-* All Business plan features, **except video generation and custom domain.**
-* The **default Business seat count** so you can add teammates during the trial.
-* Free credits to explore all AI features.
-
-### How the trial works
-
-* **If you subscribe during the trial:** Your trial ends immediately. You’re charged right away and your billing cycle starts on that date. Monthly credits for your chosen plan are added immediately. Any remaining free credits stay usable until they expire.
-* **If you don’t subscribe:** The trial ends automatically after 14 days. Any remaining free credits stay usable until they expire.
+最新のプラン内容や料金については、[料金ページ](https://doraverse.com/pricing)をご確認ください。
 
 ***
 
-## Seat Adjustment (Business Plan)
+## 無料トライアル
 
-### **Included seats**
+Doraverseを14日間無料でお試しいただけます。クレジットカードは不要です。
 
-Business plan includes **5 seats** by default. Add more as your team grows in **Admin Settings → Billing → Overview → Adjust seats.**
+### トライアル期間中に利用できる内容
 
-### Increase seats
+* **ビデオ生成**と**カスタムドメイン**を除く、ビジネスプランの全機能
+* トライアル期間中にチームメンバーを追加できる**標準のビジネスシート数**
+* すべてのAI機能をお試しいただける**無料クレジット**
 
-* Additional seats are charged immediately.
-* If added mid-cycle, the seat price is prorated for the days remaining in the current billing cycle.
+### トライアルの仕組み
+
+* **トライアル期間中に登録いただいた場合** トライアルは即時終了し、すぐに課金が開始されます。この日から請求サイクルが始まり、選択したプランの**月額クレジット**が即時付与されます。未使用の**無料クレジット**は有効期限までご利用いただけます。
+* **登録いただかない場合** トライアルは14日後に自動終了します。未使用の**無料クレジット**は有効期限までご利用いただけます。
+
+***
+
+## 席数の調整（Businessプラン）
+
+### 含まれる席数
+
+「Business」プランには、既定で5席が含まれています。チームの拡大に合わせて、管理者設定の「請求」→「概要」→「席数を調整」から追加できます。
+
+### 席数を増やす場合
+
+* 追加した席は即時課金されます。
+* サイクル途中で追加した場合、残り日数分の料金が日割り（プロレート）で請求されます。
 
 <details>
 
-<summary><strong>What is a Prorated Charge?</strong></summary>
+<summary><strong>プロレート課金とは？</strong></summary>
 
-A prorated charge means you pay only for the portion of the billing cycle that the extra seat was in use.&#x20;
+プロレート課金とは、追加席を利用した期間分のみ料金が発生する仕組みです。
 
-For example, if you add a seat halfway through the month, you are charged only for those remaining days, not the full month.
+例：月の途中で席を追加した場合、残り日数分のみ課金され、1か月分全額は請求されません。
 
 </details>
 
-* Each extra seat adds **Additional Seat Credits** to your monthly total. Credits are granted in full after payment — even mid-cycle.
+* 追加した席ごとに「追加席クレジット」が月次合計に加算されます。クレジットは支払い完了後、サイクル途中でも全額付与されます。
 
-> **Monthly credits = Default monthly credits + Σ(Additional Seat Credits)**
+> <mark style="color:$info;">**月次クレジット ＝ 既定の月次クレジット ＋ Σ（追加席クレジット）**</mark>
 
 <details>
 
-<summary>Calculation example</summary>
+<summary><strong>計算例</strong></summary>
 
-**Business plan includes:** 5 seats and 50,000 default monthly credits
+**Businessプランに含まれる内容**： 5席、50,000クレジット／月
 
 \
-**Seat add-on terms:**&#x20;
+**追加席の条件:**&#x20;
 
-* $30 per additional seat / month
-* 10,000 credits per additional seat / month
+* 追加席1席あたり月額\\$30
+* 追加席1席あたり月10,000クレジット
 
-**Billing day:** 30th of each month
+**請求日：** 毎月30日
 
-**Jul 10:** You add **3 seats** (days remaining in cycle: **21/30**)
+**7月10日：** 3席追加（サイクル残り日数：**21/30**）
 
-* Prorated charge (charged immediately): `3 × $30 × 21/30 = $63`
-* Additional Seat Credits (granted in full, not prorated): `3 × 10,000 = 30,000 credits`
+* **プロレート課金（即時請求）：** `3 × $30 × 21/30 ＝ $63`
+* **追加席クレジット（全額付与）：** `3 × 10,000 ＝ 30,000 Credits`
 
-**Next renewal (Jul 30)**
+**次回更新（7月30日）**
 
-* **Workspace total seats:** `5 (included) + 3 (added) = 8 seats`
-* **Monthly charges:**
-  * Base Business subscription (includes 5 seats): **$200/month**
-  * 3 additional seats × $30: **$90/month**
-  * **Total monthly seat charges:** **$290/month** _(taxes may apply)_
-* **Monthly credits:** `50,000 + (3 × 10,000) = 80,000 credits/month`
+* **ワークスペース合計席数：** `5（既定）＋3（追加）＝8席`
+* **月額請求：**
+  * Businessプラン基本料金（5席含む）：**$200／月**
+  * 追加3席 × $30：**$90／月**
+  * **合計月額席料金：$290／月**（税別）
+* **月次Credit：** `50,000 ＋（3 × 10,000）＝ 80,000 Credit／月`
 
 </details>
 
-### Decrease seats vs. remove members
+### シート数の削減とメンバー削除の違い
 
-* Removing a member does not reduce your paid seat count. The seat remains **available to reassign** until the end of the current cycle.
-* To decrease seats, update the seat quantity in **Billing → Adjust seats**. The change is scheduled for your next renewal. No refunds for the current cycle.
-
-***
-
-## Types of Credit
-
-Doraverse uses three credit types. They are used in this order: **Free credit → Monthly credit → Prepaid credit**.
-
-### **Free Credit**
-
-* Earned via Doraverse's promotions: trials, referrals or exclusive campaigns.
-* Has an expiration (see in **Billing**).
-
-### **Monthly Credit**
-
-* Included with your subscription plan.
-* Reset at the start of each billing cycle. Unused monthly credits don’t roll over.
-
-### **Prepaid Credit**
-
-* Purchased via one-time top-ups.
-* Stay available as long as the workspace exists.
-* Non-refundable.
-
-### When credits run out
-
-If your workspace runs out of credits, AI features become unavailable. Access resumes when your monthly credits reset at the start of the next billing cycle **or** when you top up with Prepaid credits.
-
-Don’t worry — we’ll email you when your credits are running low so you have time to top up before anything pauses.
+* メンバーを削除しても、支払い済みのシート数は減りません。削除したシートは、現在のサイクル終了まで**再割り当て可能**な状態で残ります。
+* シート数を減らす場合は、**「請求」→「シート数を調整」**&#x3067;シート数を更新してください。変更は次回更新時に適用されます。現在のサイクル分の返金はありません。
 
 ***
 
-## Change Plans
+## クレジットの種類
 
-Workspace Owner and Billing role can switch plans any time. Before confirming, review how the change affects members, seats, and billing.
+Doraverseでは、3種類のクレジットを利用します。利用順序&#x306F;**「無料クレジット」→「月額クレジット」→「プリペイドクレジット」**&#x3067;す。
 
-### **Moving to Business plan**
+### 無料クレジット
 
-* **Seats & members:** Multi-seat support turns on and you can add member anytime.
-* **Admin access:** Unlock full Admin Settings — Reporting (user activity & model usage), Member Management, and Workspace Settings (branding, custom domain, etc.).
-* **Billing:** Charge applies immediately. Mid-cycle changes are prorated for the remaining days; any unused amount is credited to your account balance and applied to your next invoice.
-* **Credits:** Monthly credits reset to the new plan. Prepaid/free credits remain.
+* Doraverseのプロモーション（トライアル、紹介、限定キャンペーンなど）で獲得できます。
+* 有効期限があります（詳細&#x306F;**「請求」**&#x3067;ご確認ください）。
 
-### **Moving to an Individuals plan**
+### 月額クレジット
 
-* **Seats & members:** The person who confirms the plan change remains in the workspace (as Owner); all other members are removed immediately and lose access. The workspace seat count is set to 1.
-* **Admin access:**&#x20;
-  * Access to Reporting (user activity, model usage) is removed.
-  * Budget limitations and related settings are deleted.
-* **Billing:** Charge applies immediately. Mid-cycle changes are prorated for the remaining days; any unused amount is credited to your account balance and applied to your next invoice.
-* **Credits:** Monthly credits reset to the new plan. Prepaid/free credits remain.
+* サブスクリプションプランに含まれています。
+* 各請求サイクル開始時にリセットされます。未使用分は繰り越されません。
+
+### プリペイドクレジット
+
+* 1回限りのチャージで購入できます。
+* ワークスペースが存在する限り有効です。
+* 返金不可です。
+
+### クレジットがなくなった場合
+
+ワークスペースのクレジットがなくなると、AI機能は利用できなくなります。次回の請求サイクル開始時に月額クレジットがリセットされるか、プリペイドクレジットをチャージすると再度利用可能になります。
+
+ご安心ください。クレジットが残り少なくなった際は、事前にメールでご案内しますので、機能が停止する前にチャージできます。
+
+***
+
+## プランの変更
+
+ワークスペース所有者および請求担当者は、いつでもプランを切り替えることができます。確定前に、変更がメンバーやシート数、請求にどのように影響するかをご確認ください
+
+### Businessプランへの移行
+
+* **シートとメンバー:** 複数シートの管理が有効になり、いつでもメンバーを追加できます。
+* **管理者権限:** 「管理者設定」の全機能（ユーザーアクティビティ・モデル利用状況のレポート、メンバー管理、ワークスペース設定（ブランディング、カスタムドメイン等））が利用可能になります。
+* **請求:** 料金は即時適用されます。サイクル途中の変更は、残り日数分が日割り計算され、未使用分はアカウント残高にクレジットされ、次回請求時に自動適用されます。
+* **クレジット:** 月額クレジットは新しいプランにリセットされます。プリペイドクレジットおよび無料クレジットはそのまま残ります。
+
+### Individualsプランへの移行
+
+* **シートとメンバー:** プラン変更を確定した方がワークスペースの所有者として残り、他の全メンバーは即時削除されアクセス権を失います。シート数は1に設定されます。
+* **管理者権限:**
+  * 「レポート」（ユーザーアクティビティ・モデル利用状況）へのアクセスが削除されます。
+  * 予算上限や関連設定も削除されます。
+* **請求:** 料金は即時適用されます。サイクル途中の変更は残り日数分が日割り計算され、未使用分はアカウント残高にクレジットされ、次回請求時に自動適用されます。
+* **クレジット:** 月額クレジットは新しいプランにリセットされます。プリペイドクレジットおよび無料クレジットはそのまま残ります。
 
 {% hint style="info" %}
-**Important:** These changes are not auto-restored if you switch back later. All removed members’ data will be permanently deleted and cannot be recovered.
+**重要:** これらの変更は、後から元のプランに戻しても自動的に復元されません。削除されたメンバーのデータは完全に消去され、復元できません。
 {% endhint %}
 
 ***
 
-## Cancel Subscription
+## サブスクリプションの解約
 
-Canceling schedules your subscription to end at the end of the current billing cycle. Until that date, your workspace remains fully usable.\
-You can undo a scheduled cancellation any time before it takes effect in **Billing**.
+解約を行うと、現在の請求サイクル終了時にサブスクリプションが終了するようスケジュールされます。その日まではワークスペースを引き続きご利用いただけます。解約のスケジュールは、**「請求」**&#x304B;ら有効化前であればいつでも取り消せます。
 
 ***
 
-## Billing & Invoices
+## 請求と請求書
 
-### **Payment processing**
+### 支払い処理
 
-All payments are handled securely by **Stripe**. Doraverse does not store sensitive card data. You can manage everything in **Account → Admin Settings → Billing**.
+すべての支払いは**Stripe**で安全に処理されます。Doraverseはカード情報などの機密データを保存しません。**アカウント → 管理者設定 → 請求** からすべて管理できます。.
 
-### **When you’re charged:**
+### 請求タイミング
 
-* **Subscription start/renewal:** Charged on your billing day.&#x20;
-* **Change plan:** Charged immediately upon confirmation (prorated if mid-cycle); any unused amount is credited to your account balance and applied to your next invoice.
-* **Add more seats:** Charged immediately (prorated if mid-cycle).
-* **Top up prepaid credit:** Charged at purchase.
+* **サブスクリプション開始・更新:** 請求日に課金されます。
+* **プラン変更:** 確定時に即時課金されます（サイクル途中の場合は日割り計算）。未使用分はアカウント残高にクレジットされ、次回請求時に自動適用されます。
+* **シート追加:** 追加時に即時課金されます（サイクル途中の場合は日割り計算）。
+* **プリペイドクレジットのチャージ:** 購入時に課金されます。
 
-### **Pricing and taxes**&#x20;
+### 価格と税金&#x20;
 
-All prices are shown and charged in **USD**. Taxes are added at checkout based on your billing address.
+すべての価格はUSDで表示・請求されます。税金は請求先住所に基づき、チェックアウト時に加算されます。
 
-### Failed payments
+### 支払い失敗時
 
-* **Immediate charges** (e.g., Prepaid top-ups, adding seats, upgrades charged now): If the charge fails, the purchase does not complete and no changes are applied. Update your payment method in **Billing** and try again.
-* **Subscription renewals:** If the charge fails, we’ll retry automatically and notify you by email. If payment is still unsuccessful after the retry window, your workspace is paused until payment is completed. Access is restored immediately once the payment goes through.
+* **即時課金**（プリペイドチャージ、シート追加、即時アップグレード等）: 支払いに失敗した場合、購入は完了せず変更も適用されません。「請求」で支払い方法を更新し、再度お試しください。
+* **サブスクリプション更新:** 支払いに失敗した場合、自動で再試行し、メールでご案内します。再試行期間内に決済できない場合、ワークスペースは一時停止されます。支払いが完了次第、すぐにアクセスが復元されます。
 
-### Manage Billing & Invoices
+### 請求管理・請求書管理
 
-Go to **Account → Admin Settings → Billing**.\
-From there, open **Manage Billing** to:
+**アカウント → 管理者設定 → 請求** へアクセスしてください。「請求管理」から以下の操作が可能です。
 
-* View current subscription.
-* Update payment methods.
-* Update billing details.
-* View & download invoice history (invoices and receipts).
+* 現在のサブスクリプションの確認
+* 支払い方法の更新
+* 請求情報の更新
+* 請求書・領収書の履歴閲覧・ダウンロード
 
-> **Who can manage billing:** Only Workspace Owners and Billing role users can view and change these settings.
+> **請求管理ができるユーザー:** ワークスペース所有者および請求担当者のみがこの設定を閲覧・変更できます。
