@@ -1,107 +1,126 @@
-# Choose AI Model Based on Your Task
+# タスクに合わせてAIモデルを選ぶには
 
-The world of AI is evolving rapidly, and the wide variety of AI models available can sometimes feel overwhelming. The best way to navigate this landscape is to start by focusing on your specific tasks-- what you need to accomplish, and then select the AI model that best supports those tasks. This method is known as the **Task-First Approach to Choosing AI Models.**
-
-***
-
-## 1. Start with What You Need to Do
-
-Before diving into AI model names or technologies, take a moment to look closely at your workplace activities:
-
-* What routine or complex tasks take up your time?
-* Where do you need faster content creation, deeper analysis, or smarter problem-solving?
-* Which processes involve language, numbers, images, or data review?
-
-Answering these questions helps pinpoint where AI can accelerate your work or add value-- and where it might be less effective.
-
-By grounding your AI choices in actual tasks, you’ll focus your efforts and make smarter decisions.
+AIの世界は急速に進化しており、利用できるAIモデルも多種多様です。そのため、どのモデルを選べばよいか迷うこともあるでしょう。最適な選び方は、「自分が何をしたいか」というタスクから出発し、そのタスクを最もサポートできるAIモデルを選ぶことです。これが**タスク・ファーストアプローチ**です。
 
 ***
 
-## 2. Define the Types of AI Models You Need
+## 1. まず“やりたいこと”から考えましょう
 
-Navigating the AI ecosystem effectively starts with understanding that AI models generally fall into three main categories: **Generative Models, Reasoning Models and Deep Research Models.**
+AIモデルや技術の名前に飛びつく前に、日々の業務を見直してみてください：
 
-Each type has distinct characteristics, strengths, and ideal use cases based on the kinds of tasks it supports best.
+* 日常的または複雑な作業で時間がかかっているものは何ですか？
+* より速いコンテンツ作成や高度な分析、賢い問題解決が必要な場面はどこですか？
+* 言語・数値・画像・データレビューなど、どのプロセスにAIが役立ちそうですか？
 
-### **Generative Models**
+これらの問いに答えることで、AIが業務を加速できる領域や、逆に効果が薄い領域を特定できます。
 
-**What are they?**
+実際のタスクに基づいてAIを選ぶことで、無駄なく最適な意思決定ができます。
 
-A generative model is a pre-trained model designed primarily for generating new content. Trained on massive datasets, they can produce human-like text, images, or other media formats.
+***
 
-**Strengths:**\
-Fast and efficient for common or repetitive tasks, with strong capabilities in natural language generation. However, they may occasionally sacrifice precision for speed.
+## 2. 必要なAIモデルのタイプを定義する
 
-**Best For:**
+AIエコシステムを効果的に活用するには、AIモデルが大きく3つのカテゴリに分かれることを理解するのが近道です：
 
-* Writing and editing content
-* Summarizing information
-* Answering straightforward questions
-* Speedy content generation and creative tasks
-* They work well for repetitive, common tasks requiring quick outputs, although sometimes accuracy might be limited compared to more specialized models.
+**生成モデル（Generative Models）**、**推論モデル（Reasoning Models）**、**Deep Researchモデル**です。
 
-**Use Cases:**\
-Email drafting, summarizing lengthy documents, brainstorming ideas, creating marketing copy, and generating conversational responses, e.g.
+それぞれ特徴・強み・最適な用途が異なります。
 
-**Available Generative AI Models in Doraverse:**&#x20;
+### 生成モデル（Generative Models）
 
-* **ChatGPT:** GPT-4o, GPT-4.1, GPT-4.1-mini
-* **Llama:** Llama 4 Maverick, Llama 4 Scout
-* **Claude:** Claude 3.5 Haiku&#x20;
-* **Perplexity:** Sonar, Sonar Pro
+**概要**
+
+生成モデルは、主に新しいコンテンツを生成するために事前学習されたモデルです。膨大なデータセットで訓練され、人間らしいテキストや画像、その他のメディアを生成できます。
+
+**強み**
+
+よくある・繰り返しのタスクに高速・効率的に対応でき、自然言語生成に優れます。ただし、スピード重視のため精度がやや犠牲になる場合もあります。
+
+**最適な用途**
+
+* 文章作成・編集
+* 情報の要約
+* シンプルな質問への回答
+* スピーディなコンテンツ生成やクリエイティブ作業
+* 繰り返し・定型的なタスクで素早い出力が求められる場面に最適（精度が必要な場合は専門モデルが有利）
+
+**ユースケース例**
+
+メール文案作成、長文要約、アイデア出し、マーケティングコピー作成、チャット応答生成など
+
+**Doraverseで利用できる生成AIモデル例**
+
+* **ChatGPT:** GPT-4o、GPT-4.1、GPT-4.1-mini
+* **Llama:** Llama 4 Maverick、Llama 4 Scout
+* **Claude:** Claude 3.5 Haiku
+* **Perplexity:** Sonar、Sonar Pro
 * **SuperGrok:** Grok 3
-* **DeepSeek:** Deepseek Chat (DeepSeek-V3)
+* **DeepSeek:** Deepseek Chat（DeepSeek-V3）
 
 ***
 
-## **Reasoning Models**
+## 推論モデル（Reasoning Models）
 
-**What Are They?**
+**概要**
 
-A reasoning model is a type of model that can perform complex reasoning tasks. Instead of quickly generating output based solely on a statistical guess of what the next word should be in an answer, as an LLM typically does, a reasoning model will take time to break a question down into individual steps and work through a **“Chain of Thought” (CoT) process** to come up with a more accurate answer. In that manner, a reasoning model is much more human-like in its approach.
+推論モデルは、複雑な推論タスクを実行できるAIモデルです。一般的なLLM（大規模言語モデル）が次に来る単語を統計的に予測して素早く出力を生成するのに対し、推論モデルは質問を複数のステップに分解し、**「Chain of Thought（CoT）」**&#x30D7;ロセスを通じてより正確な答えを導き出します。このため、推論モデルはより人間らしい思考プロセスを持っています。
 
-**Strengths:**\
-Provide explainable outputs that help users understand how conclusions are reached. This elevates confidence in AI suggestions, especially for strategic or technical tasks.
+**強み**
 
-**Best For:**\
-Complex problem-solving, code debugging, detailed data analysis, fact-checking, e.g.
+結論に至るまでの思考過程を説明できるため、ユーザーがAIの提案内容を理解しやすくなります。特に戦略的・技術的なタスクでAIの信頼性が高まります。
 
-**Use Cases:**\
-Debugging software code, extracting insights from large datasets, evaluating AI-generated content authenticity, and making high-stakes decisions based on AI analysis.
+**最適な用途**
 
-**Available Reasoning AI Models in Doraverse:**&#x20;
+* 複雑な問題解決
+* コードのデバッグ
+* 詳細なデータ分析
+* ファクトチェック など
 
-* **ChatGPT:** o4-mini, o3-mnini
-* **Gemini Advanced:** Gemini 2.5 Flash, Gemini 2.5 Pro
+**ユースケース例**
+
+ソフトウェアコードのデバッグ、大規模データセットからのインサイト抽出、AI生成コンテンツの真偽判定、AI分析に基づく重要な意思決定など
+
+**Doraverseで利用できる推論AIモデル例**
+
+* **ChatGPT:** o4-mini、o3-mnini
+* **Gemini Advanced:** Gemini 2.5 Flash、Gemini 2.5 Pro
 * **Claude:** Claude 3.7 Sonnet
-* **Perplexity:** Sonar Reasoning, Sonar Reasoning Pro
-* **SuperGrok:** Grok 3 Mini (Thinking)
-* **DeepSeek:** Deepseek Reasoner (DeepSeek-R1)
+* **Perplexity:** Sonar Reasoning、Sonar Reasoning Pro
+* **SuperGrok:** Grok 3 Mini（Thinking）
+* **DeepSeek:** Deepseek Reasoner（DeepSeek-R1）
 
 ***
 
-## **Deep Research AI**
+## ディープリサーチAI（**Deep Research AI**）
 
-**What Are They?**\
-A deep research AI is an advanced AI systems integrated with extensive external data sources that conduct in-depth research and synthesis. They crawl across diverse information pools to compile comprehensive reports.
+**概要**
 
-**Strengths:**\
-Highly thorough and accurate due to cross-referencing multiple sources. Tend to have slower response times because of the intensive data retrieval and processing.
+Deep Research AIは、外部データソースと連携し、徹底的なリサーチと情報統合を行う高度なAIシステムです。多様な情報源を横断的にクロールし、網羅的なレポートを作成します。
 
-**Best For:**\
-Market research, scientific and technical analysis, PhD-level work, competitive intelligence gathering.
+**強み**
 
-**Use Cases:**\
-Generating detailed market analysis reports, conducting academic or scientific literature reviews, trend forecasting, and compiling exhaustive competitive intelligence.
+複数の情報源を参照・照合するため、非常に高い網羅性と正確性を実現します。一方で、データ取得と処理に時間がかかるため、応答速度はやや遅くなる傾向があります。
 
-**Available Deep Research AI in Doraverse:**&#x20;
+**最適な用途**
+
+* 市場調査
+* 科学・技術分析
+* 博士課程レベルのリサーチ
+* 競合情報の収集 など
+
+**ユースケース例**
+
+詳細な市場分析レポートの作成、学術・科学文献レビュー、トレンド予測、競合情報の網羅的な収集など
+
+**Doraverseで利用できるDeep Research AIモデル例**
 
 * **Perplexity:** Sonar Deep Research
 
 
 
-After understanding the importance of starting with your specific tasks, the next step is understanding AI models’ capabilities. For a deeper dive, check out our detailed guide on choosing **AI models based on capabilities.**
+タスク起点でAIモデルを選ぶ重要性を理解したら、次のステップは「各AIモデルの機能・特性」を把握することです。
+
+さらに詳しく知りたい方は、『**AIモデルの機能別選び方ガイド**』もぜひご覧ください。
 
 
 
