@@ -52,4 +52,4 @@ Doraverseは、チームや企業向けに設計されています。登録は�
 
 ## Doraverseの機能を学ぶためのリソースはありますか？
 
-Visit our [**Features List**](https://doraverse.gitbook.io/docs/jp/feature-list) to learn more about what Doraverse can do for your team.
+Doraverseの機能について詳しく知りたい場合は、[機能一覧](https://doraverse.gitbook.io/docs/feature-list)をご覧ください。
