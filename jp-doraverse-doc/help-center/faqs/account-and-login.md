@@ -2,56 +2,55 @@
 icon: right-to-bracket
 ---
 
-# Account & Login
+# アカウントとログイン
 
-## **How do I log in to Doraverse as an admin?**
+## 管理者としてDoraverseにログインするには？
 
-Once your workspace is live, you will receive an email containing your login credentials. Please use these details to access your Doraverse workspace.
-
-***
-
-## How do I access my Doraverse workspace as a team member?
-
-Team members can log in either through the invitation email from your workspace admin or directly via your workspace URL.\
-For a detailed step-by-step guide, [**click here**](https://doraverse.gitbook.io/docs/jp/getting-started/log-in-to-your-workspace-in-doraverse).
+ワークスペースが開設されると、ログイン情報が記載されたメールが届きます。メールの内容に従い、Doraverseワークスペースにアクセスしてください。
 
 ***
 
-## I didn’t receive my invitation email. What should I do?
+## チームメンバーとしてDoraverseワークスペースにアクセスする方法
 
-If you haven’t received your Doraverse invitation email, try the following steps:
-
-* **Check your spam and promotions folders**: Sometimes automated emails may be filtered.
-* **Confirm your email address**: Make sure your workspace admin has your correct business email.
-* **Request a resend**: Ask your workspace admin to resend your invitation.
-* **Wait briefly**: Occasionally, email delivery may be delayed by a few minutes.
+チームメンバーは、ワークスペース管理者からの招待メール、またはワークスペースURLからログインできます。 詳しい手順は、[こちら](https://doraverse.gitbook.io/docs/getting-started/log-in-to-your-workspace-in-doraverse)をご参照ください。
 
 ***
 
-## Why haven’t I received my verification code?
+## 招待メールが届かない場合は？
 
-If you haven’t received your verification code, please try the following:
+Doraverseの招待メールが届かない場合、以下の手順をお試しください。
 
-* **Verify your email address:** Make sure you’re checking the correct email inbox associated with your workspace.
-* **Check your spam or promotions folder:** Sometimes, the code email may be filtered.
-* **Wait a few minutes:** Email delivery can occasionally be delayed.
-* **Request a new code:** Look for an option to resend the verification code on the login page.
-
-***
-
-## Why can’t I log in to my workspace?
-
-If you’re having trouble logging in, here are some steps to help resolve common issues:
-
-* **Double-check your workspace URL**: Ensure you’re entering the correct address (e.g. `https://yourcompany.doraverse.com`).
-* **Verify your login credentials**: Make sure you’re using the correct email sent to you or that you registered with.
-* **Check your invitation status:** Confirm with your workspace admin that they have sent the invitation to your correct email address.
-* **Clear your browser cache**: Sometimes, caching issues can prevent login.
+* **迷惑メール・プロモーションフォルダを確認**：自動送信メールが振り分けられることがあります。
+* **メールアドレスの確認**：ワークスペース管理者に、正しい業務用メールアドレスが登録されているかご確認ください。
+* **再送依頼**：管理者に招待メールの再送を依頼してください。
+* **少し待つ**：メール配信が数分遅れる場合があります。
 
 ***
 
-## Can I update my account information?
+## 認証コードが届かない場合は？
 
-Yes, as a workspace member, you can update your personal information such as your display name and avatar in your account settings. However, your department assignment is managed by your workspace admin and cannot be changed by individual members.
+認証コードが届かない場合、次の方法をお試しください。
 
-For detailed instructions, see our [**User's Account Management**](https://doraverse.gitbook.io/docs/jp/getting-started/account-management) guide.\
+* **メールアドレスの確認**：ワークスペースに登録した正しいメールアドレスの受信箱を確認してください。
+* **迷惑メール・プロモーションフォルダを確認**：認証コードメールが振り分けられる場合があります。
+* **数分待つ**：メール配信が遅れることがあります。
+* **新しいコードをリクエスト**：ログイン画面の「認証コード再送」オプションをご利用ください。
+
+***
+
+## ワークスペースにログインできない場合は？
+
+ログインできない場合、以下の手順で解決できることがあります。
+
+* **ワークスペースURLの再確認**：正しいURL（例：`https://yourcompany.doraverse.com`）を入力しているか確認してください。
+* **ログイン情報の確認**：案内メールまたは登録時のメールアドレスを使用してください。
+* **招待状況の確認**：管理者に、正しいメールアドレス宛に招待が送信されているかご確認ください。
+* **ブラウザのキャッシュをクリア**：キャッシュの問題でログインできない場合があります。
+
+***
+
+## アカウント情報は更新できますか？
+
+はい。ワークスペースメンバーは、「アカウント設定」で表示名やアバターなどの個人情報を更新できます。ただし、部署の割り当ては管理者が管理しており、メンバー自身では変更できません。
+
+詳しい手順は、[ユーザーのアカウント管理](https://doraverse.gitbook.io/docs/getting-started/account-management)をご覧ください。\

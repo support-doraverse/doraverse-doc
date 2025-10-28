@@ -2,59 +2,58 @@
 icon: lock-keyhole
 ---
 
-# Privacy & Policies
+# プライバシーとポリシー
 
-## **How does Doraverse protect my data and privacy?**
+## Doraverseはお客様のデータとプライバシーをどのように保護していますか？
 
-At Doraverse, the security and privacy of your business and personal data are of utmost importance to us.
+Doraverseでは、お客様のビジネスおよび個人データのセキュリティとプライバシーを最優先しています。
 
-* **Compliance:** We comply with the **General Data Protection Regulation (GDPR)** for all users and follow the **Act on the Protection of Personal Information (APPI)** for our users in Japan.
-* **Encryption:** All data is encrypted both in transit and at rest, using industry-standard protocols.
-* **Access Controls:** Only authorized users and workspace members have access to your data.
-* **Transparency:** We never sell your data or share it with unauthorized third parties.
-* **Data Ownership:** You retain complete ownership and control over your data at all times.
-
-***
-
-## **Who owns the data I upload or create in Doraverse**
-
-You retain full ownership of your content and data within Doraverse. We do not claim ownership of any materials you upload, create, or store on our platform.
+* **法令遵守：** すべてのユーザーに対して**GDPR（一般データ保護規則）**&#x3092;遵守し、日本国内のユーザーには**個人情報保護法（APPI）**&#x3092;適用しています。
+* **暗号化：** データは送信時・保存時ともに業界標準プロトコルで暗号化されています。
+* **アクセス制御：** 「ワークスペース」内のデータには、認可されたユーザーとメンバーのみがアクセスできます。
+* **透明性：** お客様のデータを第三者に販売したり、無断で共有することはありません。
+* **データ所有権：** お客様は常にデータの完全な所有権と管理権を保持します。
 
 ***
 
-## **Does Doraverse use my data to train AI models?**
+## Doraverseにアップロード・作成したデータの所有権は誰にありますか？
 
-No, your private and business data is not used to train public AI models. We only use generalized, anonymized data to improve our services—and never without your consent.
-
-***
-
-## **Where is my data stored, and is it encrypted?**
-
-Your data is securely stored on servers located in Japan and Vietnam. All data is encrypted both in transit and at rest to ensure confidentiality.
+Doraverse内のコンテンツやデータの所有権は、すべてお客様に帰属します。Doraverseがアップロード・作成・保存された素材の所有権を主張することはありません。
 
 ***
 
-## **Who can access my workspace data?**
+## Doraverseはお客様のデータをAIモデルの学習に利用しますか？
 
-Access to your workspace data is strictly limited to authorized team members and workspace admins. Doraverse staff can only access your data for support purposes, and only with your permission.
-
-***
-
-**What happens to my data if I delete my account or workspace?**\
-
-
-
-If you choose to delete your account or workspace, your data will be permanently removed from our systems within **30 days**, unless otherwise required by law.
+いいえ。お客様の個人・業務データは、公開AIモデルの学習には使用しません。サービス向上のために一般化・匿名化されたデータのみを利用し、必ず事前に同意を得ます。
 
 ***
 
-## **Are conversations with AI models private and secure?**
+## データはどこに保存され、暗号化されていますか？
 
-Yes, all interactions with AI models are encrypted and private within your workspace. Only authorized admin and users in your workspace can see your conversations unless explicitly shared.
+お客様のデータは、日本とベトナムにあるサーバーで安全に保存されます。すべてのデータは送信時・保存時ともに暗号化され、機密性が確保されています。
 
 ***
 
-## **Where can I read Doraverse’s full privacy policy and terms of service?**
+## ワークスペースデータにアクセスできるのは誰ですか？
 
-You can review our complete [**Privacy Policy**](https://doraverse.gitbook.io/docs/jp/privacy-policy) and our [**Terms of Service**](https://doraverse.gitbook.io/docs/jp/policies/terms-of-service) for more details.
+ワークスペースデータへのアクセスは、認可されたチームメンバーと管理者に限定されます。Doraverseスタッフがサポート目的でアクセスする場合は、お客様の許可が必要です。
 
+***
+
+アカウントやワークスペースを削除した場合、データはどうなりますか？\
+
+
+
+アカウントまたはワークスペースを削除すると、データは法令で定められた場合を除き、**30日**以内にシステムから完全に削除されます。
+
+***
+
+## AIモデルとの会話はプライベートで安全ですか？
+
+はい。AIモデルとのすべてのやり取りは暗号化され、ワークスペース内でプライベートに保護されます。管理者および認可されたユーザーのみが会話を閲覧でき、明示的に共有しない限り第三者が閲覧することはありません。
+
+***
+
+## Doraverseのプライバシーポリシーと利用規約はどこで確認できますか？
+
+詳細については、[**Privacy Policy**](https://doraverse.gitbook.io/docs/privacy-policy) および [**Terms of Service**](https://doraverse.gitbook.io/docs/policies/terms-of-service) をご覧ください。

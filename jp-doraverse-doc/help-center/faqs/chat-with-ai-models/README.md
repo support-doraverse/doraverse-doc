@@ -2,73 +2,69 @@
 icon: comment-lines
 ---
 
-# Chat with AI Models
+# AIモデルとのチャット
 
-## **Can I chat with different AI models at the same time?**
+## 複数のAIモデルと同時にチャットできますか？
 
-In Doraverse you can open multiple chat sessions and select a different AI model for each one. This allows you to leverage the unique strengths of each model for your various business needs.&#x20;
+Doraverseでは、複数のチャットセッションを同時に開き、それぞれで異なるAIモデルを選択できます。これにより、各モデルの特長を活かして、さまざまなビジネスニーズに対応できます。
 
-For instructions, see [**Choose AI Model to Chat.**](https://doraverse.gitbook.io/docs/jp/feature-list/chat-with-ai-models#choose-ai-model-to-chat)
+操作手順は[**AIモデルを選択してチャットする**](https://doraverse.gitbook.io/documents/feature-list/chat-with-ai-models#choose-ai-model-to-chat)をご覧ください。
 
-You can even compare the responses from different models to the same prompt side-by-side, helping you choose the most suitable result for your task.\
-\
-To learn how to compare model results, see [**Compare Results.**](https://doraverse.gitbook.io/docs/jp/feature-list/chat-with-ai-models#compare-results-square-with-plus-button)
+同じプロンプトに対する各モデルの回答を並べて比較することもでき、タスクに最適な結果を選ぶ際に役立ちます。比較方法は[**結果を比較する**](https://doraverse.gitbook.io/documents/feature-list/chat-with-ai-models#compare-results-square-with-plus-button)をご参照ください。
 
 ***
 
-## How do I know which AI model is best for my task?
+## タスクに最適なAIモデルはどう選べばよいですか？
 
-Each AI model has different strengths.&#x20;
+AIモデルごとに強みが異なります。
 
-You can refer to our [**Choose AI Model Based on Your Task**](https://doraverse.gitbook.io/docs/jp/help/faqs/chat-with-ai-models/choose-ai-model-based-on-your-task) and [**Choose AI Model Based on Their Capabilities**](https://doraverse.gitbook.io/docs/jp/help/faqs/chat-with-ai-models/choose-ai-model-based-on-their-capabilities) guide or consult with your admin to select the best model for your specific task.
-
-***
-
-## What AI models are available to chat with?
-
-Doraverse provides access to the world’s leading and most advanced large language models, helping your business stay ahead in productivity and innovation.
-
-See [**Doraverse Available AI Models**](https://doraverse.gitbook.io/docs/jp/feature-list/available-ai-models) for more details.
+[**タスク別AIモデル選択ガイド**](choose-ai-model-based-on-your-task.md)や[**機能別AIモデル選択ガイド**](choose-ai-model-based-on-their-capabilities.md)を参考にするか、管理者にご相談のうえ、最適なモデルをお選びください。
 
 ***
 
-## Can I save or export the chat conversations for future reference?
+## 利用可能なAIモデルにはどのようなものがありますか？
 
-Yes, you can export chats as text files or save them within Doraverse for easy access and review later. For detailed steps, please see the [**Share/Export Conversation**](https://doraverse.gitbook.io/docs/jp/feature-list/chat-with-ai-models#conversation-options-three-dot-menu) page.
+Doraverseでは、世界有数の先進的な大規模言語モデルを利用できます。これにより、ビジネスの生産性やイノベーションを強力にサポートします。
 
-***
-
-## Can I customize the AI responses to fit my department’s needs?
-
-You can create a dedicated AI Agent, essentially a personalized AI assistant—designed to handle specific tasks relevant to your department. These Agents can understand your team’s unique objectives, workflows, language, requirements, and delivering tailored responses and automating routine processes like report generation, customer support, data analysis, or content creation.&#x20;
-
-To get started and learn more about how AI Agents can enhance your work, visit the **AI Agents in Doraverse**.
+詳細は[**利用可能なAIモデル一覧**](https://doraverse.gitbook.io/documents/feature-list/available-ai-models)をご覧ください。
 
 ***
 
-## Is there a limit to the number or length of conversations I can have?
+## チャットの会話内容を保存・エクスポートできますか？
 
-Limits are managed through a credit system set by your workspace admin. Credits represent your usage allowance and are calculated based on factors such as message volume or the specific AI model used. Each conversation consumes credits accordingly.&#x20;
-
-Your admin allocates credits at both the workspace and individual user levels to ensure fair and efficient use of the platform. For more details, please contact your admin.
+はい。チャット内容はテキストファイルとしてエクスポートしたり、Doraverse内に保存して簡単にアクセス・参照できます。詳しい手順は[共有／エクスポート](https://doraverse.gitbook.io/docs/feature-list/chat-with-ai-models#conversation-options-three-dot-menu)ページをご覧ください。
 
 ***
 
-## Can I get recommendations on which AI model to use for specific tasks?
+## 部署ごとにAIの回答をカスタマイズできますか？
 
-Yes, Doraverse provides guidance and examples for model selection. See the **Model Recommendations** page for more details.
+専用のAI Agent（パーソナライズされたAIアシスタント）を作成できます。AI Agentは、部署ごとの特定業務に合わせて設計されており、チーム独自の目的・ワークフロー・用語・要件を理解し、最適な回答や業務自動化（レポート作成、カスタマーサポート、データ分析、コンテンツ作成など）を実現します。
 
-***
-
-## How frequently are the AI models updated or improved?
-
-When a provider releases an updated or new model, the Doraverse team carefully tests and optimizes it to ensure the best performance and efficiency on our platform. Once validated, the model is added to our available list. All updates are documented in our **Change Log** for your reference.
+導入方法や詳細は、Doraverseの[**AI Agents**](https://doraverse.gitbook.io/docs/feature-list/ai-agents)ページをご覧ください。
 
 ***
 
-## What should I do if I encounter an error message while chatting with a model?
+## チャットの回数や長さに制限はありますか？
 
-Error messages can occur due to various reasons such as network issues, browser settings, or system disruptions. To troubleshoot common errors and find step-by-step solutions, please visit our **Error Messages Troubleshooting** page.
+利用制限は、ワークスペース管理者が設定するクレジット制で管理されています。クレジットは、メッセージ数や利用モデルなどに応じて消費されます。割り当てや詳細については管理者にお問い合わせください。
+
+***
+
+## タスクごとのモデル選択のおすすめはありますか?
+
+Doraverseでは、モデル選択のガイドや事例を提供しています。詳細&#x306F;**「モデル選択のおすすめ」**&#x30DA;ージをご覧ください。
+
+***
+
+## AIモデルの更新頻度は？
+
+新しいモデルやアップデートが提供された場合、Doraverseチームが検証・最適化した上で利用可能リストに追加します。すべての更新内容は**Change Log**でご確認いただけます。
+
+***
+
+## エラーメッセージが表示された場合は？
+
+ネットワークやブラウザ設定、システムの影響などでエラーが発生する場合があります。よくあるエラーの対処法や手順は[**「エラーメッセージのトラブルシューティング」**](../../troubleshooting.md)をご参照ください。
 
 ***
 

@@ -1,30 +1,20 @@
 ---
-description: >-
-  Have a question? Check out the FAQs to see answers from the Doraverse Team on
-  our most common topics!
+description: ご質問がありますか？  Doraverseチームがよくあるトピックについてお答えする「よくある質問」をご覧ください。
 ---
 
-# FAQs
+# よくある質問
 
 <details>
 
-<summary>Onboarding</summary>
+<summary><strong>オンボーディング</strong></summary>
 
-How do teams and businesses sign up for Doraverse?
+チームや企業がDoraverseにサインアップする方法
 
 </details>
 
 <details>
 
-<summary>Account &#x26; Login</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Privacy &#x26; Policies</summary>
+<summary><strong>アカウント・ログイン</strong></summary>
 
 
 
@@ -32,7 +22,7 @@ How do teams and businesses sign up for Doraverse?
 
 <details>
 
-<summary> Chat with AI Models</summary>
+<summary><strong>プライバシーとポリシー</strong></summary>
 
 
 
@@ -40,7 +30,15 @@ How do teams and businesses sign up for Doraverse?
 
 <details>
 
-<summary>AI Agents</summary>
+<summary><strong>AIモデルとのチャット</strong></summary>
+
+
+
+</details>
+
+<details>
+
+<summary>AI Agent</summary>
 
 
 

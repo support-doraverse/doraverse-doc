@@ -1,10 +1,8 @@
 ---
-description: >-
-  Doraverse provides flexible plans tailored to individuals, teams and
-  businesses.
+description: Doraverseでは、個人、チーム、法人向けに柔軟なプランをご用意しています。
 ---
 
-# 💳 Plans, Billing & Payment
+# 💳 プラン・請求・お支払い
 
 [プラン概要](plans-billing-and-payment.md#plan-overview)
 

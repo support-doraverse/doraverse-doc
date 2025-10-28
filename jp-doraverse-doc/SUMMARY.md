@@ -50,16 +50,16 @@
   * [🤖 Chat 設定](settings/chat-she-ding.md)
   * [🤖 Setup AI Models](setting/setup-ai-models.md)
   * [🚧 Setup AI Limits](setting/setup-ai-limits.md)
-* [💳 Plans, Billing & Payment](plans-billing-and-payment.md)
+* [💳 プラン・請求・お支払い](plans-billing-and-payment.md)
 
 ## Help Center
 
-* [Welcome to Help Center](help-center/welcome-to-help-center.md)
-* [FAQs](help-center/faqs/README.md)
-  * [On-Boarding](help-center/faqs/on-boarding.md)
-  * [Account & Login](help-center/faqs/account-and-login.md)
-  * [Privacy & Policies](help-center/faqs/privacy-and-policies.md)
-  * [Chat with AI Models](help-center/faqs/chat-with-ai-models/README.md)
+* [ヘルプセンターへようこそ](help-center/welcome-to-help-center.md)
+* [よくある質問](help-center/faqs/README.md)
+  * [オンボーディング](help-center/faqs/on-boarding.md)
+  * [アカウントとログイン](help-center/faqs/account-and-login.md)
+  * [プライバシーとポリシー](help-center/faqs/privacy-and-policies.md)
+  * [AIモデルとのチャット](help-center/faqs/chat-with-ai-models/README.md)
     * [Choose AI Model Based on Your Task](help-center/faqs/chat-with-ai-models/choose-ai-model-based-on-your-task.md)
     * [Choose AI Model Based on Their Capabilities](help-center/faqs/chat-with-ai-models/choose-ai-model-based-on-their-capabilities.md)
   * [AI Agent](help-center/faqs/ai-agent.md)

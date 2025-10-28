@@ -2,54 +2,54 @@
 icon: power-off
 ---
 
-# On-Boarding
+# オンボーディング
 
-## **How do I sign up for Doraverse?**
+## Doraverseに登録するにはどうすればよいですか？
 
-To get started, simply fill out our Service Request Form registration form.&#x20;
+まずは、サービス申請フォームにご記入ください。
 
-Select your preferred form below:
+ご希望のフォームを以下から選択できます。
 
-* 🇻🇳 [**Vietnamese Registration Form** ](https://tally.so/r/mOrdAa)
-* 🇯🇵[ **Japanese Registration Form**](https://tally.so/r/nrgGl2)
-* [🌐 **English Registration Form**](https://tally.so/r/wvgEX8)
+* 🇻🇳 [ベトナム語登録フォーム](https://tally.so/r/mOrdAa)
+* 🇯🇵 [日本語登録フォーム](https://tally.so/r/nrgGl2)
+* [🌐 英語登録フォーム](https://tally.so/r/wvgEX8)
 
-Once submitted, our team will review your information and contact you to help you get started with your Doraverse.
-
-***
-
-## **Who can sign up for Doraverse?**
-
-Doraverse is designed for teams and businesses. We recommend having a team leader or business representative complete the registration form to begin the onboarding process.
+フォーム送信後、担当チームが内容を確認し、Doraverseのご利用開始までサポートいたします。
 
 ***
 
-## **What to expect after I complete the registration form?**
+## 誰がDoraverseに登録できますか？
 
-After you submit your registration, our team will reach out to you by email once your workspace is ready. We’ll guide you through the initial setup and ensure your workspace fits your requirements.
-
-***
-
-## **How do I invite team members to my AI workspace in Doraverse?**
-
-After your workspace is set up, admins can invite team members directly from the Doraverse Admin Management. Invited members will receive email instructions to join.
-
-For step-by-step instructions, visit [**Invite members to your workspace**](https://doraverse.gitbook.io/docs/jp/member-management#invite-member-into-workspace)**.**
+Doraverseは、チームや企業向けに設計されています。登録は、チームリーダーまたは企業担当者の方が行うことをおすすめします。
 
 ***
 
-## **Can I try Doraverse for free before committing?**
+## 登録フォーム送信後の流れは
 
-Yes! Every new workspace enjoys a **30-day trial** that includes **$100 in credits** to explore all Doraverse features.
-
-***
-
-## **What if I need help during setup?**
-
-Our support team is here to help with any questions or challenges during onboarding. Reach us anytime at [support@doraverse.com](mailto:support@doraverse.com).
+登録完了後、ワークスペースの準備ができ次第、担当チームよりメールでご連絡します。初期設定の手順をご案内し、ご要望に合わせてワークスペースを構築します。.
 
 ***
 
-## **Are there resources to help me learn Doraverse features?**
+## DoraverseのAIワークスペースにメンバーを招待する方法は？
+
+ワークスペースの設定後、「Doraverse管理画面」から管理者がメンバーを招待できます。招待された方には、参加方法が記載されたメールが届きます。
+
+詳しい手順は、[ワークスペースにメンバーを招待する](https://doraverse.gitbook.io/docs/member-management#invite-member-into-workspace)をご参照ください。
+
+***
+
+## Doraverseを無料で試すことはできます&#x304B;**?**
+
+はい。新規ワークスペースには、Doraverseの全機能をお試しいただける30日間の無料トライアル（$100分のクレジット付き）が付与されます。
+
+***
+
+## セットアップ中に困った場合は？
+
+オンボーディング中のご質問やお困りごとには、サポートチームが対応します。いつでも [support@doraverse.com](mailto:support@doraverse.com) までご連絡ください。
+
+***
+
+## Doraverseの機能を学ぶためのリソースはありますか？
 
 Visit our [**Features List**](https://doraverse.gitbook.io/docs/jp/feature-list) to learn more about what Doraverse can do for your team.
