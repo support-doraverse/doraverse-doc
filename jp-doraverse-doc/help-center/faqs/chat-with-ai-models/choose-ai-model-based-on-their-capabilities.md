@@ -1,58 +1,60 @@
-# Choose AI Model Based on Their Capabilities
+# モデルの能力に基づいてAIモデルを選択する
 
-[Key Model Capabilities to Consider](choose-ai-model-based-on-their-capabilities.md#key-model-capabilities-to-consider)
+[検討すべき主なモデル能力](choose-ai-model-based-on-their-capabilities.md#key-model-capabilities-to-consider)
 
-[Model Capabilities Breakdown](choose-ai-model-based-on-their-capabilities.md#model-capabilities-breakdown)
+[モデル能力の詳細](choose-ai-model-based-on-their-capabilities.md#model-capabilities-breakdown)
 
-## Key Model Capabilities to Consider
+## 検討すべき主なモデル能力
 
-### Modalities (Input & Output)
+### モダリティ（入力・出力）
 
-Modality means the type or format of data an AI model can process as input and produce as output.
+モダリティとは、AIモデルが入力として処理できるデータの種類や形式、また出力として生成できるデータのことを指します。
 
-### Maximum Context Length (Context Window)
+### 最大コンテキスト長（コンテキストウィンドウ）
 
-Context Length refers to how much information (e.g., words or tokens) a model can “consider” at once when producing an output.
+#### 最大コンテキスト長（コンテキストウィンドウ）
 
-* **Short Context (up to \~1,000 tokens):** Perfect for simple tasks like answering short queries, classifying emails, or recognizing objects in small images.
-* **Medium Context (around 2,000-4,000 tokens):** Useful for handling longer documents, paragraphs, or multi-turn conversations, like summarizing reports or supporting chatbots.
-* **Long Context (10,000+ tokens or more):** Enables deep understanding of lengthy documents, complex conversations, or large datasets. It ideal for legal document reviews, books, or extensive customer support dialogs.
+コンテキスト長とは、モデルが一度に「考慮」できる情報量（例：単語やトークン数）を意味します。
 
-**Tips:** Match context length to your workload. Longer contexts improve understanding but usually come with higher computational cost and latency.
+* **短いコンテキスト（約1,000トークンまで）：** 簡単な質問への回答、メール分類、小さな画像の物体認識など、シンプルなタスクに最適です。
+* **中程度のコンテキスト（約2,000〜4,000トークン）：** 長めのドキュメントや複数ターンの会話対応に有効です。レポート要約やチャットボットのサポートなどに適しています。
+* **長いコンテキスト（10,000トークン以上）：** 長文ドキュメントや複雑な会話、大規模データセットの深い理解が可能です。法務文書レビューや書籍、広範なカスタマーサポート対話などに最適です。
 
-## Intelligence
+**ヒント：** ワークロードに合わせて適切なコンテキスト長を選びましょう。長いコンテキストは理解力を高めますが、計算コストや応答遅延も増加します。
 
-Intelligence refers to how effectively an AI model understands, processes, and generates information to meet your task requirements. It encompasses accuracy, contextual comprehension, reasoning ability, and adaptability.&#x20;
+## インテリジェンス
 
-One common way to measure intelligence is the **MMLU (Massive Multitask Language Understanding)** score, which evaluates a model’s performance across a wide range of academic and professional tasks. Higher MMLU scores indicate stronger language comprehension and problem-solving abilities, helping you gauge which model best fits your needs.
+インテリジェンスとは、AIモデルがタスク要件に応じて情報を理解・処理・生成する能力のことです。正確性、文脈理解、推論力、適応力などが含まれます。
 
-### Speed and Latency
+一般的な指標として **MMLU（Massive Multitask Language Understanding）** スコアがあります。これは学術・専門分野にわたる幅広いタスクでのモデル性能を評価します。MMLUスコアが高いほど、言語理解や問題解決能力が高いと判断できます。用途に合ったモデル選定の参考になります。
 
-Speed is how fast an AI model can complete a given task or process a piece of data.&#x20;
+### スピードとレイテンシ
 
-Latency is the delay between submitting a request to the AI model and receiving a response.&#x20;
+スピードは、AIモデルがタスクを完了するまでの速さを指します。
 
-These performance aspects are critical depending on the use case: for example, real-time applications like chatbots require low latency for seamless interactions, while batch processing tasks can tolerate higher latency.&#x20;
+レイテンシは、リクエスト送信から応答を受け取るまでの遅延時間です。
 
-**Tips:** Understanding speed and latency helps you select models that deliver timely responses without overloading resources.
+これらの性能はユースケースによって重要度が異なります。たとえば、チャットボットなどリアルタイム用途では低レイテンシが求められますが、バッチ処理では多少の遅延が許容されます。
 
-### Cost
+**ヒント：** スピードとレイテンシを理解することで、リソースを無駄にせず、タイムリーな応答が得られるモデルを選択できます。
 
-Cost depends on the amount of data processed by the AI model, measured in tokens. Input token cost is the expense for processing the data you send, while output token cost covers the tokens the model generates in response. These are usually billed per 1,000 tokens.&#x20;
+### コスト
 
-**Tips:** Understanding token usage helps you manage expenses and get the most value from your AI.
+コストは、AIモデルが処理するデータ量（トークン数）によって決まります。入力トークンコストは送信データの処理費用、出力トークンコストはモデルが生成した応答の費用です。通常、1,000トークン単位で課金されます。
 
-### Key Features
+**ヒント：** トークン使用量を把握することで、コスト管理や費用対効果の最適化が可能です。
 
-AI models often come with specialized features and skills designed to enhance their performance on particular tasks. Understanding these unique capabilities can help you choose a model that fits your needs precisely.
+### 主な特徴
 
-### **Best Suited Use Cases**
+AIモデルには、特定のタスク性能を高めるための独自機能やスキルが搭載されている場合があります。これらの特徴を理解することで、ニーズに最適なモデルを選択できます。
 
-Different AI models shine in different applications. Matching their strengths with your business needs is key.
+### 最適なユースケース
 
-## Model Capabilities Breakdown
+AIモデルは、それぞれ得意分野や用途があります。モデルの強みとビジネスニーズを適切にマッチさせることが重要です。
 
-You can click a model name in the list below to jump to a detailed overview of its strengths and use cases.
+## モデル能力の詳
+
+以下のリストからモデル名をクリックすると、それぞれの強みやユースケースの詳細にジャンプできます。
 
 **GPT**
 
@@ -76,390 +78,390 @@ You can click a model name in the list below to jump to a detailed overview of i
 
 ### GPT-4.0
 
-OpenAI GPT-4o is a multimodal model that supports text and images. It responds in real time and works well for lightweight development tasks and conversational prompts.
+OpenAIのGPT-4oは、テキストと画像の両方に対応したマルチモーダルモデルです。リアルタイム応答が可能で、軽量な開発タスクや会話型プロンプトに適しています。
 
-**Multimodal support**
+**マルチモーダル対応**
 
-* Input: Text, Image
-* Output: Text
+* 入力：テキスト、画像
+* 出力：テキスト
 
-**Context Window:** 128,000 tokens
+**コンテキストウィンドウ：** 128,000トークン
 
-**Intelligence: Higher**
+**インテリジェンス：高い**
 
-* MMLU score:&#x20;
+* MMLU（Massive Multitask Language Understanding）スコア：—
 
-**Speed: Medium**&#x20;
+**スピード：中程度**
 
-* &#x20;token/s
+* トークン/秒
 
-**Latency: Lower**
+**レイテンシ：低い**
 
-* s
+* 秒
 
-**Price ($/M token)**&#x20;
+**価格（$/100万トークン）**
 
-* $2.50 input / $10.00 output
+* 入力 $2.50 / 出力 $10.00
 
-**Best suit:**
+**最適な用途：**
 
-* Suitable for complex tasks, deep understanding, multi-step instructions
+* 複雑なタスク、深い理解、多段階指示に適しています。
 
 ***
 
 ### GPT-4.1
 
-This OpenAI’s latest model outperforms GPT-4o across the board, with major gains in coding, instruction following, and long-context understanding. It has a larger context window and features a refreshed knowledge cutoff of June 2024.
+OpenAIの最新モデルで、GPT-4oよりも全体的に優れた性能を発揮します。コーディング、指示の遵守、長文理解などで大きく向上しています。より大きなコンテキストウィンドウと、2024年6月時点の知識カットオフを備えています。
 
-OpenAI has optimized GPT-4.1 for real-world use based on direct developer feedback about: frontend coding, making fewer extraneous edits, following formats reliably, adhering to response structure and ordering, consistent tool usage, and more. This model is a strong default choice for common development tasks that benefit from speed, responsiveness, and general-purpose reasoning.
+開発者からのフィードバックをもとに、フロントエンドコーディング、余計な編集の削減、フォーマット遵守、応答構造の一貫性、ツール利用の安定性など、実運用向けに最適化されています。スピードと応答性、汎用的な推論力が求められる開発タスクに最適なデフォルトモデルです。
 
-**Multimodal support**
+**マルチモーダル対応**
 
-* Input: Text, Image
-* Output: Text
+* 入力：テキスト、画像
+* 出力：テキスト
 
-**Context Window:** 1,047,576 tokens
+**コンテキストウィンドウ：** 1,047,576トークン
 
-**Intelligence: Higher**
+**インテリジェンス：高い**
 
-* MMLU score: 0.806
+* MMLU（Massive Multitask Language Understanding）スコア：0.806
 
-**Speed: Medium**&#x20;
+**スピード：中程度**
 
-* 120.9 token/s
+* 120.9トークン/秒
 
-**Latency: Lower**
+**レイテンシ：低い**
 
-* 0.57s
+* 0.57秒
 
-**Price ($/M token)**&#x20;
+**価格（$/100万トークン）**
 
-* $2.00 input / $8.00 output
+* 入力 $2.00 / 出力 $8.00
 
-**Best suit:**
+**最適な用途：**
 
-* Complex tasks and cross-domain problem solving
-* Excels in agentic coding tasks including frontend development, precise diff-based edits, consistent tool integration, and strict instruction adherence.
+* 複雑なタスクや分野横断的な問題解決
+* フロントエンド開発、差分編集、ツール連携、厳密な指示遵守が求められるエージェント型コーディングタスクに強み
 
 ***
 
 ### GPT-4.1-mini
 
-GPT-4.1 mini provides a balance between intelligence, speed, and cost that makes it an attractive model for many use cases.
+GPT-4.1 miniは、インテリジェンス・スピード・コストのバランスが良く、多様なユースケースに適しています。
 
-**Multimodal support**
+**マルチモーダル対応**
 
-* Input: Text, Image
-* Output: Text
+* 入力：テキスト、画像
+* 出力：テキスト
 
-**Context Window:** 1,047,576 tokens
+**コンテキストウィンドウ：** 1,047,576トークン
 
-**Intelligence: High**
+**インテリジェンス：高い**
 
-* MMLU score: 0.781
+* MMLU（Massive Multitask Language Understanding）スコア：0.781
 
-**Speed: Slower**&#x20;
+**スピード：やや遅い**
 
-* 74.2 token/s
+* 74.2トークン/秒
 
-**Latency: Lower** Slower&#x20;
+**レイテンシ：やや高い**
 
-* 79.2s
+* 79.2秒
 
-**Price ($/M token)**&#x20;
+**価格（$/100万トークン）**
 
-* $0.40 input / $1.60 output
+* 入力 $0.40 / 出力 $1.60
 
-**Best suit:**
+**最適な用途：**
 
-* Suitable for complex tasks, deep understanding, multi-step instructions
+* 複雑なタスク、深い理解、多段階指示に適しています。
 
 ***
 
 ### o4-mini (Thinking)
 
-**Multimodal support**
+**マルチモーダル対応**
 
-* Input: Text, Image
-* Output: Text
+* 入力：テキスト、画像
+* 出力：テキスト
 
-**Context Window:** 200,000 tokens
+**コンテキストウィンドウ：** 200,000トークン
 
-**Intelligence: Higher**
+**インテリジェンス：高い**
 
-* MMLU score: 0.832
+* MMLU（Massive Multitask Language Understanding）スコア：0.832
 
-**Speed: Faster**&#x20;
+**スピード：速い**
 
-* 139.9 token/s
+* 139.9トークン/秒
 
-**Latency: Higher**&#x20;
+**レイテンシ：やや高い**
 
-* 51.15s
+* 51.15秒
 
-**Price ($/M token)**&#x20;
+**価格（$/100万トークン）**
 
-* $1.10 input / $4.40 output
+* 入力 $1.10 / 出力 $4.40
 
-**Best suit:**
+**最適な用途：**
 
-* Efficient performance in coding and visual tasks.
+* コーディングや画像タスクで効率的なパフォーマンスを発揮
 
 ***
 
 ### o3-mini (Thinking)
 
-**Multimodal support**
+**マルチモーダル対応**
 
-* Input: Text
-* Output: Text
+* 入力：テキスト
+* 出力：テキスト
 
-**Context Window:** 200,000 tokens
+**コンテキストウィンドウ：** 200,000トークン
 
-**Intelligence: Higher**
+**インテリジェンス：高い**
 
-* MMLU score: 0.791
+* MMLU（Massive Multitask Language Understanding）スコア：0.791
 
-**Speed: Faster**&#x20;
+**スピード：速い**
 
-* 189.2 token/s
+* 189.2トークン/秒
 
-**Latency: Higher**&#x20;
+**レイテンシ：やや高い**
 
-* 13.01s
+* 13.01秒
 
-**Price ($/M token)**&#x20;
+**価格（$/100万トークン）**
 
-* $1.10 input / $4.40 output
+* 入力 $1.10 / 出力 $4.40
 
 ***
 
 ### Llama 4 Maverick
 
-**Multimodal support**
+**マルチモーダル対応**
 
-* Input: Text, Image
-* Output: Text, Code
+* 入力：テキスト、画像
+* 出力：テキスト、コード
 
-**Context Window:** 1,048,576 tokens
+**コンテキストウィンドウ：** 1,048,576トークン
 
-**Intelligence: Higher**
+**インテリジェンス：高い**
 
-* MMLU score: 0.809
+* MMLU（Massive Multitask Language Understanding）スコア：0.809
 
-**Speed: Faster**&#x20;
+**スピード：速い**
 
-* 129.0 token/s
+* 129.0トークン/秒
 
-**Latency: Lower**&#x20;
+**レイテンシ：低い**
 
-* 0.36s
+* 0.36秒
 
-**Price ($/M token)**&#x20;
+**価格（$/100万トークン）**
 
-* $0.16 input / $0.60 output
+* 入力 $0.16 / 出力 $0.60
 
-**Key Features**
+**主な特徴**
 
-* Mixture-of-experts (MoE) architecture
-* Optimized for vision-language tasks
-* Instruction-tuned for assistant-like behavior
-* Image reasoning
-* Long-context, multiple languages supports
-* Demonstrates high coding and memorization abilities
+* Mixture-of-experts（MoE）アーキテクチャ
+* ビジョンと言語タスクに最適化
+* アシスタント的な動作にチューニング済み
+* 画像推論対応
+* 長文・多言語対応
+* コーディング・記憶能力が高い
 
-**Best suit:**
+**最適な用途：**
 
-* Suited for research and commercial applications requiring advanced multimodal understanding and high model throughput.
+* 高度なマルチモーダル理解と高スループットが求められる研究・商用アプリケーションに最適
 
 ***
 
 ### Llama 4 Scout
 
-**Multimodal support**
+**マルチモーダル対応**
 
-* Input: Text, Image
-* Output: Text, Code
+* 入力：テキスト、画像
+* 出力：テキスト、コード
 
-**Context Window:** 10,000,000 tokens
+**コンテキストウィンドウ：** 10,000,000トークン
 
-**Intelligence: Higher**
+**インテリジェンス：高い**
 
-* MMLU score: 0.752
+* MMLU（Massive Multitask Language Understanding）スコア：0.752
 
-**Speed: Faster**&#x20;
+**スピード：速い**
 
-* 121.8 token/s
+* 121.8トークン/秒
 
-**Latency: Lower**&#x20;
+**レイテンシ：低い**
 
-* 0.43s
+* 0.43秒
 
-**Price ($/M token)**&#x20;
+**価格（$/100万トークン）**
 
-* $0.08 input / $0.30 output
+* 入力 $0.08 / 出力 $0.30
 
-**Key Features**
+**主な特徴**
 
-* Superior text and visual intelligence
-* Assistant-style interaction and visual reasoning
-* Long-context, multiple languages supports
-* Demonstrates high coding and memorization abilities
+* 優れたテキスト・画像理解
+* アシスタント型の対話・画像推論
+* 長文・多言語対応
+* コーディング・記憶能力が高い
 
-**Best suit:**
+**最適な用途：**
 
-* Use in multilingual chat, captioning, and image understanding tasks
+* 多言語チャット、キャプション生成、画像理解タスクに最適
 
 ***
 
 ### Gemini 2.5 Flash
 
-**Multimodal support**
+**マルチモーダル対応**
 
-* Input: Text, Images, Audio, Video
-* Output: Text
+* 入力：テキスト、画像、音声、動画
+* 出力：テキスト
 
-**Context Window:** 1,000,000tokens
+**コンテキストウィンドウ：** 1,000,000トークン
 
-**Intelligence: Higher**
+**インテリジェンス：高い**
 
-* MMLU score: 0.832
+* MMLU（Massive Multitask Language Understanding）スコア：0.832
 
-**Speed: Faster**&#x20;
+**スピード：非常に速い**
 
-* 339.5 token/s
+* 339.5トークン/秒
 
-**Latency: Higher**&#x20;
+**レイテンシ：やや高い**
 
-* 7.46s
+* 7.46秒
 
-**Price ($/M token)**&#x20;
+**価格（$/100万トークン）**
 
-* $0.15 input / $0.60 output
+* 入力 $0.15 / 出力 $0.60
 
-**Best suit:**
+**最適な用途：**
 
-* Responding instantly in live chats and AI assistants
-* Summarizing emails, documents, and web content
-* Handling lightweight code or text generation on the fly
-* Powering fast, embedded AI across mobile and browsers
-* Scaling to thousands of users without slowing down
+* ライブチャットやAIアシスタントでの即時応答
+* メール・ドキュメント・Webコンテンツの要約
+* 軽量なコードやテキスト生成
+* モバイルやブラウザ向けの高速AI組み込み
+* 多数ユーザーへのスケーラブルな提供
 
 ***
 
 ### Gemini 2.5 Pro
 
-**Multimodal support**
+**マルチモーダル対応**
 
-* Input: Text, Images, Audio, Video
-* Output: Text
+* 入力：テキスト、画像、音声、動画
+* 出力：テキスト
 
-**Context Window:** 1,000,000tokens
+**コンテキストウィンドウ：** 1,000,000トークン
 
-**Intelligence: Higher**
+**インテリジェンス：高い**
 
-* MMLU score: 0.858
+* MMLU（Massive Multitask Language Understanding）スコア：0.858
 
-**Speed: Faster**&#x20;
+**スピード：速い**
 
-* 154.3 token/s
+* 154.3トークン/秒
 
-**Latency: Higher**&#x20;
+**レイテンシ：やや高い**
 
-* 34.26s
+* 34.26秒
 
-**Price ($/M token)**&#x20;
+**価格（$/100万トークン）**
 
-* $1.25 input / $10.00 output
+* 入力 $1.25 / 出力 $10.00
 
-**Best suit:**
+**最適な用途：**
 
-* Solving multi-step technical or logical problems, advanced reasoning in math and science
-* Analyzing large documents or datasets in context
-* Generating, debugging, and refactoring code
-* Assisting with scientific writing, research, and analysis
-* Creating visually compelling web apps that require structure and long-term memory
+* 複数ステップの技術的・論理的課題や高度な数理・科学推論
+* 大規模ドキュメントやデータセットの文脈解析
+* コード生成・デバッグ・リファクタリング
+* 科学論文・リサーチ・分析支援
+* 長期記憶や構造が必要なビジュアルWebアプリの作成
 
 ***
 
 ### Claude 3.5 Hailku
 
-**Multimodal support**
+**マルチモーダル対応**
 
-* Input: Text
-* Output: Text
+* 入力：テキスト
+* 出力：テキスト
 
-**Context Window:** 200,000 tokens
+**コンテキストウィンドウ：** 200,000トークン
 
-**Intelligence: Lower**
+**インテリジェンス：やや低い**
 
-* MMLU score: 0.634
+* MMLU（Massive Multitask Language Understanding）スコア：0.634
 
-**Speed: Slower**
+**スピード：やや遅い**
 
-* 64.0 token/s
+* 64.0トークン/秒
 
-**Latency: Lower**&#x20;
+**レイテンシ：低い**
 
-* 0.93s
+* 0.93秒
 
-**Price ($/M token)**&#x20;
+**価格（$/100万トークン）**
 
-* $0.80 input / $4.00 output
+* 入力 $0.80 / 出力 $4.00
 
-**Key Features**
+**主な特徴**
 
-* Optimized for fast, effective responses.
-* Improved comprehension and precise instruction following.
-* Delivers high-performance, autonomous coding solutions.
-* Balanced combination of speed, accuracy, and cost-effectiveness.
+* 高速かつ効果的な応答に最適化
+* 理解力と指示遵守の精度が向上
+* 高性能な自律型コーディングソリューションを提供
+* スピード・精度・コスト効率のバランスが良い
 
-**Best suit:**
+**最適な用途：**
 
-* Fast, accurate code completions to boost developer productivity.
-* Interactive chatbots for customer service, e-commerce, and education.
-* Efficient extraction and labeling of unstructured data in finance, healthcare, and research.
-* Real-time content moderation with advanced reasoning for safe, appropriate online communities and media.
+* 開発者の生産性を高める高速・高精度なコード補完
+* カスタマーサービス、EC、教育向けのインタラクティブチャットボット
+* 金融・医療・リサーチ分野での非構造データの効率的な抽出・ラベリング
+* 高度な推論によるリアルタイムコンテンツモデレーション（安全で適切なオンラインコミュニティ・メディア運用）
 
 ***
 
 ### Claude 3.7 Sonnet&#x20;
 
-**Multimodal support**
+**マルチモーダル対応**
 
-* Input: Text
-* Output: Text
+* 入力：テキスト
+* 出力：テキスト
 
-**Context Window:** 200,000 tokens
+**コンテキストウィンドウ：** 200,000トークン
 
-**Intelligence: Higher**
+**インテリジェンス：高い**
 
-* MMLU score: 0.837
+* MMLU（Massive Multitask Language Understanding）スコア：0.837
 
-**Speed: Slower**
+**スピード：やや遅い**
 
-* 88.2 token/s
+* 88.2トークン/秒
 
-**Latency: Lower**&#x20;
+**レイテンシ：低い**
 
-* 1.64s
+* 1.64秒
 
-**Price ($/M token)**&#x20;
+**価格（$/100万トークン）**
 
-* $3.00 input / $15.00 output
+* 入力 $3.00 / 出力 $15.00
 
-**Key Features**
+**主な特徴**
 
-* Hybrid Reasoning:
-  * Standard Mode for quick responses to simple tasks.
-  * Extended Thinking Mode for detailed, step-by-step reasoning on complex problems.
-* Adjustable Thinking Budget to balance speed and accuracy.
-* Full-Stack Development: Supports coding across multiple languages and environments.
-* Enhanced NLP: Better instruction following and more relevant, useful replies.
-* Effective with structured data and long-form text.
+* ハイブリッド推論：
+  * 標準モード：シンプルなタスクに迅速対応
+  * 拡張思考モード：複雑な課題に対し段階的な詳細推論を実施
+* スピードと精度のバランスを調整できる「思考予算」設定
+* フルスタック開発：複数言語・環境でのコーディング対応
+* 強化されたNLP：指示遵守・関連性の高い応答
+* 構造化データや長文テキストにも強み
 
-**Best suit:**
+**最適な用途：**
 
-* Instruction-following task
-* General reasoning, multimodal capabilities
-* Agentic coding with extended thinking providing a notable boost in math and science.
+* 指示に従うタスク
+* 一般的な推論・マルチモーダル対応
+* 拡張思考によるエージェント型コーディング（数学・科学分野での高いパフォーマンス）
