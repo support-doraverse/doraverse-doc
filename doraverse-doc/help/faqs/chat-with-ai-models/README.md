@@ -106,7 +106,7 @@ You can easily share your feedback by clicking the like or dislike icon in the [
 
 ## Can I connect my Google Drive to Doraverse?
 
-Yes, you can connect Google Drive to Doraverse to send files directly in chat without manual uploading. Easily manage this connection by navigating to **Account > Settings > Connected App**.
+Yes, you can connect Google Drive to Doraverse to send files directly in chat without manual uploading. Easily manage this connection by navigating to **Account > Manage intergrations**
 
 _**Note:**_ To connect, you will need to grant Doraverse permission to access your Google Drive. For your security, Doraverse only accesses files you explicitly select, with strong privacy and security protections in place.
 
