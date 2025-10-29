@@ -27,7 +27,7 @@
   * [NotebookAI](feature-list/notebookai.md)
   * [Studio](feature-list/studio.md)
   * [Create Image](feature-list/create-image.md)
-  * [AI Integration](feature-list/ai-integration.md)
+  * [AI 統合](feature-list/ai-tong-he.md)
   * [AI自動化](feature-list/ai-automation.md)
 
 ## Admin Workspace&#x20;
