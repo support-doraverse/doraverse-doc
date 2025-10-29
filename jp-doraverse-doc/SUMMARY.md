@@ -63,8 +63,8 @@
     * [タスクに合わせてAIモデルを選ぶには](help-center/faqs/chat-with-ai-models/choose-ai-model-based-on-your-task.md)
     * [モデルの能力に基づいてAIモデルを選択する](help-center/faqs/chat-with-ai-models/choose-ai-model-based-on-their-capabilities.md)
   * [AI Agent](help-center/faqs/ai-agent.md)
-  * [Integration - Data Controls](help-center/faqs/integration-data-controls.md)
-* [Troubleshooting](help-center/troubleshooting.md)
+  * [統合とデータコントロール](help-center/faqs/integration-data-controls.md)
+* [トラブルシューティング](help-center/toraburushtingu.md)
 
 ## Privacy & Policy <a href="#policies" id="policies"></a>
 
@@ -73,5 +73,5 @@
 ***
 
 * [プライバシーポリシー](privacy-policy.md)
+* [フィードバッ](feedback.md)
 * [Contact](contact.md)
-* [Feedback](feedback.md)

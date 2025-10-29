@@ -4,102 +4,100 @@ icon: robot
 
 # AI Agent
 
-## **What are Agents in Doraverse?**
+## DoraverseのAI Agentとは何ですか？
 
-Agents in Doraverse are intelligent assistants that use AI to pursue goals and complete tasks on behalf of users. They demonstrate reasoning, planning, memory, and autonomy—allowing them to make decisions, learn, and adapt over time.&#x20;
+DoraverseのAI Agentは、AIを活用してユーザーの目標達成やタスクの実行を支援するインテリジェントアシスタントです。推論・計画・記憶・自律性を備えており、自ら判断し、学習・適応しながらタスクを遂行できます。
 
-Powered by advanced generative AI and large language models (LLMs), Doraverse Agents are tailored by combining clear instructions with company- or industry-specific knowledge and capabilities, enabling you to build sophisticated assistants without coding. They support a wide range of activities, from everyday business tasks to technical support.&#x20;
+高度な生成AIおよび大規模言語モデル（LLM）を基盤とし、明確な指示と企業・業界固有の知識や機能を組み合わせてカスタマイズ可能です。プログラミング不要で高度なアシスタントを構築でき、日常業務から技術サポートまで幅広い用途に対応します。
 
-While similar to ChatGPT’s GPTs, Doraverse Agents offer broader AI model options and a no-code setup, making it easy to create powerful assistants without programming.
-
-***
-
-## **Do I need to know how to code to create an Agent?**
-
-No, coding skills are not required at all. Doraverse makes creating and customizing agents accessible to non-technical users from any field and anyone on your team.&#x20;
+ChatGPTのGPTsに似ていますが、DoraverseのAI Agentはより多様なAIモデルを選択でき、ノーコードでセットアップできる点が特長です
 
 ***
 
-## What types of tasks can an AI Agent perform?
+## AI Agentの作成にプログラミング知識は必要ですか？
 
-An AI Agent in Doraverse can handle a wide range of tasks designed to boost your productivity, streamline workflows, automate repetitive work, and reduce manual effort.&#x20;
-
-To learn more about how different teams use AI Agents, explore our **AI Agent Use Case** where we showcase examples across customer support, employee productivity, creative work, data analysis, coding, security, automation, and more.
+いいえ、プログラミングの知識は一切不要です。Doraverseは、技術的な知識がない方やチームのどなたでも、かんたんにAI Agentを作成・カスタマイズできるよう設計されています。
 
 ***
 
-## **How do I create an Agent?**
+## AI Agentはどのようなタスクを実行できますか？
 
-You can start building an Agent easily by accessing the AI Agent feature from the Navigation bar. From there, you provide clear instructions on what the Agent should do, upload files containing your company- or industry-specific knowledge to build its knowledge base, adjust model parameters, and select the capabilities that best suit your workflow.&#x20;
+DoraverseのAI Agentは、生産性向上や業務効率化、定型作業の自動化、手作業の削減など、さまざまなタスクに対応します。
 
-For detailed instructions, please refer to the step-by-step guide [**here.**](https://doraverse.gitbook.io/docs/jp/feature-list/ai-agents#step-by-step-guide-to-build-your-own-ai-agent-in-doraverse)
-
-***
-
-## Can I train the AI Agent with company-specific data or workflows?
-
-Yes, you can tailor your AI Agent to your company’s or team’s unique needs by providing relevant data and clear instructions.&#x20;
-
-Simply upload documents, reports, FAQs, or other materials that reflect your business context for File Search to create the agent’s knowledge base. The AI Agent uses this content to deliver answers and perform tasks specific and relevant to your workflows.&#x20;
+具体的な活用例は「AI Agentのユースケース」でご紹介しています。カスタマーサポート、従業員の生産性向上、クリエイティブ業務、データ分析、コーディング、セキュリティ、業務自動化など、多様な分野でご利用いただけます。
 
 ***
 
-## Can multiple employees collaborate on building or improving an AI Agent?
+## AI Agentはどのように作成しますか？
 
-Absolutely! Doraverse encourages collaboration. Multiple team members can view, edit, or update AI Agents based on the sharing permissions you set.&#x20;
+ナビゲーションバーから「AI Agent」機能にアクセスし、Agentに実行させたい内容を明確に指示します。自社や業界固有の知識を含むファイルをアップロードしてナレッジベースを構築し、モデルパラメータやケイパビリティを業務に合わせて設定できます。
 
-For more details on managing access, please refer to the [**Set Sharing & Permissions section for Agents.**](https://doraverse.gitbook.io/docs/jp/feature-list/ai-agents#id-6.-set-sharing-and-permissions)
-
-***
-
-## What happens if the AI Agent makes a mistake or provides incorrect information?
-
-While AI Agents are designed for accuracy and reliability, errors can occur, especially with complex or unusual queries. Because the agent’s performance depends on how it’s set up, providing clear, specific instructions helps minimize mistakes. You can also adjust model parameters to improve its responses. Regular testing and refinement are essential to maintaining an effective AI Agent.
+詳しい手順は[こちらのステップバイステップガイド](https://doraverse.gitbook.io/docs/feature-list/ai-agents#step-by-step-guide-to-build-your-own-ai-agent-in-doraverse)をご参照ください。
 
 ***
 
-## Can Agents in Doraverse be integrated with or accessed on my company websites?
+## 会社固有のデータや業務フローでAI Agentを学習させることはできますか？
 
-Yes! Soon you will be able to embed specific AI Agents as chat widgets on other websites. This upcoming feature will let you bring your custom assistant directly to your preferred platforms, making interaction seamless and convenient.
+はい、関連するデータや明確な指示を提供することで、AI Agentを自社やチームのニーズに合わせてカスタマイズできます。
 
-You can check the our latest **Changelog** for updates.
-
-***
-
-## Can the AI Agent show results visually?
-
-Yes! By enabling the [**Artifact**](https://doraverse.gitbook.io/docs/jp/feature-list/ai-agents/agents-capabilities/artifact) capability in the Agent’s settings, your AI Agent can generate and display complex visuals such as Mermaid diagrams, website prototypes, and interactive UI components for React and HTML.&#x20;
-
-These visuals are presented in a separate UI window to improve clarity and make interaction with the content easier and more intuitive.
+業務内容を反映したドキュメント、レポート、FAQなどをアップロードし、「ファイル検索」機能でナレッジベースを構築してください。AI Agentはこの情報を活用し、業務に即した回答やタスクを実行します。
 
 ***
 
-## Can I download output files generated by the AI Agent?
+## 複数の従業員でAI Agentの作成や改善を共同作業できますか？
 
-Absolutely! When you enable the [**Code Interpreter**](https://doraverse.gitbook.io/docs/jp/feature-list/ai-agents/agents-capabilities/code-interpreter) capability in the Agent’s settings, the AI Agent can run code to create files like reports or data outputs, which you can download directly.&#x20;
+もちろんです。Doraverseはコラボレーションを推奨しており、共有権限に応じて複数のメンバーがAI Agentの閲覧・編集・更新を行えます。
 
-It also securely handles file uploads and processing within your session.
-
-***
-
-## Can Artifact and Code Interpreter be used together?
-
-Absolutely! Combining both allows your AI Agent to generate code (via Code Interpreter) and immediately visualize the results in a separate UI window (via Artifact) for a powerful interactive experience.
+アクセス管理の詳細は[**「AI Agentの共有・権限設定」セクション**](https://doraverse.gitbook.io/docs/feature-list/ai-agents#id-6.-set-sharing-and-permissions)をご参照ください。
 
 ***
 
-## How often should I update or retrain my AI Agent?
+## AI Agentが誤った情報を返した場合はどうなりますか？
 
-It’s a good practice to regularly review and update your AI Agent to keep it aligned with changing business needs, new data, or evolving workflows. You should update it whenever there are significant changes in your company’s processes, policies, or knowledge base.
-
-Retraining or refining the agent periodically helps improve accuracy and responsiveness, especially if you receive feedback indicating misunderstandings or errors. Regular testing and iteration ensure your AI Agent remains a valuable, reliable assistant.
+AI Agentは高い精度と信頼性を目指していますが、複雑な質問や特殊なケースでは誤りが発生する場合があります。AI Agentのパフォーマンスは設定内容に依存するため、明確かつ具体的な指示を与えることでミスを最小限に抑えられます。また、モデルパラメータの調整や定期的なテスト・改善も重要です。
 
 ***
 
-## Can the Agent remember previous conversations or tasks?
+## DoraverseのAgentを自社Webサイトに統合したり、アクセスしたりできますか？
 
-By default, an AI Agent processes and responds based on the immediate conversation context within a single chat session. To provide continuity across interactions or ongoing projects, training the model through updates to its instructions or knowledge base is typically required.&#x20;
+はい、今後は特定のAgentをチャットウィジェットとして他のWebサイトに埋め込む機能を提供予定です。これにより、自社プラットフォーム上でカスタムアシスタントを手軽に利用できるようになります。
 
-However, Doraverse offers an advanced **Memory** feature that enables your AI Agent to retain information from prior conversations. This capability allows the agent to deliver personalized, context-aware responses over time, enhancing collaboration and project continuity.&#x20;
+最新情報は「Changelog」でご確認ください。
 
-For privacy and control, you can choose to enable or disable this memory feature as needed.
+***
+
+## AI Agentはビジュアルで結果を表示できますか？
+
+はい。Agentの設定で[「アーティファクト」](https://doraverse.gitbook.io/docs/feature-list/ai-agents/agents-capabilities/artifact)ケイパビリティを有効にすると、MermaidダイアグラムやWebサイトのプロトタイプ、ReactやHTMLのインタラクティブUIコンポーネントなど、複雑なビジュアルを生成・表示できます。
+
+これらのビジュアルは専用のUIウィンドウで表示され、内容の確認や操作がより直感的に行えます。
+
+***
+
+## AI Agentが生成したファイルをダウンロードできますか？
+
+もちろんです。Agentの設定で[Code Interpreterケイパビリティ](https://doraverse.gitbook.io/docs/feature-list/ai-agents/agents-capabilities/code-interpreter)を有効にすると、AI Agentがコードを実行してレポートやデータ出力などのファイルを生成し、直接ダウンロードできます。
+
+また、ファイルのアップロードや処理もセッション内で安全に行われます。
+
+***
+
+## アーティファクトとCode Interpreterは同時に利用できますか？
+
+はい、両方を組み合わせることで、AI Agentが「Code Interpreter」でコードを生成し、「アーティファクト」でその結果を即座にビジュアル化できます。これにより、よりインタラクティブな体験が可能です。
+
+***
+
+## AI Agentはどのくらいの頻度で更新・再学習すべきですか？
+
+業務内容やデータ、ワークフローの変化に合わせて、定期的にAI Agentを見直し・更新することを推奨します。会社のプロセスやナレッジベースに大きな変更があった際は必ず更新してください。
+
+また、フィードバックや誤りが見つかった場合は、再学習や調整を行うことで精度と応答性を維持できます。定期的なテストと改善が、信頼できるアシスタント運用のポイントです。
+
+***
+
+## Agentは過去の会話やタスクを記憶できますか？
+
+デフォルトでは、1つのチャットセッション内で直近の会話内容をもとに応答します。継続的なプロジェクトややり取りに対応する場合は、指示やナレッジベースの更新によるモデルのトレーニングが必要です。
+
+ただし、Doraverseに&#x306F;**「メモリー」**&#x6A5F;能があり、過去の会話内容を保持してパーソナライズされた応答や継続的なサポートが可能です。プライバシーや管理の観点から、この機能は必要に応じて有効・無効を切り替えられます。

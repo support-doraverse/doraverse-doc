@@ -1,20 +1,20 @@
 ---
-description: >-
-  We’d love to hear your thoughts! Help us improve by sharing your suggestions,
-  ideas, or issues.
+description: ご意見・ご要望・不具合のご報告をお待ちしています。サービス向上のため、ぜひ皆様の声をお聞かせください。
 ---
 
-# Feedback
+# フィードバッ
 
-There are two ways to send feedback to Doraverse:
+Doraverseへのフィードバック送信方法は2通りあります。
 
-## **In your workspace:**
+## ワークスペース内で:
 
-1. Click on **Account** in the **bottom-left corner** of the screen.
-2. Select **Feedback**.
+1. 画面左下の「アカウント」をクリックします。
+2. 「フィードバック」を選択します。
 
-An in-app feedback widget will appear on your screen, right inside your workspace.
+ワークスペース内にフィードバック用ウィジェットが表示され、そのままご意見を送信できます。
 
-## **Via direct link**
+## 専用リンクから
 
-Visit [https://feedback.doraverse.com/](https://feedback.doraverse.com/) to share ideas or issues and help us build a smarter, more efficient AI Universe for your work.
+[https://feedback.doraverse.com/](https://feedback.doraverse.com/) からも、ご意見やご要望、不具合のご報告を受け付けています。
+
+皆様の声をもとに、よりスマートで効率的なAIユニバースを目指してまいります。

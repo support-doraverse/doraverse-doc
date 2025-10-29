@@ -1,23 +1,23 @@
 ---
-description: We're here to support you and ensure you have the best experience.
+description: Doraverseは、お客様の快適なご利用をサポートいたします。
 ---
 
 # Contact
 
-Whether you have questions, feedback, or need assistance, there are several ways you can reach us:
+ご質問・ご要望・サポート依頼など、さまざまな方法でご連絡いただけます。
 
-## Email
+## メールでのお問い合わせ
 
-* For general inquiries and technical support, feel free to email us at [support@doraverse.com.](mailto:support@doraverse.com)
-* If you're interested in our services or need assistance regarding purchases, you can reach out to our sales contact at [hugh@doraverse.com](mailto:hugh@doraverse.com).
+* 一般的なご質問や技術サポートは、[support@doraverse.com](mailto:support@doraverse.com) までご連絡ください。
+* サービス導入やご購入に関するご相談は、[hugh@doraverse.com](mailto:hugh@doraverse.com) までお問い合わせください。
 
-## Community Channel
+## コミュニティチャンネル
 
-Join our vibrant community on [Slack](https://doraversecommunity.slack.com/ssb/redirect) to connect with other Doraverse users, share your insights, and get help from peers and our team.
+[Slackコミュニティ](https://doraversecommunity.slack.com/ssb/redirect) に参加して、他のDoraverseユーザーと交流したり、知見を共有したり、チームや他のユーザーからサポートを受けることができます。
 
-## Social Channels
+## ソーシャルチャンネル
 
-* Stay updated with the latest news and updates on our **X** profile. Follow [Doraverse on X](https://x.com/doraverse_ai).
-* Connect with us on **LinkedIn** to stay in the loop with our professional updates. Follow [Doraverse on LinkedIn](https://www.linkedin.com/company/doraverse)
+* 最新情報やお知らせは、**X**（旧Twitter）の [Doraverse公式アカウント](https://x.com/doraverse_ai) をフォローしてください。
+* **LinkedIn**でもプロフェッショナル向けの最新情報を発信しています。[Doraverse公式LinkedIn](https://www.linkedin.com/company/doraverse) をご覧ください。
 
-Feel free to leave us a message, follow our channels, or engage with our community to stay connected! We look forward to hearing from you and supporting your journey with Doraverse.
+ご質問やご要望はお気軽にお寄せください。各種チャンネルのフォローやコミュニティへのご参加もお待ちしています。Doraverseは、皆様の業務をしっかりサポートいたします。
