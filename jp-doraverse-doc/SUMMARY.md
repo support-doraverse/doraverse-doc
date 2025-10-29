@@ -74,4 +74,4 @@
 
 * [プライバシーポリシー](privacy-policy.md)
 * [フィードバッ](feedback.md)
-* [Contact](contact.md)
+* [お問い合わせ](contact.md)
