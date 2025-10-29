@@ -9,7 +9,7 @@
 * [🚀 はじめに](getting-started/README.md)
   * [Doraverseとは](getting-started/what-is-doraverse.md)
   * [ワークスペースにログインする](getting-started/log-in-to-your-workspace.md)
-  * [User Profile](getting-started/user-profile.md)
+  * [ユーザープロフィール](getting-started/user-profile.md)
   * [アカウント設定](getting-started/account-setting.md)
   * [Doraverseアプリのインストール](getting-started/install-doraverse-app.md)
 * [✅ 機能一覧](feature-list/README.md)
