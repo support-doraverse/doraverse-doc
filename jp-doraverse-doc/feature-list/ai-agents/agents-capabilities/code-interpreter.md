@@ -1,5 +1,5 @@
 ---
-description: Code Execution & File Handle with AI
+description: AIによるコード実行とファイル操作
 ---
 
 # Code Interpreter

@@ -4,7 +4,7 @@ icon: comment-dots
 
 # AIモデルとのチャット
 
-[新しいチャットを作成](chat-with-ai-models.md#create-new-chat)
+[新規チャット作成](chat-with-ai-models.md#chatto)
 
 [チャットするAIモデルを選択](chat-with-ai-models.md#choose-ai-model-to-chat)
 
@@ -18,21 +18,21 @@ icon: comment-dots
 
 [会話オプション：プロジェクトへ移動、名前変更、複製、アーカイブ、共有](chat-with-ai-models.md#conversation-options-three-dot-menu)
 
-## &#x20;新しいチャットを作成
+## &#x20;新規チャット作成
 
-メイン画面左上、モデル選択ドロップダウンの隣にある「新しいチャット」アイコンをクリックします。
+メイン画面左上、モデル選択ドロップダウンの隣にある**新しいチャット**アイコンをクリックします。
 
 新しい空白のチャットウィンドウが開きます。モデルを選択し、すぐに入力を始められます。
 
 <figure><img src="../.gitbook/assets/New Chat.png" alt=""><figcaption></figcaption></figure>
 
-「**会話サイドバー**」を開く場合（ロゴの隣のボタン）、**新規チャット**ボタンはサイドバー内に移動し、「メッセージ検索」バーの隣に表示されます。
+**会話サイドバー**を開く場合（ロゴの隣のボタン）、**新規チャット**ボタンはサイドバー内に移動し、**メッセージ検索**バーの隣に表示されます。
 
 <figure><img src="../.gitbook/assets/New Chat_2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-## AIモデルの選択
+## ャットするAIモデルを選択
 
 強力なAIモデルを瞬時に切り替えて、執筆・コーディング・検索など、あらゆるタスクに最適な応答を得ることができます。
 

@@ -20,7 +20,7 @@
     * [AIモデルパラメータ](feature-list/ai-agents/ai-model-parameter.md)
     * [Agentの機能](feature-list/ai-agents/agents-capabilities/README.md)
       * [Code Interpreter](feature-list/ai-agents/agents-capabilities/code-interpreter.md)
-      * [Artifact（アーティファクト）](feature-list/ai-agents/agents-capabilities/artifact.md)
+      * [アーティファクト](feature-list/ai-agents/agents-capabilities/artifact.md)
   * [プロジェクト](feature-list/project.md)
   * [プロンプトライブラリ](feature-list/prompt-library.md)
   * [Deep Research](feature-list/deep-research.md)

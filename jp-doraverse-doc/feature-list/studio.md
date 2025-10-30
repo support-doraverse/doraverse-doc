@@ -33,7 +33,7 @@ Doraverse Studioは、チームのアイデアを形にするためのオール�
 
 ### ステップ1：Studioにアクセス&#x20;
 
-Doraverseのホーム画面から、メインメニューの「Studio」アイコンを選択してください。すぐにStudioのワークスペースが開きます。
+Doraverseのホーム画面から、メインメニューの**Studio**アイコンを選択してください。すぐにStudioのワークスペースが開きます。
 
 <figure><img src="../.gitbook/assets/Studio for image.png" alt=""><figcaption></figcaption></figure>
 
@@ -62,7 +62,7 @@ Doraverseのホーム画面から、メインメニューの「Studio」アイ�
 
 #### さらに詳しい情報や結果を調整したい場合
 
-チャットバー横&#x306E;**「＋」**&#x30A2;イコンをクリックし、以下のオプションから選択してください。
+チャットバー横の「＋」アイコンをクリックし、以下のオプションから選択してください。
 
 * パソコンからアップロード
 * ライブラリから選択
@@ -71,11 +71,11 @@ Doraverseのホーム画面から、メインメニューの「Studio」アイ�
 
 <figure><img src="../.gitbook/assets/Continue Edit.png" alt=""><figcaption></figcaption></figure>
 
-画像が完成したら、画像の上にカーソルを合わせ、「ダウンロード画像」を選択すると、すぐに保存できます。
+画像が完成したら、画像の上にカーソルを合わせ、ダウンロード画像を選択すると、すぐに保存できます。
 
 ### 画像の編集
 
-さらに編集したい場合は、「画像を編集」をクリックしてください。最初からやり直す必要はありません。
+さらに編集したい場合は、画像を編集をクリックしてください。最初からやり直す必要はありません。
 
 編集したい画像は自動的にアップロードセクションに追加され、すぐにカスタマイズを続けられます。
 
@@ -104,14 +104,14 @@ Doraverse Studioでは、最新の高性能ビデオモデルを使って、素�
 
 #### 動画を生成する手順（画像生成と同じ流れ） <a href="#to-generate-a-video-same-flow-as-image-generation" id="to-generate-a-video-same-flow-as-image-generation"></a>
 
-* モデルを選択：各モデルの特徴、対応フォーマット、コストは説明カードでご確認ください。
-* 画像をアップロード（任意）：テキストのみで動画を作成する場合は省略できます。
+* **モデルを選択**：各モデルの特徴、対応フォーマット、コストは説明カードでご確認ください。
+* **画像をアップロード（任意）**：テキストのみで動画を作成する場合は省略できます。
 * プロンプトを入力。
-* 仕様を設定：アスペクト比、サイズ、長さ、音声（モデルが対応している場合）を選択します。
+* **仕様を設定**：アスペクト比、サイズ、長さ、音声（モデルが対応している場合）を選択します。
 
 ![](https://help.doraverse.com/~gitbook/image?url=https%3A%2F%2F82687067-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FbDXFRztwECY7ehfFFQoP%252Fuploads%252FRrHudKzgIESvAq456egf%252FScreenshot%25202025-10-23%2520at%252021.35.28.png%3Falt%3Dmedia%26token%3D7e493552-0a07-4163-a1c7-70da73c097d9\&width=768\&dpr=4\&quality=100\&sign=44a246c5\&sv=2)
 
-Studioで作成した画像から動画を作成することもできます。画像を開き、**「ビデオを作成」**&#x3092;選択し、同じ手順を繰り返してください。
+Studioで作成した画像から動画を作成することもできます。画像を開き、**ビデオを作成**を選択し、同じ手順を繰り返してください。
 
 ![](https://help.doraverse.com/~gitbook/image?url=https%3A%2F%2F82687067-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FbDXFRztwECY7ehfFFQoP%252Fuploads%252FW6enLYgZJUWNXiYUKAcu%252FScreenshot%25202025-10-23%2520at%252021.27.39.png%3Falt%3Dmedia%26token%3D9d470c52-a855-4455-ac7d-0e8993782f49\&width=768\&dpr=4\&quality=100\&sign=a466e7e6\&sv=2)
 
@@ -123,7 +123,7 @@ Studioで作成した画像から動画を作成することもできます。�
 
 ## ギャラリーの管理
 
-会話サイドバーで「ギャラリー」を選択すると、生成したすべての画像が整理されて保存されており、すぐにアクセスできます。
+会話サイドバーでギャラリーを選択すると、生成したすべての画像が整理されて保存されており、すぐにアクセスできます。
 
 <figure><img src="../.gitbook/assets/Gallery.png" alt=""><figcaption></figcaption></figure>
 
