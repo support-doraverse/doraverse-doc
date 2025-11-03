@@ -23,13 +23,13 @@ Doraverseのワークフロー自動化を使えば、AIがあなたの同僚の
 
 ## 新しいワークフロー自動化を作成
 
-上部の会話バーからワークフロー自動化をクリックし、**ワークフロー自動化ハブ**を開きます。ここで新しいワークフロー自動化を作成したり、既存のものを管理できます。**同時に実行できるワークフロー自動化は最大10件**です。
+<figure><img src="../.gitbook/assets/JP_Chat 5_Automation.gif" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Access automation.png" alt=""><figcaption></figcaption></figure>
+上部の会話バーからワークフロー自動化をクリックし、**ワークフロー自動化ハブ**を開きます。ここで新しいワークフロー自動化を作成したり、既存のものを管理できます。**同時に実行できるワークフロー自動化は最大10件**です。
 
 ### ワークフロー自動化の詳細を入力
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-09-24 at 22.51.57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-11-03 at 13.00.42.png" alt=""><figcaption></figcaption></figure>
 
 **名前**：分かりやすい名前を設定します（例：「週次ミーティング要約をSlackへ」）。
 
@@ -65,13 +65,11 @@ Doraverseのワークフロー自動化を使えば、AIがあなたの同僚の
 \
 **例を以下に示します。**
 
-<figure><img src="../.gitbook/assets/Automation-example.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-11-03 at 13.01.37.png" alt=""><figcaption></figcaption></figure>
 
 ### テストを実行
 
 プレビューパネルの**テストを実行**をクリックすると、AIが1回だけ自動化を実行します。結果を確認し、必要に応じて指示やツール、モデルを調整してください。
-
-<figure><img src="../.gitbook/assets/Automation-runtest.png" alt=""><figcaption></figcaption></figure>
 
 ### ワークフロー自動化を作成
 

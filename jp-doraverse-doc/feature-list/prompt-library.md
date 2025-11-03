@@ -1,5 +1,6 @@
 ---
 description: 強力なプロンプトを作成・保存・再利用できます
+hidden: true
 icon: book-open-cover
 ---
 

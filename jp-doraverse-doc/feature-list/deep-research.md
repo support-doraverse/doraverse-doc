@@ -33,7 +33,7 @@ DoraverseのDeep Researchは、モジュール型のマルチAgentワークフ�
 
 送信後、Deep Researchがご要望に合わせた明確なアクションプランを即時生成します。
 
-<figure><img src="../.gitbook/assets/0815.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/JP_Research_2.gif" alt=""><figcaption></figcaption></figure>
 
 ### ステップ2：調査計画の確認・編集
 
@@ -45,17 +45,13 @@ AIによる調査計画を事前に確認し、必要に応じて調整できま
 
 AIが調査全体（検索、記事の精査、データ収集、レポート作成）を自動で進めます。その間、お客様は他の作業に集中できます。
 
-<figure><img src="../.gitbook/assets/Deep Research - Activities &#x26; Report.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/JP_Research_3.jpg" alt=""><figcaption></figcaption></figure>
 
 **アクティビティ**タブで、訪問サイト・読んだ内容・発見事項・参照元など、リアルタイムで進捗を確認できます。各ステージの状況が常に把握できます。
 
 完了後は**レポート**タブで、構造化され出典明記の専門レポートを受け取れます。信頼できる実用的なインサイトが満載です。
 
 ### ステップ4：レポートを活用
-
-<figure><img src="../.gitbook/assets/Research - H4.gif" alt=""><figcaption></figcaption></figure>
-
-
 
 * **NotebookAI**に保存して、いつでもすぐに参照
 * **ポッドキャスト形式の音声要約**を生成

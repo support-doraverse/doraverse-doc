@@ -14,7 +14,7 @@ description: ワークスペースのメンバーを管理できます。メン�
 
 「メンバー」タブでは、DoraverseのWorkspaceメンバーを管理・整理できます。
 
-ナビゲーション：**アカウント → 管理者設定 → メンバー**
+ナビゲーション：**アカウント → 管理者の設定 → ＋ メンバーを招待**
 
 ここでできること：
 
@@ -22,7 +22,7 @@ description: ワークスペースのメンバーを管理できます。メン�
 * メールアドレス、ロール、最終アクティブ日時でメンバーを検索できます。
 * 新しいメンバーの招待、ロールの変更、メンバーの削除が行えます。
 
-<figure><img src=".gitbook/assets/Member Management.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-11-03 at 12.44.22.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -39,9 +39,6 @@ description: ワークスペースのメンバーを管理できます。メン�
      * **請求管理**：請求情報のみ管理できます。
      * **ビュアー**：閲覧のみ可能です。
    * **部署**：所属する部署を割り当てます。詳細は[部署設定](https://help.doraverse.com/settings/workspace-setting/department)をご参照ください。
-
-<figure><img src=".gitbook/assets/Screenshot 2025-10-04 at 22.13.29.png" alt=""><figcaption></figcaption></figure>
-
 3.  **「メンバーを招待」**&#x3092;クリックします。
 
     Doraverseから招待メールが送信され、ログイン情報が案内されます。
@@ -56,8 +53,6 @@ description: ワークスペースのメンバーを管理できます。メン�
 
 * メンバー一覧から該当者を探します。
 * 「ロール」ドロップダウンをクリックし、新しいロールを選択します。
-
-<figure><img src=".gitbook/assets/Change role.png" alt=""><figcaption></figcaption></figure>
 
 📌 **注意**：ロールの変更はWorkspace所有者のみが行えます。
 

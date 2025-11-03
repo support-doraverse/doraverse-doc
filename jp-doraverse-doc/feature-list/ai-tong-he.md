@@ -29,13 +29,11 @@ Doraverseの統合機能では、お客様の許可のもとで各種アプリ�
 
 ホーム画面のチャットバーか&#x3089;**「統合管理」**&#x3092;開き、統合可能なアプリ一覧を表示します。連携したいアプリ&#x306E;**「接続」**&#x3092;クリックしてください。
 
-<figure><img src="https://82687067-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FbDXFRztwECY7ehfFFQoP%2Fuploads%2FxIFRjiVEZfgqY4NkQacl%2FScreenshot%202025-10-23%20at%2021.09.19.png?alt=media&#x26;token=6a398072-563e-498b-bc24-25f835237117" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/JP_Chat 4_Integration.gif" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://82687067-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FbDXFRztwECY7ehfFFQoP%2Fuploads%2Fj9OYUn69hVWJxKQbz9Tv%2FScreenshot%202025-10-23%20at%2021.05.39.png?alt=media&#x26;token=4d701750-b1cd-4e7e-8cc0-f20b4c67c764" alt=""><figcaption></figcaption></figure>
+**Composio**の同意画面にリダイレクトされますので、OAuth経由でサインインし、要求されているスコープ（権限）を確認します。必要最小限のスコープのみ許可することを推奨します（後から拡張やアクセスの取り消しも可能です）
 
-**「Composio」**&#x306E;同意画面にリダイレクトされますので、OAuth経由でサインインし、要求されているスコープ（権限）を確認します。必要最小限のスコープのみ許可することを推奨します（後から拡張やアクセスの取り消しも可能です）
-
-<figure><img src="https://82687067-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FbDXFRztwECY7ehfFFQoP%2Fuploads%2F9LopbpPMnt5wp9EUobwQ%2FScreenshot%202025-10-23%20at%2021.17.15.png?alt=media&#x26;token=ef1aed92-6e23-4153-97b1-f06ee2517e2e" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-11-03 at 13.04.46.png" alt=""><figcaption></figcaption></figure>
 
 承認が完了すると、自動的にDoraverseに戻り、アプリの統合が完了します。
 
@@ -45,16 +43,12 @@ Doraverseの統合機能では、お客様の許可のもとで各種アプリ�
 
 ### 統合済みアプリの利用方法
 
-**「統合管理」**&#x304B;ら利用したい統合済みアプリを選択します。複数選択も可能です。
-
-<figure><img src="https://82687067-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FbDXFRztwECY7ehfFFQoP%2Fuploads%2FoHlXIs7eGa4htVMdHAk0%2FScreenshot%202025-10-23%20at%2021.16.09.png?alt=media&#x26;token=3850b1ba-01a3-49ab-a71d-98681dd5dd1c" alt=""><figcaption></figcaption></figure>
-
-\
+**統合管理**から利用したい統合済みアプリを選択します。複数選択も可能です。\
 **統合モード**に入ると、Doraverseは自動的にモデル&#x3092;**「Doraverse統合」**&#x306B;切り替え、最適なパフォーマンスを発揮します。
 
 あとはAIにやりたいことを指示するだけです。
 
-<figure><img src="https://82687067-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FbDXFRztwECY7ehfFFQoP%2Fuploads%2FtVcLMs9rtoaHohMNlvrz%2FScreenshot%202025-10-23%20at%2021.13.07.png?alt=media&#x26;token=ed315b63-ea80-45f5-8149-8418ea4fd41d" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-11-03 at 13.06.05.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

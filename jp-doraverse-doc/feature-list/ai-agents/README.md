@@ -46,7 +46,7 @@ Agent の作成には以下が含まれます。
 
 Agent 作成時の基本設定は、Agent のアイデンティティと動作を決定する重要な要素です。
 
-<figure><img src="../../.gitbook/assets/Basic Settings_Agent (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-03 at 12.55.28.png" alt=""><figcaption></figcaption></figure>
 
 効果的な設定のために知っておくべきポイント：
 
@@ -113,13 +113,11 @@ _**🤔**_**&#x20;パラメータの最適化方法が必要ですか？**
 
 追加の設定を活用することで、AI Agent に高度な機能や柔軟性を持たせ、より賢くタスクを理解・実行できるようになります。
 
-<figure><img src="../../.gitbook/assets/More Settings_Agent (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-03 at 12.56.54.png" alt=""><figcaption></figcaption></figure>
 
 ### 会話のきっかけ
 
 Agentが会話を始める際に使う初期プロンプトを設定できます。これにより、最初のやり取りから目的が明確になり、ユーザーもスムーズに利用を開始できます。
-
-<figure><img src="../../.gitbook/assets/Conversation Starter.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -137,22 +135,11 @@ Code Interpreter API は、自然言語での指示に基づきコンピュー�
 
 ### 機能
 
-**Code Interpreter を有効にする** Agent が以下の機能を使用できるように、本機能を有効にします。
-
-* Python、JavaScript、Go、C++、Java、PHP、Rust など、さまざまな言語でコードを、ローカル環境や設定、サンドボックスなしで実行できます。
-* ファイルのアップロードとダウンロードをスムーズに管理し、シームレスなワークフローを実現します。
-* ファイルを安全に処理・分析します。複雑な計算や大規模データの取り扱いも可能です。
-
 **アーティファクトを有効化**するタイミング：
 
 * ReactコンポーネントやHTMLスニペット、ダイアグラムなどのビジュアルまたはインタラクティブな出力を自動生成したい場合
 * 結果を専用のUIウィンドウで視覚的に分かりやすく表示したい場合
 * Agentが生成・表示するインタラクティブ／ビジュアルコンテンツをカスタマイズしたい場合
-
-**ファイル検索を有効化する**タイミング：
-
-* アップロードしたドキュメントから直接事実を取得し、リサーチやオンボーディング、ナレッジアクセスに即時対応したい場合
-* キーワードだけでなく意味や意図を理解するセマンティック検索機能が必要な場合
 
 ***
 
@@ -162,8 +149,6 @@ Code Interpreter API は、自然言語での指示に基づきコンピュー�
 
 アクションを使うと、API経由で外部サービスと連携し、AI Agentの機能を拡張できます。これにより、天気の確認、会議の予約、重要な情報の取得など、現実世界のデータとやり取りしながらさまざまなタスクを自動で実行できるようになります。\
 Agent に新しいスキル――**他のプログラムとシームレスにやり取りする力**――を教えるイメージです。
-
-<figure><img src="../../.gitbook/assets/Action_Agent.png" alt=""><figcaption></figcaption></figure>
 
 アクションを作成する際は、以下の情報が必要です。
 
@@ -177,8 +162,6 @@ Agent に新しいスキル――**他のプログラムとシームレスにや
 
 Google検索、画像生成、計算などの強力な外部サービスとAgent を連携できます。ワークフローに必要なインテグレーションだけを選択し、Agent の集中力とインターフェースの見やすさを保ちましょう。
 
-<figure><img src="../../.gitbook/assets/Tool_Agent.png" alt=""><figcaption></figcaption></figure>
-
 ***
 
 ### Agent の公開
@@ -188,13 +171,9 @@ Google検索、画像生成、計算などの強力な外部サービスとAgent
 * **全ユーザーに共有**：組織内の全員が Agent を検索・利用できます。
 * **他のユーザーによる編集を許可**：チームメンバーが Agent の設定を共同編集できます。オフの場合、編集できるのは自分だけです。
 
-<figure><img src="../../.gitbook/assets/Pulish_Agent.png" alt=""><figcaption></figcaption></figure>
-
 ## Agent の使い方
 
 チャットバーで「@」を入力し、Agent  名を指定するとチャットで呼び出せます。
-
-<figure><img src="../../.gitbook/assets/Mention Agent.png" alt=""><figcaption></figcaption></figure>
 
 ### 💡ヒント
 

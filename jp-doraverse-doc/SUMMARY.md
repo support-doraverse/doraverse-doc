@@ -1,6 +1,6 @@
 # Table of contents
 
-## User Document <a href="#user" id="user"></a>
+## ユーザードキュメント <a href="#user" id="user"></a>
 
 * [👋 ユーザードキュメントへようこそ](README.md)
 
@@ -16,6 +16,9 @@
   * [利用可能なAIモデル](feature-list/available-ai-models.md)
   * [AIモデルとのチャット](feature-list/chat-with-ai-models.md)
   * [ツール](feature-list/tools.md)
+  * [AI 統合](feature-list/ai-tong-he.md)
+  * [AI自動化](feature-list/ai-automation.md)
+  * [Studio](feature-list/studio.md)
   * [AI Agents](feature-list/ai-agents/README.md)
     * [AIモデルパラメータ](feature-list/ai-agents/ai-model-parameter.md)
     * [Agentの機能](feature-list/ai-agents/agents-capabilities/README.md)
@@ -25,12 +28,9 @@
   * [プロンプトライブラリ](feature-list/prompt-library.md)
   * [Deep Research](feature-list/deep-research.md)
   * [NotebookAI](feature-list/notebookai.md)
-  * [Studio](feature-list/studio.md)
   * [Create Image](feature-list/create-image.md)
-  * [AI 統合](feature-list/ai-tong-he.md)
-  * [AI自動化](feature-list/ai-automation.md)
 
-## Admin Workspace&#x20;
+## 管理者ドキュメント <a href="#admin-workspace" id="admin-workspace"></a>
 
 * [🚪 管理者Workspaceへようこそ](admin-workspace/welcome-to-admin-workspace.md)
 * [📋 レポート](admin-workspace/reporting/README.md)
@@ -48,11 +48,9 @@
     * [部署](settings/workspace-setting/department.md)
     * [カスタムドメイン](settings/workspace-setting/custom-domain.md)
   * [🤖 Chat 設定](settings/chat-she-ding.md)
-  * [🤖 Setup AI Models](setting/setup-ai-models.md)
-  * [🚧 Setup AI Limits](setting/setup-ai-limits.md)
 * [💳 プラン・請求・お支払い](plans-billing-and-payment.md)
 
-## Help Center
+## ヘルプセンター <a href="#help-center" id="help-center"></a>
 
 * [ヘルプセンターへようこそ](help-center/welcome-to-help-center.md)
 * [よくある質問](help-center/faqs/README.md)
@@ -66,12 +64,7 @@
   * [統合とデータコントロール](help-center/faqs/integration-data-controls.md)
 * [トラブルシューティング](help-center/toraburushtingu.md)
 
-## Privacy & Policy <a href="#policies" id="policies"></a>
-
-* [利用規約](policies/term-of-services.md)
-
 ***
 
-* [プライバシーポリシー](privacy-policy.md)
 * [フィードバッ](feedback.md)
 * [お問い合わせ](contact.md)

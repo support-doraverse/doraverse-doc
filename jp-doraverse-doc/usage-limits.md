@@ -4,8 +4,6 @@ description: Workspace全体または個々のユーザーがモデルを利用�
 
 # ⚠️ 利用制限
 
-<figure><img src=".gitbook/assets/Screenshot 2025-07-11 at 10.28.28.png" alt=""><figcaption></figcaption></figure>
-
 ## AI利用上限の設定方法
 
 1. メイン画面から**アカウント → 管理者設定 → 利用上限**に進みます。

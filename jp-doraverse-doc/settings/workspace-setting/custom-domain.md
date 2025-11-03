@@ -16,16 +16,12 @@ Doraverseでは、`ai.my-domain.com` や `work.my-domain.com` のようなカス
 
 ホーム画面か&#x3089;**「アカウント」→「管理者設定」→「Workspace設定」→「ドメイン」**&#x3078;進みます。&#x20;
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
-
 ### ステップ2：カスタムドメインを入力
 
 カスタムドメインを追加する際は、スムーズな設定のために以下のルールを守ってください：
 
 * すでに所有しているドメイン（NamecheapやGoDaddyなどで購入済み）である必要があります。
 * カスタムドメインには必ずサブドメインを含めてください（例：`www.my-domain.com`、`work.my-domain.net`、`chat.my-domain.com` など）。
-
-<figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 17.19.42.png" alt=""><figcaption></figcaption></figure>
 
 例:
 
@@ -40,8 +36,6 @@ Doraverseでは、`ai.my-domain.com` や `work.my-domain.com` のようなカス
 
 **「ドメインを追加」**&#x3092;クリックすると、Doraverseがドメインプロバイダーに追加すべき正確なDNSレコード情報を表示します。
 
-<figure><img src="../../.gitbook/assets/subdomain.png" alt=""><figcaption></figcaption></figure>
-
 ### ステップ3：ドメインプロバイダーでCNAMEレコードを設定
 
 * ドメイン管理画面（DNSレコードやホストレコードの設定）にアクセスします。
@@ -52,25 +46,17 @@ Doraverseでは、`ai.my-domain.com` や `work.my-domain.com` のようなカス
 
 設定を保存します。DNSレコードの反映には時間がかかる場合があります。
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 17.24.22.png" alt=""><figcaption></figcaption></figure>
-
 設定を保存します。DNSレコードの反映には時間がかかる場合があります。
 
 ### ステップ4：接続を確認
 
 Doraverseのドメイン設定画面に戻り、**「確認」**&#x3092;クリックします。正しく設定されていれば、ワークスペースがカスタムアドレスで利用可能になります。
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 23.27.35.png" alt=""><figcaption></figcaption></figure>
-
 カスタムドメインはいつでも変更可能です。設定を変更する場合は、同じ手順を繰り返してください。
-
-<figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 23.33.58.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### 💡 Domain Name Mismatch Detected」エラーの対処法
-
-<figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 23.01.47.png" alt=""><figcaption></figcaption></figure>
 
 このエラーは、DoraverseがDNS設定を確認した際、CNAMEやドメイン名がDNSプロバイダーの情報と一致しない場合に表示されます。
 

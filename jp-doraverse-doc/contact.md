@@ -2,18 +2,18 @@
 description: Doraverseは、お客様の快適なご利用をサポートいたします。
 ---
 
-# Contact
+# お問い合わせ
 
 ご質問・ご要望・サポート依頼など、さまざまな方法でご連絡いただけます。
 
 ## メールでのお問い合わせ
 
 * 一般的なご質問や技術サポートは、[support@doraverse.com](mailto:support@doraverse.com) までご連絡ください。
-* サービス導入やご購入に関するご相談は、[hugh@doraverse.com](mailto:hugh@doraverse.com) までお問い合わせください。
+* サービス導入やご購入に関するご相談は、[daniel@doraverse.com](mailto:daniel@doraverse.com) までお問い合わせください。
 
 ## コミュニティチャンネル
 
-[Slackコミュニティ](https://doraversecommunity.slack.com/ssb/redirect) に参加して、他のDoraverseユーザーと交流したり、知見を共有したり、チームや他のユーザーからサポートを受けることができます。
+[Slack](https://doraversecommunity.slack.com/ssb/redirect)または[Discord](https://discord.gg/uyUR8BSrd8)の活気あるコミュニティに参加し、他のDoraverseユーザーとの交流や情報共有、仲間やDoraverseチームからのサポートを受けることができます。
 
 ## ソーシャルチャンネル
 

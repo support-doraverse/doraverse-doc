@@ -35,8 +35,6 @@ Doraverse Studioは、チームのアイデアを形にするためのオール�
 
 Doraverseのホーム画面から、メインメニューの**Studio**アイコンを選択してください。すぐにStudioのワークスペースが開きます。
 
-<figure><img src="../.gitbook/assets/Studio for image.png" alt=""><figcaption></figcaption></figure>
-
 ### ステップ2：AIモデルを選択
 
 主要なAIモデルから選択し、生成時の料金も事前に確認できます。
@@ -58,8 +56,6 @@ Doraverseのホーム画面から、メインメニューの**Studio**アイコ�
 * **カスタムサイズ**：用途やプラットフォームに合わせて最適な画像サイズを選択可能です。
 * **生成枚数**：一度に最大4枚まで生成し、気に入ったものを選べます。
 
-<figure><img src="../.gitbook/assets/Image generation.png" alt=""><figcaption></figcaption></figure>
-
 #### さらに詳しい情報や結果を調整したい場合
 
 チャットバー横の「＋」アイコンをクリックし、以下のオプションから選択してください。
@@ -69,8 +65,6 @@ Doraverseのホーム画面から、メインメニューの**Studio**アイコ�
 
 ### 画像のダウンロード
 
-<figure><img src="../.gitbook/assets/Continue Edit.png" alt=""><figcaption></figcaption></figure>
-
 画像が完成したら、画像の上にカーソルを合わせ、ダウンロード画像を選択すると、すぐに保存できます。
 
 ### 画像の編集
@@ -79,13 +73,9 @@ Doraverseのホーム画面から、メインメニューの**Studio**アイコ�
 
 編集したい画像は自動的にアップロードセクションに追加され、すぐにカスタマイズを続けられます。
 
-<figure><img src="../.gitbook/assets/Continue Editing 2.png" alt=""><figcaption></figcaption></figure>
-
 ### 画像情報の表示
 
 画像をクリックすると、詳細情報を簡単に確認できます。添付ファイルや作成日時、作成者、サイズ、ファイル形式などの主要データが表示されます。
-
-<figure><img src="../.gitbook/assets/Image Info.png" alt=""><figcaption></figcaption></figure>
 
 **💡 ヒント:** 最後の行にご注目ください。これは画像生成に使われたAIプロンプトです。再生成や調整、再利用したい場合に参考になります。
 
@@ -109,11 +99,7 @@ Doraverse Studioでは、最新の高性能ビデオモデルを使って、素�
 * プロンプトを入力。
 * **仕様を設定**：アスペクト比、サイズ、長さ、音声（モデルが対応している場合）を選択します。
 
-![](https://help.doraverse.com/~gitbook/image?url=https%3A%2F%2F82687067-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FbDXFRztwECY7ehfFFQoP%252Fuploads%252FRrHudKzgIESvAq456egf%252FScreenshot%25202025-10-23%2520at%252021.35.28.png%3Falt%3Dmedia%26token%3D7e493552-0a07-4163-a1c7-70da73c097d9\&width=768\&dpr=4\&quality=100\&sign=44a246c5\&sv=2)
-
 Studioで作成した画像から動画を作成することもできます。画像を開き、**ビデオを作成**を選択し、同じ手順を繰り返してください。
-
-![](https://help.doraverse.com/~gitbook/image?url=https%3A%2F%2F82687067-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FbDXFRztwECY7ehfFFQoP%252Fuploads%252FW6enLYgZJUWNXiYUKAcu%252FScreenshot%25202025-10-23%2520at%252021.27.39.png%3Falt%3Dmedia%26token%3D9d470c52-a855-4455-ac7d-0e8993782f49\&width=768\&dpr=4\&quality=100\&sign=a466e7e6\&sv=2)
 
 ***
 
@@ -124,8 +110,6 @@ Studioで作成した画像から動画を作成することもできます。�
 ## ギャラリーの管理
 
 会話サイドバーでギャラリーを選択すると、生成したすべての画像が整理されて保存されており、すぐにアクセスできます。
-
-<figure><img src="../.gitbook/assets/Gallery.png" alt=""><figcaption></figcaption></figure>
 
 ギャラリー内では、以下の操作が簡単に行えます。
 

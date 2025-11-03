@@ -1,5 +1,6 @@
 ---
 description: すべてのツールをひとつにまとめて、手間なく生産性を高めましょう。
+hidden: true
 icon: screwdriver-wrench
 ---
 
@@ -14,8 +15,6 @@ icon: screwdriver-wrench
 [キャンバス](tools.md#canvas)
 
 Doraverseのチャットバーからすぐにアクセスできるこれらの強力な内蔵ツールは、AIモデルの機能をテキスト会話だけでなく幅広く拡張します。
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-15 at 14.09.56.png" alt=""><figcaption></figcaption></figure>
 
 ## パーソナライズ
 

@@ -23,8 +23,6 @@ Doraverse NotebookAIは、業務のための**デジタルライブラリ**で�
 
 Doraverseのホーム画面で、メインメニューから**Notebook**アイコンを選択してください。ご自身のNotebookAIスペースが表示されます。
 
-<figure><img src="../.gitbook/assets/Notebook.png" alt=""><figcaption></figcaption></figure>
-
 新しいNotebookを作成するには、「新規Notebookを作成」をクリックします。
 
 ノートブックのパーソナライズ設定が表示されます：
@@ -35,8 +33,6 @@ Doraverseのホーム画面で、メインメニューから**Notebook**アイ�
 ***
 
 ## NotebookAIの使い方
-
-<figure><img src="../.gitbook/assets/In Notebook.png" alt=""><figcaption></figcaption></figure>
 
 ### ステップ1：ソースを追加する
 
@@ -59,8 +55,6 @@ AIによるQ\&Aで知識を引き出せます。手順は以下の通りです�
 * 会話に使用するAIモデルを選択
 * 質問を入力
 * アップロード済み情報に基づいた、信頼性の高い回答を即座に取得。各回答には引用元へのリンクが付き、根拠を確認しながら活用できます。
-
-<figure><img src="../.gitbook/assets/Notebook in use.png" alt=""><figcaption></figcaption></figure>
 
 **📌 注意：**
 

@@ -24,11 +24,7 @@ icon: comment-dots
 
 新しい空白のチャットウィンドウが開きます。モデルを選択し、すぐに入力を始められます。
 
-<figure><img src="../.gitbook/assets/New Chat.png" alt=""><figcaption></figcaption></figure>
-
 **会話サイドバー**を開く場合（ロゴの隣のボタン）、**新規チャット**ボタンはサイドバー内に移動し、**メッセージ検索**バーの隣に表示されます。
-
-<figure><img src="../.gitbook/assets/New Chat_2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -38,7 +34,7 @@ icon: comment-dots
 
 チャット画面左上のドロップダウンメニューをクリックすると、利用可能なLLMモデルとバージョンが表示されます。各モデルには特徴や用途が簡潔に説明されているため、目的に合ったモデルを選択しやすくなっています。
 
-<figure><img src="../.gitbook/assets/Choose Model to chat.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/JP_Chat 2_Chat.gif" alt=""><figcaption></figcaption></figure>
 
 💡 **ヒント:**\
 どのモデルを使うか迷った場合は、同じ質問で複数のモデルを試してみて、最も納得できる結果を選びましょう。&#x20;
@@ -58,8 +54,6 @@ icon: comment-dots
 * **パソコンからアップロード**：お使いの端末に保存されているファイルを選択できます。
 * **Google Driveと接続**：Google Driveに保存されているファイルを直接選択し、すぐに連携できます。
 
-<figure><img src="../.gitbook/assets/Connect to GG Drive.png" alt=""><figcaption></figcaption></figure>
-
 #### DoraverseでGoogle Driveを接続する方法：
 
 * オプション1：チャットバーの「＋」アイコンをクリックし、**Google Driveと接続**を選択します。
@@ -67,11 +61,7 @@ icon: comment-dots
 
 Google Driveを選択すると、サインインとDoraverseへのアクセス許可を求められる場合があります。
 
-<figure><img src="../.gitbook/assets/Connect GG Drive.png" alt=""><figcaption></figcaption></figure>
-
 アクセスが許可されると、チャット内でGoogle Driveのファイルを直接閲覧・選択できるようになります。
-
-<figure><img src="../.gitbook/assets/Connect GG Drive_2.png" alt=""><figcaption></figcaption></figure>
 
 ### 💬 プロンプトライブラリ（ / ）
 
@@ -146,15 +136,11 @@ AIの回答を音声で再生できます。
 
 情報の確認や詳細の調査を行いたい場合は、引用部分にカーソルを合わせてください。元の情報源を直接確認できるため、すべての回答において透明性と信頼性が確保されています。
 
-<figure><img src="../.gitbook/assets/Source LinksCitations.png" alt=""><figcaption></figcaption></figure>
-
 ***
 
 ## 会話サイドバー
 
 「**会話サイドバー」**&#x306F;、会話の中心となるナビゲーションハブです。複数の会話やプロジェクトをかんたんに切り替え、整理しながら効率的に作業を管理できます。
-
-<figure><img src="../.gitbook/assets/Conversation Sidebar.png" alt=""><figcaption></figcaption></figure>
 
 「会話サイドバー」は、トグルボタンをクリックすることで、いつでも表示・非表示を切り替えできます。
 
