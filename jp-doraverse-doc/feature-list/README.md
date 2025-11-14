@@ -24,8 +24,8 @@ description: 生産性と業務効率を飛躍的に高めるAI搭載機能を�
 [ai-automation.md](ai-automation.md)
 {% endcontent-ref %}
 
-{% content-ref url="studio.md" %}
-[studio.md](studio.md)
+{% content-ref url="ai-studio.md" %}
+[ai-studio.md](ai-studio.md)
 {% endcontent-ref %}
 
 {% content-ref url="ai-agents/" %}

@@ -3,17 +3,17 @@ description: シンプルなアイデアから魅力的な画像、印象的な�
 icon: photo-film-music
 ---
 
-# Studio
+# AI Studio
 
-[Doraverse Studioとは？](studio.md#what-is-doraverse-studio)
+[Doraverse Studioとは？](ai-studio.md#what-is-doraverse-studio)
 
-[Studioで画像を生成する](studio.md#image-generation-with-studio)
+[Studioで画像を生成する](ai-studio.md#image-generation-with-studio)
 
-[Studioで動画を生成する](studio.md#video-generation-with-studio-coming-soon)
+[Studioで動画を生成する](ai-studio.md#video-generation-with-studio-coming-soon)
 
-[Studioで音声を生成する（近日公開）](studio.md#audio-generation-with-studio-coming-soon)
+[Studioで音声を生成する（近日公開）](ai-studio.md#audio-generation-with-studio-coming-soon)
 
-[ギャラリーの管理](studio.md#manage-your-gallery)
+[ギャラリーの管理](ai-studio.md#manage-your-gallery)
 
 ## Doraverse Studioとは？
 

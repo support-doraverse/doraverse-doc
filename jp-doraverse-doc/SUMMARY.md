@@ -1,8 +1,8 @@
 # Table of contents
 
-## ユーザードキュメント <a href="#user" id="user"></a>
+## ユーザー向けガイド <a href="#user" id="user"></a>
 
-* [👋 ユーザードキュメントへようこそ](README.md)
+* [👋 Doraverseへようこそ](README.md)
 
 ***
 
@@ -15,25 +15,25 @@
 * [✅ 機能一覧](feature-list/README.md)
   * [利用可能なAIモデル](feature-list/available-ai-models.md)
   * [AIモデルとのチャット](feature-list/chat-with-ai-models.md)
-  * [ツール](feature-list/tools.md)
-  * [AI 統合](feature-list/ai-tong-he.md)
-  * [AI自動化](feature-list/ai-automation.md)
-  * [Studio](feature-list/studio.md)
+  * [AI Studio](feature-list/ai-studio.md)
   * [AI Agents](feature-list/ai-agents/README.md)
     * [AIモデルパラメータ](feature-list/ai-agents/ai-model-parameter.md)
     * [Agentの機能](feature-list/ai-agents/agents-capabilities/README.md)
       * [Code Interpreter](feature-list/ai-agents/agents-capabilities/code-interpreter.md)
       * [アーティファクト](feature-list/ai-agents/agents-capabilities/artifact.md)
+  * [AI 統合](feature-list/ai-tong-he.md)
+  * [AI自動化](feature-list/ai-automation.md)
+  * [AIノート作成](feature-list/ai-notetaker.md)
   * [プロジェクト](feature-list/project.md)
+  * [ディープリサーチ](feature-list/deep-research.md)
+  * [ツール](feature-list/tools.md)
   * [プロンプトライブラリ](feature-list/prompt-library.md)
-  * [Deep Research](feature-list/deep-research.md)
   * [NotebookAI](feature-list/notebookai.md)
   * [Create Image](feature-list/create-image.md)
-  * [AIノート作成](feature-list/ai-notetaker.md)
 
-## 管理者ドキュメント <a href="#admin-workspace" id="admin-workspace"></a>
+## 管理者向け <a href="#admin-workspace" id="admin-workspace"></a>
 
-* [🚪 管理者Workspaceへようこそ](admin-workspace/welcome-to-admin-workspace.md)
+* [🚪 ワークスペース管理](admin-workspace/welcome-to-admin-workspace.md)
 * [📋 レポート](admin-workspace/reporting/README.md)
   * [概要](admin-workspace/reporting/overview.md)
   * [ユーザーアクティビティレポート](admin-workspace/reporting/user-activity-report.md)
@@ -63,9 +63,9 @@
     * [モデルの能力に基づいてAIモデルを選択する](help-center/faqs/chat-with-ai-models/choose-ai-model-based-on-their-capabilities.md)
   * [AI Agent](help-center/faqs/ai-agent.md)
   * [統合とデータコントロール](help-center/faqs/integration-data-controls.md)
-* [トラブルシューティング](help-center/toraburushtingu.md)
+* [トラブルシューティング](help-center/troubleshooting.md)
 
 ***
 
 * [フィードバッ](feedback.md)
-* [お問い合わせ](contact.md)
+* [⛑️ お問い合わせ](contact.md)

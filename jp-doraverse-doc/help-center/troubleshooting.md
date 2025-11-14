@@ -1,6 +1,10 @@
+---
+hidden: true
+---
+
 # トラブルシューティング
 
-[よくあるエラーメッセージ](toraburushtingu.md#common-error-messages)
+[よくあるエラーメッセージ](troubleshooting.md#common-error-messages)
 
 ## よくあるエラーメッセージ
 

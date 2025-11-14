@@ -1,10 +1,8 @@
-# 🚪 管理者Workspaceへようこそ
+# 🚪 ワークスペース管理
 
-## 管理者Workspaceとは？
+ワークスペース管理は、ユーザー、ロール、アクセス、利用状況、請求、構成を一元的に監督できる管理者向けハブです。監視、権限、各種設定を集約し、管理者が運用を効率的かつ安全に保てるようにします。
 
-Doraverseの管理者Workspaceは、Doraverse 管理者が組織内のユーザー、部署、AIモデル、利用状況を一元管理できるコントロールパネルです。管理者は、活動状況の監視、アクセス権の管理、安全かつ効率的な運用を行うことができます。
-
-## 管理者Workspaceとは？
+## ワークスペース管理でできること
 
 {% content-ref url="reporting/" %}
 [reporting](reporting/)
@@ -26,14 +24,14 @@ Doraverseの管理者Workspaceは、Doraverse 管理者が組織内のユーザ�
 [plans-billing-and-payment.md](../plans-billing-and-payment.md)
 {% endcontent-ref %}
 
-
-
-## 管理者Workspaceへのアクセス方法
+## ワークスペース管理へのアクセス方法
 
 1. 画面左下の**アカウント**をクリックします。
 2. **管理者設定**を選択します。
 
-これで、管理用の各種タブが表示された管理者Workspaceが開きます。
+<figure><img src="../.gitbook/assets/Admin Setting JP.png" alt="" width="375"><figcaption></figcaption></figure>
 
-💡 **ご注意:** **管理者Workspace**はDoraverse 管理者権限を持つユーザーのみ表示されます。アクセス権が必要な場合は、組織のDoraverse 管理者にお問い合わせください。
+管理に特化した複数のタブを備えた「ワークスペース管理」が表示されます。
+
+💡 注意: **ワークスペース管理**は管理者権限を持つユーザーにのみ表示されます。アクセスが必要な場合は、所属組織のDoraverse管理者にお問い合わせください。
 
