@@ -16,7 +16,7 @@
   * [利用可能なAIモデル](feature-list/available-ai-models.md)
   * [AIモデルとのチャット](feature-list/chat-with-ai-models.md)
   * [ツール](feature-list/tools.md)
-  * [AI 統合](feature-list/ai-tong-he.md)
+  * [AI 統合](feature-list/ai-integration.md)
   * [AI自動化](feature-list/ai-automation.md)
   * [Studio](feature-list/studio.md)
   * [AI Agents](feature-list/ai-agents/README.md)
@@ -29,6 +29,7 @@
   * [Deep Research](feature-list/deep-research.md)
   * [NotebookAI](feature-list/notebookai.md)
   * [Create Image](feature-list/create-image.md)
+  * [AIノート作成](feature-list/ai-notetaker.md)
 
 ## 管理者ドキュメント <a href="#admin-workspace" id="admin-workspace"></a>
 

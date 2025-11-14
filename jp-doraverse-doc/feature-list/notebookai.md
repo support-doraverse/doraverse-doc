@@ -1,5 +1,6 @@
 ---
 description: 社内ドキュメントを即座に答えやインサイトへ変換し、チームで知識を共有できる。
+hidden: true
 icon: book-open-reader
 ---
 
