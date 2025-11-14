@@ -5,17 +5,17 @@ description: >-
 icon: photo-film-music
 ---
 
-# Studio
+# AI Studio
 
-[What is Doraverse Studio?](studio.md#what-is-doraverse-studio)
+[What is Doraverse Studio?](ai-studio.md#what-is-doraverse-studio)
 
-[Image Generation with Studio](studio.md#image-generation-with-studio)
+[Image Generation with Studio](ai-studio.md#image-generation-with-studio)
 
-[Video Generation with Studio](studio.md#video-generation-with-studio-coming-soon)
+[Video Generation with Studio](ai-studio.md#video-generation-with-studio-coming-soon)
 
-[Audio Generation with Studio (Coming soon)](studio.md#audio-generation-with-studio-coming-soon)
+[Audio Generation with Studio (Coming soon)](ai-studio.md#audio-generation-with-studio-coming-soon)
 
-[Manage Your Gallery](studio.md#manage-image-in-your-gallery)
+[Manage Your Gallery](ai-studio.md#manage-image-in-your-gallery)
 
 ## What is Doraverse Studio?
 

@@ -9,7 +9,7 @@ Whether you have questions, feedback, or need assistance, there are several ways
 ## Email
 
 * For general inquiries and technical support, feel free to email us at [support@doraverse.com.](mailto:support@doraverse.com)
-* If you're interested in our services or need assistance regarding purchases, you can reach out to our sales contact at [hugh@doraverse.com](mailto:hugh@doraverse.com).
+* If you're interested in our services or need assistance regarding purchases, you can reach out to our sales contact at [daniel@doraverse.com](mailto:daniel@doraverse.com).
 
 ## Community Channel
 

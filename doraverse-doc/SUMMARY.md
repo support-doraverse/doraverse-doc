@@ -1,8 +1,8 @@
 # Table of contents
 
-## User Document <a href="#user" id="user"></a>
+## USER GUIDE <a href="#user" id="user"></a>
 
-* [👋 Welcome to User Documentation](README.md)
+* [👋 Welcome to Doraverse](README.md)
 
 ***
 
@@ -15,25 +15,25 @@
 * [✅ Feature List](feature-list/README.md)
   * [Available AI Models](feature-list/available-ai-models.md)
   * [Chat with AI Models](feature-list/chat-with-ai-models.md)
-  * [Tools](feature-list/tools.md)
+  * [AI Studio](feature-list/ai-studio.md)
   * [AI Agents](feature-list/ai-agents/README.md)
     * [AI Model Parameter](feature-list/ai-agents/ai-model-parameter.md)
     * [Agent's Capabilities](feature-list/ai-agents/agents-capabilities/README.md)
       * [Code Interpreter](feature-list/ai-agents/agents-capabilities/code-interpreter.md)
       * [Artifact](feature-list/ai-agents/agents-capabilities/artifact.md)
-  * [Project](feature-list/project.md)
-  * [Prompt Library](feature-list/prompt-library.md)
-  * [Create Image](feature-list/create-image.md)
-  * [Deep Research](feature-list/deep-research.md)
-  * [NotebookAI](feature-list/notebookai.md)
-  * [Studio](feature-list/studio.md)
   * [AI Integration](feature-list/ai-integration.md)
   * [AI Automation](feature-list/ai-automation.md)
   * [AI Notetaker](feature-list/ai-notetaker.md)
+  * [Project](feature-list/project.md)
+  * [Deep Research](feature-list/deep-research.md)
+  * [Tools](feature-list/tools.md)
+  * [Prompt Library](feature-list/prompt-library.md)
+  * [NotebookAI](feature-list/notebookai.md)
+  * [Create Image](feature-list/create-image.md)
 
-## Admin Workspace  <a href="#admin" id="admin"></a>
+## Administration <a href="#admin" id="admin"></a>
 
-* [🚪 Welcome to Admin Workspace](admin/welcome-to-admin-workspace.md)
+* [🚪 Workspace Management](admin/welcome-to-admin-workspace.md)
 * [📋 Reporting](admin/reporting/README.md)
   * [Overview](admin/reporting/overview.md)
   * [User Activity Report](admin/reporting/user-activity-report.md)
@@ -53,7 +53,7 @@
 
 ## Help Center <a href="#help" id="help"></a>
 
-* [Welcome to Help Center](help/welcome-to-help-center.md)
+* [⛑️ Welcome to Help Center](help/welcome-to-help-center.md)
 * [FAQs](help/faqs/README.md)
   * [On-Boarding](help/faqs/on-boarding.md)
   * [Account & Login](help/faqs/account-and-login.md)
