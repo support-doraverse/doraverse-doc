@@ -1,6 +1,5 @@
 ---
 description: すべてのツールをひとつにまとめて、手間なく生産性を高めましょう。
-hidden: true
 icon: screwdriver-wrench
 ---
 
@@ -8,17 +7,17 @@ icon: screwdriver-wrench
 
 [パーソナライズ](tools.md#personalization)
 
-[検索ツール](tools.md#search-tool)
+[アーティファクト](tools.md#tifakuto)
 
-[コードインタープリタ](tools.md#code-interpreter)
-
-[キャンバス](tools.md#canvas)
+[Web検索＆コードインタープリター](tools.md#webkdointpurit)
 
 Doraverseのチャットバーからすぐにアクセスできるこれらの強力な内蔵ツールは、AIモデルの機能をテキスト会話だけでなく幅広く拡張します。
 
+<figure><img src="../.gitbook/assets/Tools JP.png" alt=""><figcaption></figcaption></figure>
+
 ## パーソナライズ
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-15 at 14.20.23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Personalize JP.gif" alt=""><figcaption></figcaption></figure>
 
 Doraverseのパーソナライズ機能では、すべてのAIモデルとのやり取りを自由にカスタマイズできます。ニックネームや肩書きの設定から、ユーザーの個性に合った特徴やコミュニケーションスタイルの指定まで、AI体験を自分専用に作り上げることができます。
 
@@ -26,35 +25,32 @@ Doraverseのパーソナライズ機能では、すべてのAIモデルとのや
 
 これらの設定はいつでも変更でき、やり取りを常に新鮮であなたらしく保つことができます。
 
-## 検索ツール
+## アーティファクト
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-15 at 14.36.46.png" alt=""><figcaption></figcaption></figure>
+**アーティファクト**は、プロンプトやファイルからインタラクティブな成果物を作成できる組み込みツールです。日常的なダッシュボードやレポートから、ウェブサイトやアプリのUIまで幅広く対応しています。
 
-Doraverseの高度な検索ツールは、最新のウェブデータを提供し、常に最新情報に基づいた回答を実現します。ニュース、画像、信頼できる情報源へのインライン引用を統合しているため、完全かつ信頼性の高い回答を1つのインターフェースで得ることができます。
+Canvas上で変更内容をリアルタイムにプレビューし、そのままHTML／CSS／JSとしてエクスポートできます。生成されたファイルはそのままご自身の環境に貼り付けたり、ダウンロードしてご利用いただけます。特別な設定は不要です。実現したい内容を記述するだけで、自動的に構築が始まります。
 
-自動的に有効化されるこの検索ツールにより、すべてのAIモデルがウェブ検索機能を利用でき、ニーズに合わせて正確かつコンテキストに即した情報を提供します。
+<figure><img src="../.gitbook/assets/Artifact JP.gif" alt=""><figcaption></figcaption></figure>
 
-## Code Interpreter
+### アーティファクトでできること
 
-<figure><img src="../.gitbook/assets/Code Intepreter.png" alt=""><figcaption></figcaption></figure>
+* フィルターやツールチップ、ダークモード対応のダッシュボードやレポートの作成
+* CSVデータからKPIタイル、トレンド、コホート分析、外れ値検出などを含むライブレポート生成
+* ブランドスタイルを反映したメール用HTMLの作成
+* キャンペーン用マイクロサイトやランディングページの作成（レスポンシブ・高速対応）
+* Reactコンポーネントやアプリ画面（フォーム、タブ、モーダル、バリデーションなど）の生成
+* 組織図やアーキテクチャマップ、ファネルなどのダイアグラムやデータストーリーの作成
+* プロダクトツアーやインタラクティブガイド、JSON／ログビューアなどのナレッジ・ヘルプコンテンツの作成
 
-Code Interpreterツールは、AIモデルが安全なサンドボックス環境内でPythonコードを記述・実行できる機能です。これにより、データ分析、コーディング、数学など、さまざまな分野の複雑な課題にも対応できます。
+……このほかにも、さまざまなユースケースに対応しています。思い描いたアイデアは、AIアーティファクトが形にします。
 
-主な用途は以下の通りです。
+## Web検索＆コードインタープリター
 
-* ファイル処理：多様なデータ形式を簡単に扱えます。
-* データ可視化：グラフや可視化を含むファイルを生成します。
-* イテレーティブな問題解決：複雑な課題を段階的にコードで解決します。
+Doraverseでは、すべてのAIモデルでWeb検索と組み込みのコードインタープリターが自動的に利用できるようになりまし&#x305F;**（自動ツールオーケストレーション対応）**。
 
-## キャンバス
+これにより、どのモデルでも最新情報（ニュースや画像など）をWeb検索し、インラインで出典を表示できます。また、Pythonを使ったファイル操作やコーディング、グラフ作成も可能です。ツールの切り替えや、モデルごとのブラウジング・コーディング対応を気にする必要はありません。
 
-<figure><img src="../.gitbook/assets/Canvas.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Search JP.png" alt=""><figcaption></figcaption></figure>
 
-Doraverseのキャンバスツールは、**Reactコンポーネント**、HTML構造、**ダイアグラム**を即座に生成し、可視化ワークフローを効率化します。
-
-主な特徴：
-
-* チャット内の**専用UIウィンドウ**
-* **インタラクティブ編集**：リアルタイムでコードを直接修正・デバッグ可能
-* **ライブプレビュー**：編集結果を即座に確認し、迅速な反復作業が可能です。
-
+<figure><img src="../.gitbook/assets/Code Intepreter JP.png" alt=""><figcaption></figcaption></figure>
