@@ -5,6 +5,10 @@ icon: clipboard-list-check
 
 # AIノート作成
 
+[AIノート作成とは何ですか？](ai-notetaker.md#aintotohadesuka)
+
+[DoraverseでAIノート作成を始める方法](ai-notetaker.md#doraversedeaintowomeru)
+
 ## AIノート作成とは何ですか？
 
 AIノート作成は、ミーティングの面倒な部分（ノートや次のアクション）を自動で処理し、チームが会話に集中し、迅速に実行できるようサポートします。

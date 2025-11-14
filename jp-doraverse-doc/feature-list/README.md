@@ -16,8 +16,8 @@ description: 生産性と業務効率を飛躍的に高めるAI搭載機能を�
 [tools.md](tools.md)
 {% endcontent-ref %}
 
-{% content-ref url="ai-integration.md" %}
-[ai-integration.md](ai-integration.md)
+{% content-ref url="ai-tong-he.md" %}
+[ai-tong-he.md](ai-tong-he.md)
 {% endcontent-ref %}
 
 {% content-ref url="ai-automation.md" %}
