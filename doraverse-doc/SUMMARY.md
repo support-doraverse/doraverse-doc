@@ -29,6 +29,7 @@
   * [Studio](feature-list/studio.md)
   * [AI Integration](feature-list/ai-integration.md)
   * [AI Automation](feature-list/ai-automation.md)
+  * [AI Notetaker](feature-list/ai-notetaker.md)
 
 ## Admin Workspace  <a href="#admin" id="admin"></a>
 

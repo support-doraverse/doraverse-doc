@@ -1,5 +1,6 @@
 ---
 description: Create, save, and reuse powerful prompts
+hidden: true
 icon: book-open-cover
 ---
 

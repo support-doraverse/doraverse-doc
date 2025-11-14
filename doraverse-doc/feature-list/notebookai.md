@@ -2,6 +2,7 @@
 description: >-
   Turn your internal documents into instant answers, insights, and collaborative
   knowledge .
+hidden: true
 icon: book-open-reader
 ---
 
