@@ -1,5 +1,5 @@
 ---
-description: Boost productivity effortlessly with every tool you need in one place.
+description: Extend AI model capabilities with tools to deliver better answers.
 icon: screwdriver-wrench
 ---
 
@@ -7,19 +7,19 @@ icon: screwdriver-wrench
 
 [Personalization](tools.md#personalization)
 
-[Search Tool](tools.md#search-tool)
+[Artifact](tools.md#ai-artifact)
 
-[Code Interpreter](tools.md#code-interpreter)
-
-[Canvas](tools.md#canvas)
+[Web Search & Code Interpreter](tools.md#web-search-and-code-interpreter)
 
 Located conveniently in the chat bar, Doraverse offers powerful built-in tools that extend AI model capabilities beyond just text-based conversations.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-15 at 14.09.56.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tools.png" alt=""><figcaption></figcaption></figure>
 
 ## Personalization&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-15 at 14.20.23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Personalize.gif" alt=""><figcaption></figcaption></figure>
+
+
 
 The Personalization in Doraverse lets you customize how all AI models interact with you. From setting a nickname and title to defining the traits and communication style that resonate with your personality, you have the power to create an AI experience tailored exclusively to you.&#x20;
 
@@ -27,38 +27,33 @@ With your preferences securely in place, you won’t need to repeat information 
 
 Modify these settings anytime to keep your interactions fresh, personalized, and effortlessly connected to you.
 
-## **Search Tool**
+## Artifact
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-15 at 14.36.46.png" alt=""><figcaption></figcaption></figure>
+**Artifact** is a built‑in tool that turns your prompts and files into interactive work — from everyday dashboards and reports to full websites and app UIs.&#x20;
 
-Doraverse’s advanced Search tool delivers the latest web data, ensuring your answers are always up-to-date. With integrated news, images, and inline citations linked to verified sources, you get complete, trustworthy responses —all in a single interface.&#x20;
+Preview changes live in Canvas, then export self‑contained HTML/CSS/JS to paste into your stack or download as a file. No setup. Just describe the outcome and watch it build.
 
-Enabled automatically, this Search tool provides all AI models with web search capabilities, ensuring they deliver precise and context-rich results to meet your needs.
+<figure><img src="../.gitbook/assets/Artifact.gif" alt=""><figcaption></figcaption></figure>
 
-## **Code Interpreter**
+### What you can do with Artifact:
+
+* Dashboards and reports with filters, tooltips, and dark mode
+* CSV to live report, with KPI tiles, trends, cohorts, outliers and more
+* Email HTML with branded styling
+* Campaign microsites and landing pages — responsive and fast
+* React components and app screens (forms, tabs, modals, validation,...)
+* Diagrams and data stories—org charts, architecture maps, funnels
+* Knowledge and help — product tours, interactive guides, JSON/log viewers
+
+...and endless use cases are waiting for you. If you can imagine it, AI Artifact can bring it to life.
+
+## Web Search & Code Interpreter
+
+Doraverse now uses **Automatic tool orchestratio**n to make **Web Search and a built‑in Code Interpreter available to every AI model by default**.&#x20;
+
+That means any model can search the web for the latest info (news, images) with inline citations, and write/run Python for file handling, coding, and charts. No manual tool toggles, no worrying about a model’s native browsing or coding support.
+
+<figure><img src="../.gitbook/assets/Search.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Code Intepreter.png" alt=""><figcaption></figcaption></figure>
 
-The Code Interpreter tool empowers AI models to write and execute Python code within a secure, sandboxed environment, enabling them to tackle complex challenges across various domains such as data analysis, coding, and mathematics.&#x20;
-
-Key uses include:
-
-* File Processing: Handle diverse data formats effortlessly.
-* Data Visualization: Generate files featuring graphs and visualizations.
-* Iterative Problem-Solving: Write and execute code step-by-step to address intricate problems efficiently.
-
-## **Canvas**
-
-<figure><img src="../.gitbook/assets/Canvas (1).gif" alt=""><figcaption></figcaption></figure>
-
-Canvas tool in Doraverse is designed to streamline visualization workflows by instantly generating **React components, HTML structures, and Diagrams.**
-
-Features include:
-
-* **Separate UI window** within your chat
-* **Interactive Editing:** Directly modify and debug code in real-time.
-* **Live Preview**: Instantly view outcomes of your edits for quick iterations.
-
-
-
-###
