@@ -53,9 +53,9 @@
 * [🔀 設定](settings.md)
 * [💳 プラン・請求・お支払い](plans-billing-and-payment.md)
 
-## ヘルプセンター <a href="#help-center" id="help-center"></a>
+## ヘルプ <a href="#help-center" id="help-center"></a>
 
-* [ヘルプセンターへようこそ](help-center/welcome-to-help-center.md)
+* [ヘルプセンター](help-center/welcome-to-help-center.md)
 * [よくある質問](help-center/faqs/README.md)
   * [オンボーディング](help-center/faqs/on-boarding.md)
   * [アカウントとログイン](help-center/faqs/account-and-login.md)
