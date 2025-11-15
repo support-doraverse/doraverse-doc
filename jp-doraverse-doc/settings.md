@@ -1,8 +1,12 @@
+---
+hidden: true
+---
+
 # 🔀 設定
 
-[設定とは？](./#what-is-setting)
+[設定とは？](settings.md#what-is-setting)
 
-[設定に含まれる内容](./#whats-included-in-setting)
+[設定に含まれる内容](settings.md#whats-included-in-setting)
 
 ## 設定とは？
 

@@ -34,6 +34,7 @@
 
 ## 管理者向け <a href="#admin-workspace" id="admin-workspace"></a>
 
+* [概要](admin-workspace/overview.md)
 * [🚪 ワークスペース管理](admin-workspace/welcome-to-admin-workspace.md)
 * [📋 レポート](admin-workspace/reporting/README.md)
   * [概要](admin-workspace/reporting/overview.md)
@@ -44,12 +45,12 @@
 
 * [👤 メンバー管理](member-management.md)
 * [⚠️ 利用制限](usage-limits.md)
-* [🔀 設定](setting/README.md)
-  * [🧳 Workspace設定](settings/workspace-setting/README.md)
-    * [ブランド](settings/workspace-setting/branding.md)
-    * [部署](settings/workspace-setting/department.md)
-    * [カスタムドメイン](settings/workspace-setting/custom-domain.md)
-  * [🤖 Chat 設定](settings/chat-she-ding.md)
+* [🧳 ワークスペース設定](workspace-settings/README.md)
+  * [ブランド](workspace-settings/branding.md)
+  * [部署](workspace-settings/department.md)
+  * [ドメイン](workspace-settings/custom-domain.md)
+* [🤖 モデル設定](model-management.md)
+* [🔀 設定](settings.md)
 * [💳 プラン・請求・お支払い](plans-billing-and-payment.md)
 
 ## ヘルプセンター <a href="#help-center" id="help-center"></a>

@@ -16,8 +16,8 @@
 [usage-limits.md](../usage-limits.md)
 {% endcontent-ref %}
 
-{% content-ref url="../setting/" %}
-[setting](../setting/)
+{% content-ref url="../settings.md" %}
+[settings.md](../settings.md)
 {% endcontent-ref %}
 
 {% content-ref url="../plans-billing-and-payment.md" %}
