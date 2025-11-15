@@ -15,6 +15,7 @@
 * [✅ 機能一覧](feature-list/README.md)
   * [利用可能なAIモデル](feature-list/available-ai-models.md)
   * [AIモデルとのチャット](feature-list/chat-with-ai-models.md)
+  * [AIディベート](feature-list/ai-debate.md)
   * [AI Studio](feature-list/ai-studio.md)
   * [AI Agents](feature-list/ai-agents/README.md)
     * [AIモデルパラメータ](feature-list/ai-agents/ai-model-parameter.md)
