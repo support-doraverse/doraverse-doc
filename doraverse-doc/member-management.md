@@ -2,7 +2,7 @@
 description: 'Manage your workspace roster: add member, assign roles remove members.'
 ---
 
-# 👤 Member Management
+# 👤 Members
 
 [Add Members](member-management.md#add-members)
 
@@ -41,7 +41,7 @@ Follow these step to bring new people into your workspace:
   * Member – Access to Doraverse features only (no access to Admin Settings).
   * Billing – Manage billing details only.
   * Viewer – View-only access.
-* **Department**: Assign the department the member belongs to. Learn more in [Department](settings/workspace-setting/department.md).
+* **Department**: Assign the department the member belongs to. Learn more in [Department](workspace-settings/department.md).
 
 <figure><img src=".gitbook/assets/Screenshot 2025-10-04 at 22.13.29.png" alt=""><figcaption></figcaption></figure>
 

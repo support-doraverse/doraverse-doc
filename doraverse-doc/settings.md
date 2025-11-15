@@ -1,8 +1,12 @@
+---
+hidden: true
+---
+
 # 🔀 Settings
 
-[What is Setting?](./#what-is-portal-setting)
+[What is Setting?](settings.md#what-is-portal-setting)
 
-[What’s Included in Setting?](./#whats-included-in-portal-setting)
+[What’s Included in Setting?](settings.md#whats-included-in-portal-setting)
 
 ## What is Setting?
 

@@ -15,6 +15,7 @@
 * [✅ Feature List](feature-list/README.md)
   * [Available AI Models](feature-list/available-ai-models.md)
   * [Chat with AI Models](feature-list/chat-with-ai-models.md)
+  * [AI Debate](feature-list/ai-debate.md)
   * [AI Studio](feature-list/ai-studio.md)
   * [AI Agents](feature-list/ai-agents/README.md)
     * [AI Model Parameter](feature-list/ai-agents/ai-model-parameter.md)
@@ -34,6 +35,7 @@
 ## Administration <a href="#admin" id="admin"></a>
 
 * [🚪 Workspace Management](admin/welcome-to-admin-workspace.md)
+* [Overview](admin/overview.md)
 * [📋 Reporting](admin/reporting/README.md)
   * [Overview](admin/reporting/overview.md)
   * [User Activity Report](admin/reporting/user-activity-report.md)
@@ -41,14 +43,14 @@
 
 ***
 
-* [👤 Member Management](member-management.md)
+* [👤 Members](member-management.md)
 * [⚠️ Usage Limits](usage-limits.md)
-* [🔀 Settings](settings/README.md)
-  * [🧳 Workspace Setting](settings/workspace-setting/README.md)
-    * [Branding](settings/workspace-setting/branding.md)
-    * [Department](settings/workspace-setting/department.md)
-    * [Custom Domain](settings/workspace-setting/custom-domain.md)
-  * [🤖 Chat Settings](settings/chat-settings.md)
+* [🧳 Workspace Settings](workspace-settings/README.md)
+  * [Branding](workspace-settings/branding.md)
+  * [Department](workspace-settings/department.md)
+  * [Domain](workspace-settings/custom-domain.md)
+* [🤖 Model Management](model-management.md)
+* [🔀 Settings](settings.md)
 * [💳 Plans, Billing & Payment](plans-billing-and-payment.md)
 
 ## Help Center <a href="#help" id="help"></a>

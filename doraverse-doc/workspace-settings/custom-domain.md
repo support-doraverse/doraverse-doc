@@ -2,7 +2,7 @@
 description: Set up your custom domain on Doraverse
 ---
 
-# Custom Domain
+# Domain
 
 In Doraverse, you can set up a custom domain (like `ai.my-domain.com` or `work.my-domain.com`) so your workspace is easier to remember, access, and truly feels like your own.
 
@@ -16,7 +16,7 @@ Below is a step-by-step guide to get you up and running.
 
 From your home screen, go to: Account → Admin Settings → Workspace Settings → Domain.&#x20;
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2: Enter Your Custom Domain
 
@@ -29,7 +29,7 @@ There are a few important rules to follow when adding your custom domain to ensu
     `work.my-domain.net`\
     Any subdomain is fine (e.g., `chat.my-domain.com`)
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 17.19.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-07 at 17.19.42.png" alt=""><figcaption></figcaption></figure>
 
 In the example:&#x20;
 
@@ -44,7 +44,7 @@ In the example:&#x20;
 
 Click **Add Domain**. Doraverse will show you the exact DNS record you’ll need to add to your domain provider.
 
-<figure><img src="../../.gitbook/assets/subdomain.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/subdomain.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3: Set Up a CNAME Record with Your Domain Provider
 
@@ -54,7 +54,7 @@ Click **Add Domain**. Doraverse will show you the exact DNS record you’ll need
   * Value/Points to: Copy the “Value” shown in Doraverse.
   * TTL (Time To Live): You can leave TTL on “Automatic,” which works fine for most users. If you want your changes to update more quickly, set TTL to a low value like 5 minutes.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 17.24.22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-07 at 17.24.22.png" alt=""><figcaption></figcaption></figure>
 
 Save your changes. DNS records might take sometime to update.
 
@@ -63,17 +63,17 @@ Save your changes. DNS records might take sometime to update.
 Return to the Domain setting space in Doraverse. Click **Check.**\
 If everything is set up correctly, your workspace is now live at your custom address.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 23.27.35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-07 at 23.27.35.png" alt=""><figcaption></figcaption></figure>
 
 You can always change the custom domain later. Just repeat the setup steps carefully to update your settings.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 23.33.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-07 at 23.33.58.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### 💡 Tips: Fixing "Domain Name Mismatch Detected"&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-08-07 at 23.01.47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-07 at 23.01.47.png" alt=""><figcaption></figcaption></figure>
 
 If you enter this error, it means: Doraverse checked your DNS settings and found the CNAME or domain name you entered doesn't match what’s in your DNS provider’s records.
 

@@ -16,8 +16,8 @@ Workspace Management is your admin hub for overseeing users, roles, access, usag
 [usage-limits.md](../usage-limits.md)
 {% endcontent-ref %}
 
-{% content-ref url="../settings/" %}
-[settings](../settings/)
+{% content-ref url="../settings.md" %}
+[settings.md](../settings.md)
 {% endcontent-ref %}
 
 {% content-ref url="../plans-billing-and-payment.md" %}
