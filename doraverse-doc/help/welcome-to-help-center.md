@@ -1,4 +1,4 @@
-# ⛑️ Welcome to Help Center
+# Help Center
 
 ## Administration
 

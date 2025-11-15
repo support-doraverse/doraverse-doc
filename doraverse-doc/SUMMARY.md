@@ -53,9 +53,9 @@
 * [🔀 Settings](settings.md)
 * [💳 Plans, Billing & Payment](plans-billing-and-payment.md)
 
-## Help Center <a href="#help" id="help"></a>
+## HELP
 
-* [⛑️ Welcome to Help Center](help/welcome-to-help-center.md)
+* [Help Center](help/welcome-to-help-center.md)
 * [FAQs](help/faqs/README.md)
   * [On-Boarding](help/faqs/on-boarding.md)
   * [Account & Login](help/faqs/account-and-login.md)
