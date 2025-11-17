@@ -15,13 +15,11 @@ Debate is designed to support users who want multi-perspective reasoning and cle
 
 ## How Debate works
 
-In Doraverse, Debate is a structured, multi-model discussion.
+In Doraverse, Debate is a structured, multi-model discussion. Each model responds in sequence and builds on the previous response, working together like an “AI review team.”\
+The first model you choose creates the core answer.\
+The following models act as critical reviewers: they look for missing angles, question weak or risky assumptions, and highlight areas that need clarity. Each reviewer adds challenge, depth, and new perspectives to the discussion.
 
-Each model responds in sequence and builds on the previous response. Models challenge claims, correct weak points, and add missing angles. They refine arguments as the debate progresses, creating a layered and evolving discussion. Conflicting viewpoints, agreements, and reasoning paths naturally emerge as each model thinks and reacts.
-
-Through this sequential reasoning process, the debate surfaces more angles, reduces hallucinations, and results in stronger conclusions.
-
-After the discussion ends, Doraverse generates an Agent Summary that consolidates all viewpoints into a clear, final answer.
+This process transforms a single answer into a richer analysis — more angles explored, fewer blind spots, and a final conclusion you can trust more.
 
 ***
 
