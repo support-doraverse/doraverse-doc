@@ -16,7 +16,7 @@
   * [Available AI Models](feature-list/available-ai-models.md)
   * [Chat with AI Models](feature-list/chat-with-ai-models.md)
   * [AI Debate](feature-list/ai-debate.md)
-  * [AI Parallel](feature-list/ai-parallel.md)
+  * [AI Parallel](feature-list/copy-of-ai-debate.md)
   * [AI Studio](feature-list/ai-studio.md)
   * [AI Agents](feature-list/ai-agents/README.md)
     * [AI Model Parameter](feature-list/ai-agents/ai-model-parameter.md)

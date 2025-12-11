@@ -7,7 +7,7 @@ icon: screwdriver-wrench
 
 [Personalization](tools.md#personalization)
 
-[Artifact](tools.md#ai-artifact)
+[AI Canvas](tools.md#ai-artifact)
 
 [Web Search & Code Interpreter](tools.md#web-search-and-code-interpreter)
 
@@ -27,15 +27,22 @@ With your preferences securely in place, you won’t need to repeat information 
 
 Modify these settings anytime to keep your interactions fresh, personalized, and effortlessly connected to you.
 
-## Artifact
+## AI Canvas
 
-**Artifact** is a built‑in tool that turns your prompts and files into interactive work — from everyday dashboards and reports to full websites and app UIs.&#x20;
+**AI Canvas** is an AI‑powered visual panel in Doraverse where AI agents render and execute generated artifacts — from JSON configurations and UI components to full pages, charts, and documents.
 
-Preview changes live in Canvas, then export self‑contained HTML/CSS/JS to paste into your stack or download as a file. No setup. Just describe the outcome and watch it build.
+Each AI Canvas opens as a separate UI window in your chat, running outputs like JSON and HTML/CSS/JS and turning them into live UI previews, charts, and other visuals next to your messages. No extra setup — just describe what you want and watch it build.
 
-<figure><img src="../.gitbook/assets/Artifact.gif" alt=""><figcaption></figcaption></figure>
+### Who AI Canvas is for:
 
-### What you can do with Artifact:
+AI Canvas fits teams who turn ideas into working interfaces and experiences:
+
+* **Developers & frontend engineers:** code HTML/CSS/JS or JSON configs and see them as live UI.
+* **Product & UX:** explore flows and screens as interactive canvases, not static specs.
+* **Data & Ops:** Turn queries, CSVs, and configs into interactive charts, tables, and internal dashboards with downloadable files.
+* **Marketing & Content:** shape landing pages and email layouts with instant visual feedback.
+
+### What you can do with AI Canvas:
 
 * Dashboards and reports with filters, tooltips, and dark mode
 * CSV to live report, with KPI tiles, trends, cohorts, outliers and more
@@ -45,7 +52,7 @@ Preview changes live in Canvas, then export self‑contained HTML/CSS/JS to past
 * Diagrams and data stories—org charts, architecture maps, funnels
 * Knowledge and help — product tours, interactive guides, JSON/log viewers
 
-...and endless use cases are waiting for you. If you can imagine it, AI Artifact can bring it to life.
+...and endless use cases are waiting for you. If you can imagine it, AI Canvas can bring it to life.
 
 ## Web Search & Code Interpreter
 
