@@ -18,10 +18,8 @@
 
 We offer plan options that fit how you work and who you work with:
 
-* **Individuals (Starter, Pro)** — for one person; best for solo use and personal work.&#x20;
-* **Business** — best for teams and businesses; multi-seat included.
-
-Every subscription includes a default number of seats and monthly credits.
+* **Individuals (Starter, Pro)** — for one person; best for solo use and personal work. Each plan includes **1 seat** and a fixed amount of **monthly credits**.
+* **Business** — for teams and organizations; includes multiple seats, and each seat comes with its own monthly credits so your total credits scale with the number of seats.
 
 For the latest plan options, inclusions, and pricing, check our [**Pricing page**](https://doraverse.com/pricing).
 
@@ -29,31 +27,36 @@ For the latest plan options, inclusions, and pricing, check our [**Pricing page*
 
 ## Free Trial
 
-Try Doraverse free for **14 days** — no credit card required.
+Try Doraverse free for 14 days — no credit card required, with no limit on workspace members during the trial.
 
 ### **What’s included during the trial**
 
 * All Business plan features, **except video generation and custom domain.**
-* The **default Business seat count** so you can add teammates during the trial.
+* **Unlimited members** in your workspace during the trial.
 * Free credits to explore all AI features.
 
 ### How the trial works
 
 * **If you subscribe during the trial:** Your trial ends immediately. You’re charged right away and your billing cycle starts on that date. Monthly credits for your chosen plan are added immediately. Any remaining free credits stay usable until they expire.
 * **If you don’t subscribe:** The trial ends automatically after 14 days. Any remaining free credits stay usable until they expire.
+* If you choose an Individuals plan (Starter or Pro) after the trial, your workspace will be limited to **1 seat** and all other members will lose access.
 
 ***
 
 ## Seat Adjustment (Business Plan)
 
+Seat adjustments are only available on the Business plan. Individuals plans (Starter, Pro) always include 1 seat and do not support additional seats.
+
 ### **Included seats**
 
-Business plan includes **5 seats** by default. Add more as your team grows in **Admin Settings → Billing → Overview → Adjust seats.**
+On the **Business plan**, you pay per seat. Each workspace must have **at least 3 seats**, and you can add or remove seats in **Admin Settings → Billing → Overview → Adjust seats.**
+
+Each seat on the Business plan includes its own monthly credits, so both your total cost and monthly credits scale with the number of seats.
 
 ### Increase seats
 
 * Additional seats are charged immediately.
-* If added mid-cycle, the seat price is prorated for the days remaining in the current billing cycle.
+* If you add seats mid-cycle, the seat price is **prorated** for the days remaining in the current billing cycle.
 
 <details>
 
@@ -65,37 +68,33 @@ For example, if you add a seat halfway through the month, you are charged only f
 
 </details>
 
-* Each extra seat adds **Additional Seat Credits** to your monthly total. Credits are granted in full after payment — even mid-cycle.
+* Each extra seat increases your monthly seat charges and adds additional monthly credits, because Business plans grant credits per seat.
 
-> **Monthly credits = Default monthly credits + Σ(Additional Seat Credits)**
+> **Monthly credits =&#x20;**<mark style="color:$info;">**Number of seats × Price per seat**</mark>
 
 <details>
 
 <summary>Calculation example</summary>
 
-**Business plan includes:** 5 seats and 50,000 default monthly credits
+**Business plan terms:**
 
-\
-**Seat add-on terms:**&#x20;
+* Price per seat: **$25/seat/month**
+* Minimum seats: **3 seats**
+* Billing day: **30th of each month**
 
-* $30 per additional seat / month
-* 10,000 credits per additional seat / month
+**Current billing cycle:** Jun 30 → Jul 29
 
-**Billing day:** 30th of each month
+**Current seats:** 3 seats (already billed for this cycle)
 
-**Jul 10:** You add **3 seats** (days remaining in cycle: **21/30**)
+**Jul 10:** You add **2 seats** (days remaining: **20/30**)
 
-* Prorated charge (charged immediately): `3 × $30 × 21/30 = $63`
-* Additional Seat Credits (granted in full, not prorated): `3 × 10,000 = 30,000 credits`
+1.  **Prorated charge for added seats (charged immediately):**
 
-**Next renewal (Jul 30)**
-
-* **Workspace total seats:** `5 (included) + 3 (added) = 8 seats`
-* **Monthly charges:**
-  * Base Business subscription (includes 5 seats): **$200/month**
-  * 3 additional seats × $30: **$90/month**
-  * **Total monthly seat charges:** **$290/month** _(taxes may apply)_
-* **Monthly credits:** `50,000 + (3 × 10,000) = 80,000 credits/month`
+    `2 seats × $25 × 20/30 = $33.33` (rounded to the nearest cent on your invoice)
+2. **Next renewal (Jul 30):**
+   * **Workspace total seats:** `3 (existing) + 2 (added) = 5 seats`
+   * **Monthly seat charges:** `5 seats × $25 = $125/month` _(excluding applicable taxes)_
+   * **Monthly credits:** increase in proportion to the total number of seats; with 5 seats, your workspace receives more monthly credits than it did with 3 seats, because credits are allocated per seat on the Business plan.
 
 </details>
 
@@ -118,6 +117,7 @@ Doraverse uses three credit types. They are used in this order: **Free credit �
 ### **Monthly Credit**
 
 * Included with your subscription plan.
+* The amount of monthly credits depends on your current plan (Starter, Pro, or Business). See details on the [Pricing page](https://doraverse.com/pricing).
 * Reset at the start of each billing cycle. Unused monthly credits don’t roll over.
 
 ### **Prepaid Credit**
@@ -148,9 +148,10 @@ Workspace Owner and Billing role can switch plans any time. Before confirming, r
 ### **Moving to an Individuals plan**
 
 * **Seats & members:** The person who confirms the plan change remains in the workspace (as Owner); all other members are removed immediately and lose access. The workspace seat count is set to 1.
-* **Admin access:**&#x20;
-  * Access to Reporting (user activity, model usage) is removed.
-  * Budget limitations and related settings are deleted.
+* **Admin access & workspace management:**
+  * Advanced workspace management features such as **Workspace management system, Role-based permissions, Team Members, Custom branding, Department management, and Custom domain** are removed.
+  * You **still keep access to the Report dashboard** (model, user, and credit usage), but it is limited to your individual activity and workspace usage.
+  * Any team- or department-based configurations tied to these removed features will no longer be available.
 * **Billing:** Charge applies immediately. Mid-cycle changes are prorated for the remaining days; any unused amount is credited to your account balance and applied to your next invoice.
 * **Credits:** Monthly credits reset to the new plan. Prepaid/free credits remain.
 
@@ -182,7 +183,15 @@ All payments are handled securely by **Stripe**. Doraverse does not store sensit
 
 ### **Pricing and taxes**&#x20;
 
-All prices are shown and charged in **USD**. Taxes are added at checkout based on your billing address.
+All prices are shown and charged in **USD**. Plan prices are **exclusive of tax** — any applicable tax is added at checkout based on your billing address.
+
+For common billing countries:
+
+* **Vietnam: Tax rate 10%**
+* **Japan: Tax rate 10%**
+* **United Kingdom (UK): Tax rate 20%**
+
+The exact tax amount is calculated and displayed before you confirm payment.
 
 ### Failed payments
 
