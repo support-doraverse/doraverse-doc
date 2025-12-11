@@ -1,9 +1,8 @@
 ---
-description: Reduce bias, blind spots, and get a stronger, more trusted answer every time.
 icon: messages
 ---
 
-# Copy of AI Debate
+# AI Parallel
 
 ## What is Parallel in Doraverse?
 
@@ -11,7 +10,7 @@ Parallel is a fast way to work with multiple AI models in Doraverse — all at t
 
 Instead of debating with each other, the models respond **independently** to the same prompt. You get several different answers in one go, without having to ask each model separately.
 
-While **Debate** lets models read, challenge, and refine each other’s answers to reach a stronger conclusion, **Parallel** focuses on giving you **separate, independent responses** from each model. If you want a multi-step discussion between models instead, learn more in [AI Debate.](https://help.doraverse.com/feature-list/ai-debate)
+While **Debate** lets models read, challenge, and refine each other’s answers to reach a stronger conclusion, **Parallel** focuses on giving you **separate, independent responses** from each model. If you want a multi-step discussion between models instead, learn more in [AI Debate](ai-debate.md).
 
 Parallel is designed for users who want **quick comparison, diverse options, and independent viewpoints** from multiple models in their day-to-day work.
 
