@@ -228,19 +228,4 @@ Those members will immediately have access to the meeting note in Doraverse.
 
 ***
 
-### Copy notes or transcript
-
-Use this when you want to reuse content or paste it into documents and tools such as Slack, Notion, or email.
-
-#### How to copy notes or transcript
-
-1. Open the meeting.
-2. Click the **••• (More)** menu.
-3. Select:
-   * **Copy transcript** — copy full text of the meeting
-   * **Copy notes** — copy the structured recap only
-4. Paste it wherever you need.
-
-Ready to try? Open AI Notetaker and let the notes write themselves.
-
 Ready to try? Open AI Notetaker and let the notes write themselves.
