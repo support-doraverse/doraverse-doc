@@ -16,4 +16,4 @@ description: >-
 
 * **Set Workspace Credit Limits:** This helps manage overall AI expenditure and keeps organization-wide usage within budget. Enter the desired daily and monthly credit limits for your entire workspace.
 * **Set Member Credit Limits:** This ensures individual users do not exceed allowed credit, providing granular control over usage. Enter the daily and monthly credit limits for each member.
-* Click **Save** to apply\
+* Click **Save** to apply<br>

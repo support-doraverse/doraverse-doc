@@ -20,15 +20,17 @@ icon: comment-dots
 
 ## Create New Chat
 
-At the main screen, find the **New Chat** icon at the top left corner, next the models dropdown.&#x20;
+From the left navigation bar, click **New chat** to start a new conversation.
 
-A new, blank chat window will open. Choose your model and start typing.
+* When the conversation sidebar is collapsed, use the left navigation bar and click the **second icon from the bottom** to open a new chat.
 
-<figure><img src="../.gitbook/assets/New Chat.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-If you open the **Conversation Sidebar** (the button next to your logo), the **New Chat** button will move into it, located next to Search Message bar.
+* When the conversation sidebar is expanded, simply click New chat at the top of the list.
 
-<figure><img src="../.gitbook/assets/New Chat_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+A new blank chat will open. Choose your model and start typing your message.
 
 ***
 
@@ -36,9 +38,9 @@ If you open the **Conversation Sidebar** (the button next to your logo), the **N
 
 Instantly switch between powerful AI models to get the best response for every task — writing, coding, searching, and more.
 
-At the top-left corner of the chat screen, click the dropdown menu to view available LLM models and version. Each model comes with a brief description of its strengths and ideal uses, making it easy to choose the right one for your needs.
+At the bottom-right corner of the prompt input bar, click the model dropdown to view available LLM models and versions. Each model includes a brief description of its strengths and ideal use cases, so you can quickly choose the one that best fits your needs.
 
-<figure><img src="../.gitbook/assets/Choose Model to chat (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 💡 **Tip:**\
 Not sure which model to use? Try several for the same question and see which gives you the results you like best.&#x20;
@@ -51,18 +53,18 @@ For even more details, visit our [**Available AI Model**](https://doraverse.gitb
 
 The Chat Toolbar offers a powerful set of tools and shortcuts to help you interact seamlessly with the AI Models. Here’s a quick overview of each button available in the Doraverse's chat bar:
 
-### 📎 Upload File (+)
+### Upload File (📎)
 
-Easily upload and share files with AI in chat to support your conversations. Click the plus (+) icon in your chat toolbar to access two options:
+Easily upload and share files with AI in chat to support your conversations. Click the  (📎) icon in your chat toolbar to access two options:
 
 * **Upload from computer:** Choose files stored locally on your device.
-* **Connect to Google Drive:** Select files directly from your Google Drive for instant integration.
+* **Connect to Google Drive:** Select files directly from your Google Drive for instant integration.<br>
 
-<figure><img src="../.gitbook/assets/Connect to GG Drive.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 #### How to connect your Google Drive to Doraverse:
 
-* Option 1: In the chat bar, click on (+) icon and select **Connect to Google Drive**.
+* Option 1: In the chat bar, click on (📎) icon and select **Connect to Google Drive**.
 * Option 2: Go to **Account** -> **Settings** -> **Connected apps** -> Find **Google Drive** and click **Connect**.
 
 After selecting Google Drive, you may be prompted to sign in and enable Doraverse access.
@@ -72,15 +74,6 @@ After selecting Google Drive, you may be prompted to sign in and enable Doravers
 Once access is granted, you’ll be able to browse and pick files directly from your Google Drive within the chat.
 
 <figure><img src="../.gitbook/assets/Connect GG Drive_2.png" alt=""><figcaption></figcaption></figure>
-
-### 💬 Prompt **Library** ( / )&#x20;
-
-Press or type “/” to quickly insert prompts by command or name.\
-**To learn more, see our** [**Prompt Library Feature**](https://doraverse.gitbook.io/docs/feature-list/prompt-library)**.**
-
-### ⬆️ Send **Message**
-
-Press the arrow button to send your message and receive a response from the AI.
 
 ***
 
@@ -116,17 +109,15 @@ Have the AI read the response aloud, convenient for multitasking or accessibilit
 
 #### **6. Branch from This**
 
-When you choose Branch from This, you’re starting a new conversation path from a specific message, lets you explore new ideas from any point.\
-You will have three **Fork options** to decide how much of the chat you want to include in your new branch:
+When you choose **Branch from This**, you’re starting a new conversation path from a specific message, letting you explore new ideas from any point in the chat.
 
-* **Visible messages only:** Adds just the direct conversation leading to your selected message.
-* **Include related branches:** Includes additional side discussions connected to that part of the conversation.
-* **Include all to/from here:** Brings in the entire conversation history and all related branches, giving you complete context.
+When you branch from a message, a **new conversation** is created that includes **all messages from the beginning of the chat up to the selected message**. Messages after that point are not included in the new conversation, so you can explore a different direction while keeping the original thread unchanged.
 
-**Additional Settings:**
+This gives you:
 
-* **Start Fork Here:** When checked, branching starts from the selected message and includes all subsequent messages based on the chosen option above.
-* **Remember:** Saves your branching preferences for future use, making it faster to fork conversations according to your preferred settings.
+* A clean, focused conversation that stops exactly at the message you chose.
+* Full context leading up to that point, so no important information is lost.
+* The freedom to try alternative prompts, instructions, or ideas from a meaningful checkpoint in the conversation.
 
 ***
 
@@ -154,6 +145,12 @@ You can choose to hide or show the Conversation Sidebar at any time by clicking 
 
 Enter a keyword to instantly see related messages and conversations. Quickly find any information you need.
 
+### 🔁 Automation
+
+Put repetitive work on autopilot with AI‑powered workflows. Use Automation to connect your everyday tools, schedule recurring tasks, and let AI handle them for you in the background — no coding required.
+
+**See** [**AI Automation**](https://help.doraverse.com/feature-list/ai-automation) for a full guide on how to set up and manage your automations.
+
 ### 📂 Projects
 
 Easily keep chats, files, and custom instructions in one place. Use Projects to stay on top of ongoing tasks or simply to keep your workspace tidy and efficient.
@@ -174,3 +171,4 @@ Click the three-dot menu next to a conversation title to access useful actions:
 * **Archive Conversation:** Move the chat out of your main view without deleting it, keeping your workspace clutter-free.\
   To find **Archive Conversation:** Go to **Account → Settings → General** **→** **Archived Chats** and click the **Manage** button next to it.
 * **Delete Conversation:** Permanently remove the conversation if it’s no longer needed.
+

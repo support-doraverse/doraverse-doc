@@ -39,8 +39,7 @@ Debate improves clarity and decision-making in many situations:
 ## How to use Debate in Doraverse
 
 1.  **Choose Debate in the chat bar.** \
-    Select the AI models in the order you want them to debate. The order you choose decides the order of responses.\
-
+    Select the AI models in the order you want them to debate. The order you choose decides the order of responses.<br>
 
     <figure><img src="../.gitbook/assets/Choose Debate.png" alt=""><figcaption></figcaption></figure>
 2.  **Write the topic or problem that needs multi-perspective analysis**\

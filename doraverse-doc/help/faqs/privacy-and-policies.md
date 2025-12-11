@@ -40,9 +40,8 @@ Access to your workspace data is strictly limited to authorized team members and
 
 ***
 
-**What happens to my data if I delete my account or workspace?**\
-
-
+**What happens to my data if I delete my account or workspace?**<br>
+--------------------------------------------------------------------
 
 If you choose to delete your account or workspace, your data will be permanently removed from our systems within **30 days**, unless otherwise required by law.
 

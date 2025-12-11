@@ -54,4 +54,4 @@ If you’re having trouble logging in, here are some steps to help resolve commo
 
 Yes, as a workspace member, you can update your personal information such as your display name and avatar in your account settings. However, your department assignment is managed by your workspace admin and cannot be changed by individual members.
 
-For detailed instructions, see our [**User's Account Management**](https://doraverse.gitbook.io/docs/getting-started/account-management) guide.\
+For detailed instructions, see our [**User's Account Management**](https://doraverse.gitbook.io/docs/getting-started/account-management) guide.<br>
