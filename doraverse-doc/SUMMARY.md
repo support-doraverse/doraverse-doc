@@ -7,7 +7,7 @@
 ***
 
 * [🚀 Getting Started](getting-started/README.md)
-  * [What is Doraverse?](getting-started/what-is-doraverse.md)
+  * [Doraverse Introduction](getting-started/what-is-doraverse.md)
   * [Log in to your Workspace](getting-started/log-in-to-your-workspace.md)
   * [User Profile](getting-started/user-profile.md)
   * [Account Setting](getting-started/account-setting.md)
