@@ -24,7 +24,7 @@
       * [Code Interpreter](feature-list/ai-agents/agents-capabilities/code-interpreter.md)
       * [Artifact](feature-list/ai-agents/agents-capabilities/artifact.md)
   * [AI Integration](feature-list/ai-integration.md)
-  * [AI Automation](feature-list/ai-automation.md)
+  * [AI Scheduled Tasks](feature-list/ai-scheduled-tasks.md)
   * [AI Notetaker](feature-list/ai-notetaker.md)
   * [Project](feature-list/project.md)
   * [Deep Research](feature-list/deep-research.md)

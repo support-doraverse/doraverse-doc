@@ -10,84 +10,69 @@ Doraverse supports a growing collection of top-tier LLMs, allowing you to choose
 
 {% tabs %}
 {% tab title="ChatGPT Pro" %}
-### **GPT-5 Chat**
+### **GPT-5.2 Instant**
 
-GPT-5 model used in ChatGPT.
+OpenAI's most-used model for daily tasks.
+
+### **GPT-5.2 Thinking**
+
+OpenAI's advanced reasoning model.
 
 ### **GPT-5 Mini**
 
-A faster, cost-efficient version of GPT-5 for well-defined tasks.
+Fast, cost-efficient for well-defined tasks & precise prompts.
 
-### **GPT-5 Thinking**
+### **GPT-5.1 Codex**
 
-Version of GPT-5 that produces smarter and more precise responses.
-
-### **GPT-4.1**&#x20;
-
-Smartest non-reasoning model of OpenAI.
+Optimized for long-running agentic coding with a steerable style
 {% endtab %}
 
 {% tab title="Claude Pro" %}
+### **Claude Opus 4.5**
+
+Anthropic best model in the world for coding, agents, and computer use.
+
 ### **Claude Sonnet 4.5**
 
-Anthropic best model for complex agents and coding, with the highest intelligence across most tasks
+Anthropic's strongest model for building complex agents and coding.
 
 ### **Claude Haiku 4.5**
 
-Anthropic fastest and most intelligent Haiku model with near-frontier performance. The first Haiku model with extended thinking.
-
-### **Claude Sonnet 4**
-
-Anthropic optimized model for everyday development tasks with enhanced performance, such as powering code reviews, implementing bug ﬁxes, and new feature development.
+Anthropic fastest and most intelligent Haiku model with near-frontier performance.
 {% endtab %}
 
 {% tab title="Gemini Advanced" %}
-## Thinking Model
+### **Gemini 3 Pro**
 
-### Gemini 2.5 Pro&#x20;
+Google’s best agentic & vibe-coding model.
 
-Google's most advanced model.\
-Capable of reasoning over complex problems in code, math, and STEM, as well as analyzing large datasets, codebases, and documents using long context.
+### **Gemini 3 Flash**
 
-### Gemini 2.5 Flash
+A speed-optimized Gemini model, ideal for fast search & Google integration's assistants.
 
-Google's best model in terms of price-performance, offering well-rounded capabilities.&#x20;
+### **Gemini 3 Deep Thinking**
 
-2.5 Flash is best for large scale processing, low-latency, high volume tasks that require thinking, and agentic use cases.
+Google’s advanced reasoning model, excelling in deep thought for complex logic, math, and coding tasks.
 {% endtab %}
 
 {% tab title="SuperGrok" %}
-### Grok 4
+### **Grok 4.1 Fast**
 
-The most intelligent model in the world from xAI. It includes native tool use and real-time search integration.
+xAI’s fastest, most cost‑efficient model, optimized for real‑time web & X search.
 
-### Grok 3&#x20;
+### **Grok 4.1 Fast Thinking**
 
-Enterprise-grade for coding, data, summaries & domain knowledge
-
-### Grok 3 Mini (with Thinking)
-
-Fast, smart, lightweight reasoning for logic-based tasks
+xAI’s most creative, emotionally intelligent & capable model, featuring advanced agentic reasoning.
 {% endtab %}
 
-{% tab title="Mistral" %}
-### Mistral Medium 3
+{% tab title="DeepSeek" %}
+### **Deepseek Chat**
 
-A new class of models that balances with SOTA performance, 8X lower cost and simpler deployability to accelerate enterprise usage.
+Deepseek's multilingual conversational model designed for efficient standard chat.
 
-### Mistral Large
+### **Deepseek Reasoner**
 
-Mistral Large is significantly capable in code generation, mathematics, and reasoning. It also provides a much stronger multilingual support, and advanced function calling capabilities.
-{% endtab %}
-
-{% tab title="LLama" %}
-### Llama 4 Maverick
-
-Industry-leading natively multimodal model for image and text understanding with groundbreaking intelligence and fast responses at a low cost.
-
-### Llama 4 Scout
-
-Class-leading natively multimodal model that offers superior text and visual intelligence, a 10M context window for seamless long document analysis.
+DeepSeek's reasoning model that delivers faster, transparent multi-step thinking.
 {% endtab %}
 {% endtabs %}
 
@@ -98,6 +83,10 @@ Class-leading natively multimodal model that offers superior text and visual int
 ### Nano Banana (Gemini 2.5 Flash **Images)**
 
 Google's state-of-the-art image generation and editing model.&#x20;
+
+### **Nano Banana Pro**
+
+Google's state-of-the-art image generation and editing model.
 {% endtab %}
 
 {% tab title="ByteDance" %}
